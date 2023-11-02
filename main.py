@@ -1,5 +1,4 @@
 from os.path import exists
-from os import mkdir
 from datetime import date
 from urllib.parse import urlparse
 import feedparser
@@ -39,8 +38,5 @@ if __name__ == "__main__":
     else:
         print("[ERROR] Feedfile Missing.")
     
-    if not exists("news"):
-        mkdir("news")
-    
-    with open("news/%s.md" % today.strftime("%Y-%m-%d"), "w") as outfile:
+    with open("current.md", "w") as outfile:
         outfile.write("\n".join(out))

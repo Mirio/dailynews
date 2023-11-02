@@ -1,0 +1,32 @@
+name: Generate Feed
+on:
+  schedule:
+    - cron: '0 9 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env: 
+      CI_COMMIT_MESSAGE: Adding daily news
+      CI_COMMIT_AUTHOR: GitHub Actions
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: pip
+        cache-dependency-path: requirements.txt
+
+    - name: Install Dependencies and run
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        python3 main.py
+
+    - name: Git Commit
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "mirio@users.noreply.github.com"
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
