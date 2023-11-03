@@ -29,7 +29,6 @@ class DailyNews:
     def generate_markdown(self):
         for item in feedparser.parse(self.url)["entries"]:
             if item.updated_parsed >= today.timetuple():
-                print(item)
                 desc = self.cleanup_summary(item.summary)
                 self.out.append("## %s" % item.title)
                 if desc:
