@@ -1,1 +1,5 @@
 http://rss.slashdot.org/Slashdot/slashdotMain
+https://lifehacker.com/rss
+https://feeds.feedburner.com/TechCrunch
+https://www.theverge.com/rss/index.xml
+https://news.ycombinator.com/rss
