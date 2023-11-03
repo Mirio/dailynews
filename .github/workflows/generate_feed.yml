@@ -1,7 +1,7 @@
 name: Generate Feed
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '15 8 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
