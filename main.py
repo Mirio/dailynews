@@ -20,7 +20,7 @@ class DailyNews:
             return False
     
     def cleanup_summary(self, msg):
-        msgout = msg.summary[0:200].replace("`", "")
+        msgout = msg[0:200].replace("`", "")
         if msgout.startswith("<"):
             return ""
         else:
@@ -29,8 +29,11 @@ class DailyNews:
     def generate_markdown(self):
         for item in feedparser.parse(self.url)["entries"]:
             if item.updated_parsed >= today.timetuple():
+                print(item)
+                desc = self.cleanup_summary(item.summary)
                 self.out.append("## %s" % item.title)
-                self.out.append("```%s```\n" % self.cleanup_summary(item.summary))
+                if desc:
+                    self.out.append("```%s```\n" % desc)
                 self.out.append("Link: [Click](%s)\n" % item.links[0]["href"])
         return self.out
 
