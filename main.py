@@ -18,12 +18,19 @@ class DailyNews:
             return True
         else:
             return False
+    
+    def cleanup_summary(self, msg):
+        msgout = msg.summary[0:200].replace("`", "")
+        if msgout.startswith("<"):
+            return ""
+        else:
+            return msgout
 
     def generate_markdown(self):
         for item in feedparser.parse(self.url)["entries"]:
             if item.updated_parsed >= today.timetuple():
                 self.out.append("## %s" % item.title)
-                self.out.append("```%s```\n" % item.summary[0:200])
+                self.out.append("```%s```\n" % self.cleanup_summary(item.summary))
                 self.out.append("Link: [Click](%s)\n" % item.links[0]["href"])
         return self.out
 

@@ -3,3 +3,6 @@ https://lifehacker.com/rss
 https://feeds.feedburner.com/TechCrunch
 https://www.theverge.com/rss/index.xml
 https://news.ycombinator.com/rss
+http://feeds.arstechnica.com/arstechnica/index
+https://netflixtechblog.com/feed
+https://technology.riotgames.com/news/feed
