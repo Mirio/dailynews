@@ -11,7 +11,12 @@ class DailyNews:
         self.out = []
         self.is_available = self.is_validurl(url)
         self.url = url
-    
+        self.sitename = self.get_sitename(url)
+
+    def get_sitename(self, url):
+        inputurl = urlparse(url)
+        return inputurl.netloc.split(".")[-2].title()
+
     def is_validurl(self, url):
         inputurl = urlparse(url)
         if all([inputurl.scheme, inputurl.netloc]):
@@ -27,13 +32,14 @@ class DailyNews:
             return msgout
 
     def generate_markdown(self):
-        for item in feedparser.parse(self.url)["entries"]:
-            if item.updated_parsed >= today.timetuple():
-                desc = self.cleanup_summary(item.summary)
-                self.out.append("## %s" % item.title)
-                if desc:
-                    self.out.append("```%s```\n" % desc)
-                self.out.append("Link: [Click](%s)\n" % item.links[0]["href"])
+        if self.is_available:
+            for item in feedparser.parse(self.url)["entries"]:
+                if item.updated_parsed >= today.timetuple():
+                    desc = self.cleanup_summary(item.summary)
+                    self.out.append("## [%s] %s" % (self.sitename, item.title))
+                    if desc:
+                        self.out.append("```\n%s\n```\n" % desc)
+                    self.out.append("Link: [Click](%s)\n" % item.links[0]["href"])
         return self.out
 
 

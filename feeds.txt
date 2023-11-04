@@ -1,8 +1,11 @@
-http://rss.slashdot.org/Slashdot/slashdotMain
-https://lifehacker.com/rss
+https://aws.amazon.com/it/about-aws/whats-new/recent/feed/
+https://feeds.arstechnica.com/arstechnica/index
 https://feeds.feedburner.com/TechCrunch
-https://www.theverge.com/rss/index.xml
-https://news.ycombinator.com/rss
-http://feeds.arstechnica.com/arstechnica/index
+https://lifehacker.com/rss
 https://netflixtechblog.com/feed
+https://news.ycombinator.com/rss
+https://rss.slashdot.org/Slashdot/slashdotMain
+https://techcrunch.com/feed/
 https://technology.riotgames.com/news/feed
+https://www.theregister.com/headlines.atom
+https://www.theverge.com/rss/index.xml
