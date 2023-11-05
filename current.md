@@ -1,52 +1,64 @@
-## NASA Open To Extending ISS Beyond 2030
-```Jeff Foust reports via SpaceNews: A NASA official opened the door to keeping the International Space Station in operation beyond 2030 if commercial space stations are not yet ready to take over by the```
+## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Sunday, November 5, 2023
+Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 
-Link: [Click](https://science.slashdot.org/story/23/11/03/235229/nasa-open-to-extending-iss-beyond-2030?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] The First App Store
+Link: [Click](https://one-from-nippon.ghost.io/worlds-first-app-store/)
 
-## Leap Seconds Could Become Leap Minutes
-```An anonymous reader quotes a report from the New York Times: Later this month, delegations from around the world will head to a conference in Dubai to discuss international treaties involving radio fr```
+## [Ycombinator] Topic: Discord Stealer
+Link: [Click](https://github.com/topics/discord-stealer)
 
-Link: [Click](https://science.slashdot.org/story/23/11/03/2052206/leap-seconds-could-become-leap-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] SigNoz (YC W21), open source observability platform, hiring SREs (Remote)
+Link: [Click](https://signoz.io/careers/site-reliability-engineer/)
 
-## VW Group's Troubled Cariad Software Division To Lay Off 2,000 Workers
-```According to Germany's Manager Magazin, Volkswagen's board has approved laying off 2,000 employees in the Cariad software unit as part of the latest restructuring intended to right the digital ship. A```
+## [Ycombinator] Shadows Edge Software
+Link: [Click](https://www.shadowsedge.mil/What-We-Do/)
 
-Link: [Click](https://tech.slashdot.org/story/23/11/03/2250223/vw-groups-troubled-cariad-software-division-to-lay-off-2000-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] The world nearly adopted a calendar with 13 months of 28 days
+Link: [Click](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 
-## Microsoft Commits To 6 Years of Firmware Updates For New and Some Older Surface PCs
-```Microsoft has updated its Surface support documentation, committing to supporting some Surface Pcs with six years of firmware updates -- up from the four years it originally offered. Windows Central r```
+## [Ycombinator] LLM companies to access largest Chinese non-fiction book collection
+Link: [Click](https://annas-blog.org/duxiu-exclusive.html)
 
-Link: [Click](https://tech.slashdot.org/story/23/11/03/2244217/microsoft-commits-to-6-years-of-firmware-updates-for-new-and-some-older-surface-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] Soda additive linked to thyroid toxicity may finally get banned by FDA
+Link: [Click](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
 
-## Today’s NYT Connections Hints (and Answer) for Saturday, November 4, 2023
-Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
+## [Ycombinator] BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit
+Link: [Click](https://github.com/beeware/toga/releases/tag/v0.4.0)
 
-## AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor
-Link: [Click](https://www.xilinx.com/products/design-tools/microblaze-v.html)
+## [Ycombinator] Grok
+Link: [Click](https://twitter.com/xai/status/1721027348970238035)
 
-## Post Mortem on Cloudflare Control Plane and Analytics Outage
-Link: [Click](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+## [Ycombinator] SpaceX poised for 'mid-November' launch of second Starship test flight
+Link: [Click](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
 
-## Telling GPT-4 you're scared or under pressure improves performance
-Link: [Click](https://aimodels.substack.com/p/telling-gpt-4-youre-scared-or-under)
+## [Ycombinator] Max is taking 4K away from its legacy ad-free subscribers
+Link: [Click](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 
-## Maersk to cut 10k jobs as shipping demand drops
-Link: [Click](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
+## [Slashdot] 'Stupid' Daylight Saving Time Ritual Continues.  But Why?
+```
+Many Americans want to abolish Daylight Saving Time, reports NBC News:
+Since 2018, nearly all states have passed or entertained legislation that would drop the twice-a-year time shift. And 19 states h
+```
 
-## CPU-Z's Inadequate Benchmark
-Link: [Click](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
+Link: [Click](https://yro.slashdot.org/story/23/11/05/031203/stupid-daylight-saving-time-ritual-continues-but-why?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Apple Spent $1B on the M3 Tape-Out, Says Analyst
-Link: [Click](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
+## [Slashdot] Aussies Angry Over Being Asked to Use QR Codes at Restaurants
+```
+Long-time Slashdot reader smooth wombat writes:
 
-## Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction
-Link: [Click](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
+: A recent social media post by an Aussie received a deluge of replies and comments. His comment? "I'm so f***ing tired of 'tech' being used to solve a
+```
 
-## Mozilla tells extension developers to get ready to finally go mobile
-Link: [Click](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
+Link: [Click](https://slashdot.org/story/23/11/04/2213238/aussies-angry-over-being-asked-to-use-qr-codes-at-restaurants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## As YouTube declares war on ad blockers, Google sponsors ad blocking conference
-Link: [Click](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
+## [Slashdot] A SpaceX 'Falcon 9' Booster Rocket Has Launched 18 Times Successfully, a New Record
+```
+Ars Technica reports:
 
-## Large-scale violence in Late Neolithic Western Europe based on skeletal evidence
-Link: [Click](https://www.nature.com/articles/s41598-023-43026-9)
+In three-and-a-half years of service, one of SpaceX's reusable Falcon 9 boosters stands apart from the rest of the company's rocket inventory. This booster, designated with the 
+```
+
+Link: [Click](https://science.slashdot.org/story/23/11/04/2127217/a-spacex-falcon-9-booster-rocket-has-launched-18-times-successfully-a-new-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Theregister] OpenELA flips Red Hat the bird with public release of Enterprise Linux source
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/03/openela_enterprise_linux_source/)
