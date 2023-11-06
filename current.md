@@ -1,64 +1,63 @@
-## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Sunday, November 5, 2023
-Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
+## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Monday, November 6, 2023
+Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 
-## [Ycombinator] The First App Store
-Link: [Click](https://one-from-nippon.ghost.io/worlds-first-app-store/)
+## [Ycombinator] Racket branch of Chez Scheme merging with mainline Chez Scheme
+Link: [Click](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 
-## [Ycombinator] Topic: Discord Stealer
-Link: [Click](https://github.com/topics/discord-stealer)
+## [Ycombinator] Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle
+Link: [Click](https://github.com/theori-io/nrsc5)
 
-## [Ycombinator] SigNoz (YC W21), open source observability platform, hiring SREs (Remote)
-Link: [Click](https://signoz.io/careers/site-reliability-engineer/)
+## [Ycombinator] milliForth
+Link: [Click](https://github.com/fuzzballcat/milliForth)
 
-## [Ycombinator] Shadows Edge Software
-Link: [Click](https://www.shadowsedge.mil/What-We-Do/)
+## [Ycombinator] Kai Fu Lee's New AI Company: Yi-Open Source
+Link: [Click](https://www.01.ai/en)
 
-## [Ycombinator] The world nearly adopted a calendar with 13 months of 28 days
-Link: [Click](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
+## [Ycombinator] Show HN: LLaVaVision: An AI "Be My Eyes"-like web app with a llama.cpp backend
+Link: [Click](https://github.com/lxe/llavavision)
 
-## [Ycombinator] LLM companies to access largest Chinese non-fiction book collection
-Link: [Click](https://annas-blog.org/duxiu-exclusive.html)
+## [Ycombinator] Men's Shed
+Link: [Click](https://en.wikipedia.org/wiki/Men%27s_shed)
 
-## [Ycombinator] Soda additive linked to thyroid toxicity may finally get banned by FDA
-Link: [Click](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
+## [Ycombinator] Show HN: Jeeves – A Pythonic Alternative to GNU Make
+Link: [Click](https://jeeves.sh)
 
-## [Ycombinator] BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit
-Link: [Click](https://github.com/beeware/toga/releases/tag/v0.4.0)
-
-## [Ycombinator] Grok
-Link: [Click](https://twitter.com/xai/status/1721027348970238035)
-
-## [Ycombinator] SpaceX poised for 'mid-November' launch of second Starship test flight
-Link: [Click](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
-
-## [Ycombinator] Max is taking 4K away from its legacy ad-free subscribers
-Link: [Click](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
-
-## [Slashdot] 'Stupid' Daylight Saving Time Ritual Continues.  But Why?
+## [Slashdot] How Red Hat Divided the Open Source Community
 ```
-Many Americans want to abolish Daylight Saving Time, reports NBC News:
-Since 2018, nearly all states have passed or entertained legislation that would drop the twice-a-year time shift. And 19 states h
+In Raleigh, North Carolina &mdash; the home of Red Hat &mdash; local newspaper the News &amp; Observer takes an in-depth look at the "announcement that split the open source software community." (Alte
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/11/05/031203/stupid-daylight-saving-time-ritual-continues-but-why?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://linux.slashdot.org/story/23/11/06/0153203/how-red-hat-divided-the-open-source-community?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Aussies Angry Over Being Asked to Use QR Codes at Restaurants
+## [Slashdot] Maine Considers Giving the Boot To Corporate Electric Utilities
 ```
-Long-time Slashdot reader smooth wombat writes:
+The state of Maine is "poised to vote on an unprecedented plan to rid themselves of the state's two largest electric utilities and start with a clean slate," reports the Associated Press:
 
-: A recent social media post by an Aussie received a deluge of replies and comments. His comment? "I'm so f***ing tired of 'tech' being used to solve a
-```
-
-Link: [Click](https://slashdot.org/story/23/11/04/2213238/aussies-angry-over-being-asked-to-use-qr-codes-at-restaurants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] A SpaceX 'Falcon 9' Booster Rocket Has Launched 18 Times Successfully, a New Record
-```
-Ars Technica reports:
-
-In three-and-a-half years of service, one of SpaceX's reusable Falcon 9 boosters stands apart from the rest of the company's rocket inventory. This booster, designated with the 
+The propose
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/04/2127217/a-spacex-falcon-9-booster-rocket-has-launched-18-times-successfully-a-new-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://hardware.slashdot.org/story/23/11/06/0111239/maine-considers-giving-the-boot-to-corporate-electric-utilities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] OpenELA flips Red Hat the bird with public release of Enterprise Linux source
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/03/openela_enterprise_linux_source/)
+## [Slashdot] Scientists Think They've Found 'Blobs' From Planet that Collided with Earth to Form the Moon
+```
+"Slabs of material from an ancient extraterrestrial planet are hidden deep within the Earth," argues a new scientific theory (as described by CNN). 
+
+"Scientists widely agree that an ancient planet li
+```
+
+Link: [Click](https://science.slashdot.org/story/23/11/06/0049251/scientists-think-theyve-found-blobs-from-planet-that-collided-with-earth-to-form-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] In Mamaearth, Peak XV finds its fourth 10x return since Sequoia separation
+Link: [Click](https://techcrunch.com/2023/11/05/in-mamaearth-peak-xv-finds-its-fourth-10x-return-in-six-months/)
+
+## [Theregister] Shock horror – and there goes the network neighborhood
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/06/who_me/)
+
+## [Theregister] Alibaba takes more of Salesforce behind the great firewall
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/06/asia_in_brief/)
+
+## [Theregister] Google ends partnership to build four San Francisco GoogleBurbs
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/03/google_san_francisco_bay_project_cancelled/)
+
+## [Theverge] WhatsApp’s sticker AI is adding guns to prompts for Palestinian children
+Link: [Click](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)
