@@ -34,7 +34,15 @@ class DailyNews:
     def generate_markdown(self):
         if self.is_available:
             for item in feedparser.parse(self.url)["entries"]:
-                if item.updated_parsed >= today.timetuple():
+                is_today = False
+                if "updated_parsed" in item:
+                    if item.updated_parsed >= today.timetuple():
+                        is_today = True
+                if "published_parsed" in item:
+                    if item.published_parsed >= today.timetuple():
+                        is_today = True
+
+                if is_today:
                     desc = self.cleanup_summary(item.summary)
                     self.out.append("## [%s] %s" % (self.sitename, item.title))
                     if desc:
