@@ -1,129 +1,107 @@
-## [Arstechnica] “I cannot wait to possess you”: Reading 18th century letters for the first time
+## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Wednesday, November 8
+Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
+
+## [Ycombinator] Interactive examples for learning jq
+Link: [Click](https://ishan.page/blog/2023-11-06-jq-by-example/)
+
+## [Ycombinator] The bash book to rule them all
+Link: [Click](https://fabiensanglard.net/bash/index.html)
+
+## [Ycombinator] EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation
+Link: [Click](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
+
+## [Ycombinator] Ko: Easy Go Containers
+Link: [Click](https://ko.build/)
+
+## [Ycombinator] Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread
+Link: [Click](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
+
+## [Ycombinator] Antidepressants or Tolkien
+Link: [Click](https://antidepressantsortolkien.vercel.app/)
+
+## [Slashdot] Rockstar Plans To Announce Much Anticipated 'Grand Theft Auto VI'
 ```
-Some things are universal: One sailor's mother chided him for not writing more often.
-```
-
-Link: [Click](https://arstechnica.com/?p=1980839)
-
-## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Tuesday, November 7, 2023
-Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
-
-## [Netflixtechblog] Building In-Video Search
-Link: [Click](https://netflixtechblog.com/building-in-video-search-936766f0017c?source=rss----2615bd06b42e---4)
-
-## [Ycombinator] Do deepfake videos undermine our epistemic trust?
-Link: [Click](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
-
-## [Ycombinator] PostgreSQL Encryption: The Available Options
-Link: [Click](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
-
-## [Ycombinator] WeWork Goes Bankrupt
-Link: [Click](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
-
-## [Ycombinator] Bhutan sterilised and vaccinated 100% of their street dog population
-Link: [Click](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
-
-## [Ycombinator] Bluesky migrates to single-tenant SQLite
-Link: [Click](https://github.com/bluesky-social/atproto/pull/1705)
-
-## [Ycombinator] Collection of "Today I Learned" notes
-Link: [Click](https://github.com/jbranchaud/til)
-
-## [Ycombinator] Apple's Trademark Exploit
-Link: [Click](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
-
-## [Ycombinator] NASA's On-Demand Streaming Service, NASA+ (Official Trailer)
-Link: [Click](https://www.youtube.com/watch?v=TJRiuF8tQJU)
-
-## [Slashdot] Scientist Claims Quantum RSA-2048 Encryption Cracking Breakthrough
-```
-Mark Tyson reports via Tom's Hardware: A commercial smartphone or Linux computer can be used to crack RSA-2048 encryption, according to a prominent research scientist. Dr Ed Gerck is preparing a resea
+Rockstar Games, a division of Take-Two Interactive Software, plans to announce the next highly anticipated Grand Theft Auto game as early as this week, according to Bloomberg. From a report: The compa
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/07/0016204/scientist-claims-quantum-rsa-2048-encryption-cracking-breakthrough?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://games.slashdot.org/story/23/11/08/0715216/rockstar-plans-to-announce-much-anticipated-grand-theft-auto-vi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Parkinson's Patient Able To Walk Again Without Problems After Spinal Implant
+## [Slashdot] Euclid Telescope: First Images Revealed From 'Dark Universe' Mission
 ```
-An anonymous reader quotes a report from The Guardian: Marc, 63, from Bordeaux, France, was diagnosed with the degenerative disease more than 20 years ago and had developed severe mobility problems, i
-```
-
-Link: [Click](https://science.slashdot.org/story/23/11/07/001220/parkinsons-patient-able-to-walk-again-without-problems-after-spinal-implant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] US Military Members' Personal Data Being Sold By Online Brokers, Report Finds
-```
-Jacob Knutson reports via Axios: Sensitive, highly detailed personal data for thousands of active-duty and veteran U.S. military members can be purchased for as little as one cent per name through dat
+AmiMoJo shares a report from the BBC: Europe's Euclid telescope is ready to begin its quest to understand the greatest mysteries in the Universe. Exquisite imagery from the space observatory shows its
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/06/2342239/us-military-members-personal-data-being-sold-by-online-brokers-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/08/0649253/euclid-telescope-first-images-revealed-from-dark-universe-mission?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] California Wants To End Cupertino's Tax Deal With Apple
+## [Slashdot] Scientists Are Researching a Device That Can Induce Lucid Dreams On Demand
 ```
-William Gallagher reports via Appleinsider: In a move similar in principle to how the EU retrospectively sought to fine Apple over its tax agreement with Ireland, the California Department of Tax and 
-```
-
-Link: [Click](https://apple.slashdot.org/story/23/11/06/2352204/california-wants-to-end-cupertinos-tax-deal-with-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Washington DC Gives Residents Free AirTags To Help Track Stolen Cars
-```
-The city of Washington D.C. is planning to give residents Apple AirTags to help officers track down stolen vehicles. PCMag reports: "Last week, we introduced legislation to address recent crime trends
+An anonymous reader quotes a report from Motherboard: [A] new tech startup, Prophetic, aims to bring lucid dreams to a much wider audience by developing a wearable device designed to spark the experie
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/06/2339230/washington-dc-gives-residents-free-airtags-to-help-track-stolen-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/08/008219/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] OpenAI Debuts GPT-4 Turbo That's 'More Powerful' and Less Expensive Than GPT-4
+## [Slashdot] Chamberlain Shuts Off Access To MyQ's APIs, Breaking Smart Home Integrations
 ```
-An anonymous reader quotes a report from TechCrunch: Today at its first-ever developer conference, OpenAI unveiled GPT-4 Turbo, an improved version of its flagship text-generating AI model, GPT-4, tha
+Jennifer Pattison Tuohy reports via The Verge: The Chamberlain Group -- owners of the MyQ smart garage door controller tech -- has announced it's shut off all "unauthorized access" to its APIs. The mo
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/06/2244258/openai-debuts-gpt-4-turbo-thats-more-powerful-and-less-expensive-than-gpt-4?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/23/11/08/001241/chamberlain-shuts-off-access-to-myqs-apis-breaking-smart-home-integrations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Ontario Teachers’ fund backs Indian logistics unicorn Xpressbees in $80 million funding
-Link: [Click](https://techcrunch.com/2023/11/06/indian-logistics-unicorn-xpressbees-in-80-million-funding/)
+## [Slashdot] Intel To Build 'Secure Enclave' Chip Facilities For Defense Applications
+```
+According to the Wall Street Journal, Intel may receive billions in U.S. government funding to build secret facilities that produce microchips for the military. SiliconANGLE reports: The facilities, w
+```
 
-## [Techcrunch] Shein reportedly seeks $90 billion valuation in IPO
-Link: [Click](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
+Link: [Click](https://yro.slashdot.org/story/23/11/07/2352229/intel-to-build-secure-enclave-chip-facilities-for-defense-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Everything announced at OpenAI’s first developer event
-Link: [Click](https://techcrunch.com/2023/11/06/everything-announced-at-openais-first-developer-event/)
+## [Slashdot] Cruise Confirms Robotaxis Rely On Human Assistance Every Four To Five Miles
+```
+Lora Kolodny reports via CNBC: Cruise CEO and founder Kyle Vogt posted comments on Hacker News on Sunday responding to allegations that his company's robotaxis aren't really self-driving, but instead 
+```
 
-## [Techcrunch] GM halts production of Cruise Origin robotaxi amid suspended operations
-Link: [Click](https://techcrunch.com/2023/11/06/gm-halts-production-of-cruise-origin-robotaxi-amid-suspended-operations/)
+Link: [Click](https://tech.slashdot.org/story/23/11/07/2312208/cruise-confirms-robotaxis-rely-on-human-assistance-every-four-to-five-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] The 2025 Ram Ramcharger is an electric truck that gets its EV juice from a gas-powered generator
-Link: [Click](https://techcrunch.com/2023/11/06/the-2025-ram-ramcharger-is-an-electric-truck-that-gets-its-ev-juice-from-a-gas-powered-generator/)
+## [Techcrunch] Gogoro’s Smartscooters can now be unlocked via Apple Wallet
+Link: [Click](https://techcrunch.com/2023/11/07/gogoros-smartscooters-can-now-be-unlocked-via-apple-wallet/)
 
-## [Techcrunch] Mamaearth makes public debut, youngest Indian unicorn to list
-Link: [Click](https://techcrunch.com/2023/11/06/honasa-mamaearth-listing-trading/)
+## [Techcrunch] Instagram is finally testing a feature to let you turn off read receipts for DMs
+Link: [Click](https://techcrunch.com/2023/11/07/instagram-is-finally-testing-a-feature-to-let-you-turn-off-read-receipts-for-dms/)
 
-## [Techcrunch] WeWork, once valued at $47 billion, files for bankruptcy
-Link: [Click](https://techcrunch.com/2023/11/06/wework-once-worth-47-billion-files-for-bankruptcy/)
+## [Techcrunch] Vanguard slashes Ola valuation by 60%-plus; NB reduces Pharmeasy’s by over 90%
+Link: [Click](https://techcrunch.com/2023/11/07/ola-pharmeasy-valuation-vanguard-neuberger-berman/)
 
-## [Techcrunch] Why this autonomous vehicle veteran joined a legged robotics startup
-Link: [Click](https://techcrunch.com/2023/11/06/why-this-autonomous-vehicle-veteran-joined-a-legged-robotics-startup/)
+## [Theregister] Wipro: Get back to the office for three days a week or else
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/wipro_office_return/)
 
-## [Theregister] Vanishing power feeds, UPS batteries, failover fails... Cloudflare explains that two-day outage
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/cloudflare_datacenter_outage/)
+## [Theregister] Major telco outage leaves millions of Australians disconnected
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/internet_phone_train_and_payments/)
 
-## [Theregister] Woo-hoo, UK ahead of Europe in this at least – enterprise IT automation
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/red_hat_survey_automation/)
+## [Theregister] Euclid space 'scope's first color snaps pull back the curtain on cosmic mysteries
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/esa_euclid_telescope/)
 
-## [Theregister] You can buy personal info of US military staff from data brokers for just 12 cents a pop
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/data_brokers_military_data/)
+## [Theregister] US actors are still on strike – and yup, it's about those looming AI clones
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/sagaftra_actors_union_ai/)
 
-## [Theregister] Beijing prepares for imminent rise of humanoid robots
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/beijing_prepares_for_imminent_rise/)
+## [Theregister] Uncle Sam snooping on US folks? Not without a warrant, lawmakers agree
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/section_702_reform_legislation/)
 
-## [Theregister] WhatsApp AI happily added guns to chat stickers of Palestinians, but not Israelis
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/whatsapp_ai_stickers_palestinian/)
+## [Theregister] Google Bard AI contractors unionize amid anger over 'retaliatory' layoffs
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/google_union_nlrb/)
 
-## [Theregister] Woman jailed after Rentahitman.com assassin turned out to be – surprise – FBI
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/hitman_for_hire_jail/)
+## [Theregister] Bing Chat so hungry for GPUs, Microsoft will rent them from Oracle
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/bing_gpu_oracle/)
 
-## [Theregister] You're next, game devs. Now Microsoft to bring character, story design copilot to Xbox
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/06/microsoft_ai_gaming/)
+## [Theregister] Quantum computing next (very) cold war? US House reps want to blow billions to outrun China
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/us_lawmakers_quantum/)
 
-## [Theregister] ICE faces heat after agents install thousands of personal apps, VPNs on official phones
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/06/ice_device_security/)
+## [Theregister] Ventana bumps performance on Veyron RISC-V silicon to surely speed up servers
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/ventana_riscv_server/)
 
-## [Theverge] The WeWork soap opera’s latest episode includes filing for bankruptcy
-Link: [Click](https://www.theverge.com/2023/11/6/23948568/wework-bankruptcy-filing-chapter-11)
+## [Theregister] WeBroke WeWork, WePromise WeFix it: How subleasing giant hopes to survive bankruptcy
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/wework_bankruptcy/)
+
+## [Theregister] Overheating datacenter stopped 2.5 million bank transactions
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
+
+## [Theverge] This smart garage door controller is no longer very smart
+Link: [Click](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
