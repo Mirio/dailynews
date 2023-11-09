@@ -1,107 +1,124 @@
-## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Wednesday, November 8
-Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
-
-## [Ycombinator] Interactive examples for learning jq
-Link: [Click](https://ishan.page/blog/2023-11-06-jq-by-example/)
-
-## [Ycombinator] The bash book to rule them all
-Link: [Click](https://fabiensanglard.net/bash/index.html)
-
-## [Ycombinator] EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation
-Link: [Click](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
-
-## [Ycombinator] Ko: Easy Go Containers
-Link: [Click](https://ko.build/)
-
-## [Ycombinator] Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread
-Link: [Click](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
-
-## [Ycombinator] Antidepressants or Tolkien
-Link: [Click](https://antidepressantsortolkien.vercel.app/)
-
-## [Slashdot] Rockstar Plans To Announce Much Anticipated 'Grand Theft Auto VI'
+## [Arstechnica] In a surprise move, the military’s spaceplane will launch on Falcon Heavy
 ```
-Rockstar Games, a division of Take-Two Interactive Software, plans to announce the next highly anticipated Grand Theft Auto game as early as this week, according to Bloomberg. From a report: The compa
+SpaceX's Falcon Heavy could send the X-37B into a higher orbit than before.
 ```
 
-Link: [Click](https://games.slashdot.org/story/23/11/08/0715216/rockstar-plans-to-announce-much-anticipated-grand-theft-auto-vi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1982469)
 
-## [Slashdot] Euclid Telescope: First Images Revealed From 'Dark Universe' Mission
+## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Thursday, November 9, 2023
+Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
+
+## [Ycombinator] Omegle 2009-2023
+Link: [Click](https://www.omegle.com/)
+
+## [Ycombinator] Using GPT-4 Vision with Vimium to browse the web
+Link: [Click](https://github.com/ishan0102/vimGPT)
+
+## [Ycombinator] Researchers uncover the fastest semiconductor yet
+Link: [Click](https://spectrum.ieee.org/semiconductor)
+
+## [Ycombinator] i386 Assembly Language trick for storing data in .text
+Link: [Click](https://ratfactor.com/cards/asm-data-in-text)
+
+## [Ycombinator] Tested: Black 4.0, the "blackest black" is a lot blacker. 0f1012 vs. 272928
+Link: [Click](https://i.imgur.com/3njfTJP.jpg)
+
+## [Ycombinator] Design Guidelines for Domain Specific Languages
+Link: [Click](https://arxiv.org/abs/1409.2378)
+
+## [Ycombinator] Sony announces a9 III: first full-frame global shutter camera
+Link: [Click](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
+
+## [Ycombinator] A door at a Swedish library was accidentally left open
+Link: [Click](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
+
+## [Slashdot] Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming For Decades
 ```
-AmiMoJo shares a report from the BBC: Europe's Euclid telescope is ready to begin its quest to understand the greatest mysteries in the Universe. Exquisite imagery from the space observatory shows its
+Angela Watercutter and Will Bedingfield report via Wired: After 118 days on the picket lines, the longest such strike in Hollywood's history, the Screen Actors Guild-American Federation of Television 
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/08/0649253/euclid-telescope-first-images-revealed-from-dark-universe-mission?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://entertainment.slashdot.org/story/23/11/09/0625247/hollywood-actors-strike-ends-with-a-deal-that-will-impact-ai-and-streaming-for-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Scientists Are Researching a Device That Can Induce Lucid Dreams On Demand
+## [Slashdot] Meta Taps Hugging Face For Startup Accelerator To Spur Adoption of Open Source AI Models
 ```
-An anonymous reader quotes a report from Motherboard: [A] new tech startup, Prophetic, aims to bring lucid dreams to a much wider audience by developing a wearable device designed to spark the experie
-```
-
-Link: [Click](https://science.slashdot.org/story/23/11/08/008219/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Chamberlain Shuts Off Access To MyQ's APIs, Breaking Smart Home Integrations
-```
-Jennifer Pattison Tuohy reports via The Verge: The Chamberlain Group -- owners of the MyQ smart garage door controller tech -- has announced it's shut off all "unauthorized access" to its APIs. The mo
+An anonymous reader quotes a report from TechCrunch: Facebook parent Meta is teaming up with Hugging Face and European cloud infrastructure company Scaleway to launch a new AI-focused startup program 
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/08/001241/chamberlain-shuts-off-access-to-myqs-apis-breaking-smart-home-integrations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/11/08/2242229/meta-taps-hugging-face-for-startup-accelerator-to-spur-adoption-of-open-source-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Intel To Build 'Secure Enclave' Chip Facilities For Defense Applications
+## [Slashdot] Cruise Recalls All of Its Self Driving Cars To Fix Their Programming
 ```
-According to the Wall Street Journal, Intel may receive billions in U.S. government funding to build secret facilities that produce microchips for the military. SiliconANGLE reports: The facilities, w
-```
-
-Link: [Click](https://yro.slashdot.org/story/23/11/07/2352229/intel-to-build-secure-enclave-chip-facilities-for-defense-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Cruise Confirms Robotaxis Rely On Human Assistance Every Four To Five Miles
-```
-Lora Kolodny reports via CNBC: Cruise CEO and founder Kyle Vogt posted comments on Hacker News on Sunday responding to allegations that his company's robotaxis aren't really self-driving, but instead 
+Long-time Slashdot reader destinyland shares a report from CNN Business: Cruise, General Motors' self-driving vehicle subsidiary, has recalled all 950 of its autonomous vehicles for a software update.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/07/2312208/cruise-confirms-robotaxis-rely-on-human-assistance-every-four-to-five-miles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/23/11/08/2224239/cruise-recalls-all-of-its-self-driving-cars-to-fix-their-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Gogoro’s Smartscooters can now be unlocked via Apple Wallet
-Link: [Click](https://techcrunch.com/2023/11/07/gogoros-smartscooters-can-now-be-unlocked-via-apple-wallet/)
+## [Slashdot] Samsung Launches Generative AI Model Made For Its Devices
+```
+Samsung has beat Apple to the chase by introducing a new generative AI model that's expected to come to its devices soon. The model is called Samsung Gauss after Carl Friedrich Gauss, "the legendary m
+```
 
-## [Techcrunch] Instagram is finally testing a feature to let you turn off read receipts for DMs
-Link: [Click](https://techcrunch.com/2023/11/07/instagram-is-finally-testing-a-feature-to-let-you-turn-off-read-receipts-for-dms/)
+Link: [Click](https://slashdot.org/story/23/11/08/2217236/samsung-launches-generative-ai-model-made-for-its-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Vanguard slashes Ola valuation by 60%-plus; NB reduces Pharmeasy’s by over 90%
-Link: [Click](https://techcrunch.com/2023/11/07/ola-pharmeasy-valuation-vanguard-neuberger-berman/)
+## [Slashdot] Court Rules Automakers Can Record and Intercept Owner Text Messages
+```
+An anonymous reader quotes a report from The Record: A federal judge on Tuesday refused to bring back a class action lawsuit alleging four auto manufacturers had violated Washington state's privacy la
+```
 
-## [Theregister] Wipro: Get back to the office for three days a week or else
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/wipro_office_return/)
+Link: [Click](https://yro.slashdot.org/story/23/11/08/2210257/court-rules-automakers-can-record-and-intercept-owner-text-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Major telco outage leaves millions of Australians disconnected
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/internet_phone_train_and_payments/)
+## [Slashdot] WhatsApp Now Lets You Hide Your IP Address During Calls
+```
+Tim Hardwick reports via MacRumors: WhatsApp has introduced a new privacy feature that lets you hide your IP address from whoever you call over the encrypted communications platform. As it stands, one
+```
 
-## [Theregister] Euclid space 'scope's first color snaps pull back the curtain on cosmic mysteries
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/esa_euclid_telescope/)
+Link: [Click](https://yro.slashdot.org/story/23/11/08/2235203/whatsapp-now-lets-you-hide-your-ip-address-during-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] US actors are still on strike – and yup, it's about those looming AI clones
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/sagaftra_actors_union_ai/)
+## [Slashdot] Robot Crushes Man To Death After Misidentifying Him As a Box
+```
+A robot in a South Korea distribution center crushed a man to death after the machine apparently failed to differentiate him from the boxes of produce it was handling. The Guardian reports: The man, a
+```
 
-## [Theregister] Uncle Sam snooping on US folks? Not without a warrant, lawmakers agree
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/section_702_reform_legislation/)
+Link: [Click](https://hardware.slashdot.org/story/23/11/08/226211/robot-crushes-man-to-death-after-misidentifying-him-as-a-box?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Google Bard AI contractors unionize amid anger over 'retaliatory' layoffs
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/google_union_nlrb/)
+## [Techcrunch] Bob Iger says Disney would like to stay in India, looking to strengthen hand
+Link: [Click](https://techcrunch.com/2023/11/08/bob-iger-says-disney-would-like-to-stay-in-india-amid-hotstars-subscriber-dip/)
 
-## [Theregister] Bing Chat so hungry for GPUs, Microsoft will rent them from Oracle
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/bing_gpu_oracle/)
+## [Techcrunch] UK’s online safety regulator puts out draft guidance on illegal content, saying child safety is priority
+Link: [Click](https://techcrunch.com/2023/11/08/ofcom-illegal-content-draft-code/)
 
-## [Theregister] Quantum computing next (very) cold war? US House reps want to blow billions to outrun China
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/us_lawmakers_quantum/)
+## [Theregister] What to do with a cloud intrusion toolkit in 2023? Slap a chat assistant on it, duh
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/predatorai_infostealer_chatgpt/)
 
-## [Theregister] Ventana bumps performance on Veyron RISC-V silicon to surely speed up servers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/ventana_riscv_server/)
+## [Theregister] India gives social media platforms 36 hours to remove deepfakes
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/india_deepfake_takedown/)
 
-## [Theregister] WeBroke WeWork, WePromise WeFix it: How subleasing giant hopes to survive bankruptcy
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/wework_bankruptcy/)
+## [Theregister] FTC interrupts Copyright Office probe to flip out over potential AI fraud, abuse
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/ftc_ai_regulation/)
 
-## [Theregister] Overheating datacenter stopped 2.5 million bank transactions
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
+## [Theregister] Robot mistakes man for box of peppers, kills him
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/robot_kills_employee/)
 
-## [Theverge] This smart garage door controller is no longer very smart
-Link: [Click](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
+## [Theregister] Apple exec defends 8GB $1,599 MacBook Pro, claims it's like 16GB on a PC
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/apple_exec_defends_8gb/)
+
+## [Theregister] Adobe sells fake AI-generated Israel-Hamas war images – then the news ran them as real
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/adobe_ai_israel_hamas_war_pics/)
+
+## [Theregister] Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/europe_eidas_browser/)
+
+## [Theverge] Google offered Epic $147 million to launch Fortnite on the Play store
+Link: [Click](https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial)
+
+## [Theverge] Hollywood actors reach tentative deal to end their strike
+Link: [Click](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)
+
+## [Theverge] Samsung details ‘Galaxy AI’ and a feature that can translate phone calls in real time
+Link: [Click](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call)
+
+## [Theverge] The UK just laid out new rules for the internet — it only gets harder from here
+Link: [Click](https://www.theverge.com/2023/11/8/23952736/uk-online-safety-act-ofcom-illegal-harms-guidelines)
+
+## [Theverge] Maine’s right-to-repair law for cars wins with 84 percent of the vote
+Link: [Click](https://www.theverge.com/2023/11/8/23952928/maine-right-to-repair-law-passed-auto-repair-diagnostics)
