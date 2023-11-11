@@ -1,110 +1,77 @@
-## [Arstechnica] Owner of Tumblr confirms site’s shift from “surging” to “small and focused”
+## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Saturday, November 11, 2023
+Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
+
+## [Lifehacker] Use This Tool to Get the Best Deal on Rewards Travel
+Link: [Click](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
+
+## [Ycombinator] Debugging tricks in the browser
+Link: [Click](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+## [Ycombinator] When NASA Used an RC Tiger II to Drill into Space Shuttle Tires
+Link: [Click](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+
+## [Ycombinator] Starship’s second flight test
+Link: [Click](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+
+## [Ycombinator] Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook
+Link: [Click](https://deepnote.com/join-us)
+
+## [Ycombinator] Computation of the n'th digit of pi in any base in O(n^2) (1997)
+Link: [Click](https://bellard.org/pi/pi_n2/pi_n2.html)
+
+## [Ycombinator] Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420
+Link: [Click](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
+
+## [Ycombinator] MOVEit global security incident
+Link: [Click](https://www.maine.gov/moveit-global-data-security-incident/)
+
+## [Slashdot] Frank Borman, Commander of Apollo 8, Dies At 95
 ```
-CEO confirms Tumblr has lost "well north of $100M" since acquisition.
-```
-
-Link: [Click](https://arstechnica.com/?p=1982553)
-
-## [Lifehacker] The Easiest Way to Clean Your Washing Machine
-Link: [Click](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
-
-## [Lifehacker] Today’s NYT Connections Hints (and Answer) for Friday, November 10, 2023
-Link: [Click](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
-
-## [Ycombinator] Cursorless is alien magic from the future
-Link: [Click](https://xeiaso.net/notes/cursorless-alien-magic/)
-
-## [Ycombinator] GPU advancements in M3 and A17 Pro [video]
-Link: [Click](https://developer.apple.com/videos/play/tech-talks/111375)
-
-## [Ycombinator] Link-Time Optimisation (LTO)
-Link: [Click](https://convolv.es/guides/lto/)
-
-## [Ycombinator] Switching to Elixir
-Link: [Click](https://www.leemeichin.com/posts/switching-to-elixir.html)
-
-## [Ycombinator] Deferred scheduling for user-space critical sections
-Link: [Click](https://lwn.net/Articles/948870/)
-
-## [Ycombinator] EuclideanSpace
-Link: [Click](https://euclideanspace.com/)
-
-## [Ycombinator] Typing fast is about latency, not throughput
-Link: [Click](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
-
-## [Ycombinator] Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff
-Link: [Click](https://news.ycombinator.com/item?id=38213590)
-
-## [Slashdot] SpaceX Will Launch the Space Force's Mysterious X-37B Space Plane On Falcon Heavy
-```
-The U.S. Space Force's shadowy X-37B spaceplane is set to launch atop a SpaceX Falcon Heavy rocket on Dec. 7. It'll mark the seventh mission for the X-37B, but the first time it'll fly on a heavy-lift
+Long-time Slashdot reader HanzoSpam shares a report from Ars Technica: Frank Borman, an Air Force test pilot, astronaut, and accomplished businessman who led the first crew to fly to the Moon in 1968,
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/10/0127224/spacex-will-launch-the-space-forces-mysterious-x-37b-space-plane-on-falcon-heavy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/10/2155207/frank-borman-commander-of-apollo-8-dies-at-95?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Maine Government Says Data Breach Affects 1.3 Million Residents
+## [Slashdot] Doctors Complete First Successful Face and Whole-Eye Transplant
 ```
-An anonymous reader quotes a report from TechCrunch: The government of Maine has confirmed over a million state residents had personal information stolen in a data breach earlier this year by a Russia
-```
-
-Link: [Click](https://it.slashdot.org/story/23/11/10/0119206/maine-government-says-data-breach-affects-13-million-residents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] First Planned Small Nuclear Reactor Plant In the US Has Been Cancelled
-```
-Long-time Slashdot reader AmiMoJo writes: [O]n Wednesday, the company and utility planning to build the first small, modular nuclear plant in the U.S. announced it was cancelling the project. The U.S.
+An anonymous reader quotes a report from Scientific American: This week doctors announced they had completed the first successful transplant of a partial face and an entire eye. In May at NYU Langone 
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/11/09/2159245/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-cancelled?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/10/235229/doctors-complete-first-successful-face-and-whole-eye-transplant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Illinois Senate Approves Plan To Allow New Nuclear Reactors
+## [Slashdot] Indonesia Floats Southeast Asia's Biggest Solar Plant For 50,000 Homes
 ```
-The Illinois Senate has approved a plan to allow small modular reactors in the state, lifting a 36-year-old moratorium on new nuclear power installments. Proponents say the plan will ensure the state 
-```
-
-Link: [Click](https://hardware.slashdot.org/story/23/11/09/224224/illinois-senate-approves-plan-to-allow-new-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Mortgage Giant Mr. Cooper Shuts Down Systems Following Cyberattack
-```
-An anonymous reader quotes a report from SecurityWeek: Mortgage giant Mr. Cooper on Thursday announced that it has shut down certain systems after falling victim to a cyberattack, which resulted in it
+According to Nikkei Asia (paywalled), Indonesia has officially launched Southeast Asia's largest floating solar plant. It covers an area of over 250 hectares (2.5 km^2) and should be able to produce e
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/09/2147246/mortgage-giant-mr-cooper-shuts-down-systems-following-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://hardware.slashdot.org/story/23/11/10/2312243/indonesia-floats-southeast-asias-biggest-solar-plant-for-50000-homes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Singapore-based startup EduFi raises funding for its student loan platform
-Link: [Click](https://techcrunch.com/2023/11/09/singapore-based-startup-edufi-raises-funding-to-help-students-access-loans-for-their-education/)
+## [Slashdot] Apple Will Pay $25 Million In DOJ Discrimination Settlement
+```
+schwit1 shares a report from CNBC: Apple will pay $25 million in back pay and civil penalties to settle a matter over the company's hiring practices under the Immigration and Nationality Act, the Depa
+```
 
-## [Techcrunch] Humane’s Ai Pin up close
-Link: [Click](https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/)
+Link: [Click](https://yro.slashdot.org/story/23/11/10/2210227/apple-will-pay-25-million-in-doj-discrimination-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] The watermelon emoji isn’t just TikTok speak for Palestine
-Link: [Click](https://techcrunch.com/2023/11/09/watermelon-emoji-palestine-tiktok-filter-political-statement/)
+## [Slashdot] iOS 17.2 Hints At Apple Moving Towards Letting Users Sideload Apps
+```
+9to5Mac has found evidence in the iOS 17.2 beta code that hints the company is moving towards enabling sideloading on iOS devices. From the report: iOS 17.2 has a new public framework called "Managed 
+```
 
-## [Theregister] Suits ignored IT's warnings, so the tech team went for the neck
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/on_call/)
+Link: [Click](https://apple.slashdot.org/story/23/11/10/223245/ios-172-hints-at-apple-moving-towards-letting-users-sideload-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] CEOs of crashed tech upstart Bitwise accused of swindling $100M from investors
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/bitwise_100m_fraud_scheme/)
+## [Slashdot] Zero Punctuation Ends After 16 Years
+```
+An anonymous reader quotes a report from the BBC: The star of long-running videogame review series Zero Punctuation has quit after 16 years. Ben Croshaw, known as Yahtzee, was famous for his very fast
+```
 
-## [Theregister] Microsoft: Iran's cybercrews got stuck into Israel days after Hamas attacked – not in tandem
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/iran_israel_hamas/)
+Link: [Click](https://games.slashdot.org/story/23/11/10/2128215/zero-punctuation-ends-after-16-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Child psychiatrist jailed after using AI to make pornographic deep-fakes of kids
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/child_psychiatrist_sentenced_ai/)
+## [Theregister] Google, Amazon among big names in tech axing jobs this week
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/amazon_google_snap_zillow_layoffs/)
 
-## [Theregister] EU lawmakers scolded for concealing identities of privacy-busting content-scanning 'experts'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/09/eu_casm_expert_identities/)
+## [Theregister] Canonical shows how to use Snaps without the Snap Store
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
 
-## [Theregister] OpenAI tackles 'major outage' hitting ChatGPT APIs
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/outage_chatgpt_openai_claude/)
-
-## [Theregister] Canonical reveals more details about Ubuntu Core Desktop
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/08/ubuntu_core_desktop_details/)
-
-## [Theverge] Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play
-Link: [Click](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
-
-## [Theverge] Sundar Pichai will take the stand in Epic v. Google
-Link: [Click](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)
-
-## [Theverge] Steam Deck OLED, ROG Ally, and more: all the news about the handheld PC gaming revolution
-Link: [Click](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
+## [Theverge] Of course Dbrand’s first novelty keycaps include a ‘fuck off’ key
+Link: [Click](https://www.theverge.com/2023/11/11/23955179/dbrand-artisan-keycaps-the-enter-pyramid-metal-novelkeys-price)
