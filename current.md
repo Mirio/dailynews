@@ -1,92 +1,102 @@
-## [Netflixtechblog] Detecting Speech and Music in Audio Content
-Link: [Click](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8?source=rss----2615bd06b42e---4)
-
-## [Ycombinator] Starship will attempt a launch this Friday
-Link: [Click](https://www.fly.faa.gov/adv/adv_spt.jsp)
-
-## [Ycombinator] A coder considers the waning days of the craft
-Link: [Click](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
-
-## [Ycombinator] The laptop that won't die
-Link: [Click](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
-
-## [Ycombinator] Many popular houses in 1920s L.A. were part of a scam
-Link: [Click](https://www.atlasobscura.com/articles/los-angeles-home-scam)
-
-## [Ycombinator] Android App Devs now require 20 people to test before publishing to Play Store
-Link: [Click](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
-
-## [Ycombinator] Unlogged (YC S22) Is Hiring a founding back end engineer
-Link: [Click](https://news.ycombinator.com/item?id=38257499)
-
-## [Slashdot] Japan To Create $6.6 Billion Fund To Develop Outer Space Industry
+## [Arstechnica] KeeperFX keeps Dungeon Keeper alive by making it actually playable
 ```
-Japan plans to establish a new 1 trillion yen ($6.6 billion) fund to develop the country's outer space industry. "We believe it is a necessary fund to speed up our country's space development so we do
+I remember not liking this game, until I played this passion project version.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/13/2329256/japan-to-create-66-billion-fund-to-develop-outer-space-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1983841)
 
-## [Slashdot] The Lego-Like Way To Get CO2 Out of the Atmosphere
+## [Netflixtechblog] Psyberg: Automated end to end catch up
+Link: [Click](https://netflixtechblog.com/3-psyberg-automated-end-to-end-catch-up-260fbe366fe2?source=rss----2615bd06b42e---4)
+
+## [Netflixtechblog] Diving Deeper into Psyberg: Stateless vs Stateful Data Processing
+Link: [Click](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb?source=rss----2615bd06b42e---4)
+
+## [Netflixtechblog] 1. Streamlining Membership Data Engineering at Netflix with Psyberg
+Link: [Click](https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1?source=rss----2615bd06b42e---4)
+
+## [Ycombinator] U.S. reenters the nuclear fuel game
+Link: [Click](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
+
+## [Ycombinator] ARRL hails FCC action to remove symbol rate restrictions
+Link: [Click](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
+
+## [Ycombinator] The Architecture of Serverless Data Systems
+Link: [Click](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+
+## [Ycombinator] Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer
+Link: [Click](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+
+## [Ycombinator] Beyond Memorization: Violating privacy via inference with LLMs
+Link: [Click](https://arxiv.org/abs/2310.07298)
+
+## [Ycombinator] Haiku Activity and Contract Report, October 2023
+Link: [Click](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
+
+## [Slashdot] Lost NASA Tool Bag Can Be Seen With Binoculars
 ```
-An anonymous reader quotes a report from the Washington Post: For decades, scientists have tried to figure out ways to reverse climate change by pulling carbon dioxide out of the atmosphere and storin
+A tool bag that astronauts accidentally let float away during a routine spacewalk at the International Space Station is now orbiting Earth and can be seen with a pair of binoculars. NBC News reports: 
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/13/2319200/the-lego-like-way-to-get-co2-out-of-the-atmosphere?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/15/028233/lost-nasa-tool-bag-can-be-seen-with-binoculars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Open-Source 4K Dungeon Keeper Remake Spent 15 Years In the Making
+## [Slashdot] A Supernova 'Destroyed' Some of Earth's Ozone For a Few Minutes In 2022
 ```
-Rick Lane reports via PC Gamer: KeeperFX has been in the process of rescuing Dungeon Keeper for a decade and a half. The project originally started in 2008, and experienced something of a bumpy road u
-```
-
-Link: [Click](https://games.slashdot.org/story/23/11/13/239248/open-source-4k-dungeon-keeper-remake-spent-15-years-in-the-making?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] iPad Pro OLED Panels Rumored To Start Production In 2024
-```
-According to the Korea Herald, Apple is expected to begin production of OLED displays for its next-gen iPad Pro in February 2024. MacRumors reports: Sources familiar with the matter speaking to the Ko
+An anonymous reader quotes a report from the New York Times: On Oct. 9, 2022, telescopes in space picked up a jet of high energy photons careening through the cosmos toward Earth, evidence of a supern
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/11/13/232230/ipad-pro-oled-panels-rumored-to-start-production-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/11/14/2336229/a-supernova-destroyed-some-of-earths-ozone-for-a-few-minutes-in-2022?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Zelle Begins Refunds For Imposter Scams After Government Pressure
+## [Slashdot] White Faces Generated By AI Are More Convincing Than Photos, Finds Survey
 ```
-According to Reuters, banks on the payment app Zelle have begun refunding victims of imposter scams to address consumer protection concerns raised by U.S. lawmakers and the federal consumer watchdog. 
-```
-
-Link: [Click](https://news.slashdot.org/story/23/11/13/2258234/zelle-begins-refunds-for-imposter-scams-after-government-pressure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Healthcare Giant McLaren Reveals Data On 2.2 Million Patients Stolen During Ransomware Attack
-```
-An anonymous reader quotes a report from TechCrunch: Michigan-based McLaren Health Care has confirmed that the sensitive personal and health information of 2.2 million patients was compromised during 
+Nicola Davis reports via The Guardian: A new study has found people are more likely to think pictures of white faces generated by AI are human than photographs of real individuals. "Remarkably, white 
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/13/2149210/healthcare-giant-mclaren-reveals-data-on-22-million-patients-stolen-during-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://slashdot.org/story/23/11/14/2355212/white-faces-generated-by-ai-are-more-convincing-than-photos-finds-survey?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Etaily is a “one stop solution” for consumer brands that want to enter Southeast Asia
-Link: [Click](https://techcrunch.com/2023/11/13/etaily/)
+## [Slashdot] Social Media Giants Must Face Child Safety Lawsuits, Judge Rules
+```
+Emma Roth reports via The Verge: Meta, ByteDance, Alphabet, and Snap must proceed with a lawsuit alleging their social platforms have adverse mental health effects on children, a federal court ruled o
+```
 
-## [Theregister] NCSC says cyber-readiness of UK’s critical infrastructure isn’t up to scratch
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/ncsc_cyber_readiness/)
+Link: [Click](https://yro.slashdot.org/story/23/11/14/2347206/social-media-giants-must-face-child-safety-lawsuits-judge-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Beijing reportedly asked Hikvision to identify fasting students in Muslim-majority province
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/hikvision_fasting_identification/)
+## [Slashdot] Google Stopped Selling Its Fitbit Products In Almost 30 Countries
+```
+Fitbit is active in only 23 countries after leaving Mexico, South Africa, and all Latin American countries. "We communicated that we will stop selling Fitbit products in select countries in order to a
+```
 
-## [Theregister] VMware revealed Symantec SASE integration plan before Broadcom finished buying it
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/vmware_symantec_sd_wan_integration/)
+Link: [Click](https://tech.slashdot.org/story/23/11/14/2324205/google-stopped-selling-its-fitbit-products-in-almost-30-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] NTT and NEC use vibrating optic fibres to figure out if there's snow on the road
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/ntt_labour_shortage_tech/)
+## [Slashdot] Intel Fixes High-Severity CPU Bug That Causes 'Very Strange Behavior'
+```
+An anonymous reader quotes a report from Ars Technica: Intel on Tuesday pushed microcode updates to fix a high-severity CPU bug that has the potential to be maliciously exploited against cloud-based h
+```
 
-## [Theregister] Passive SSH server private key compromise is real ... for some vulnerable gear
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/passive_ssh_key_compromise/)
+Link: [Click](https://it.slashdot.org/story/23/11/14/2257235/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Google sues scammers peddling fake malware-riddled Bard chatbot download
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/google_sues_ai_scammer/)
+## [Techcrunch] GM inserts exec at Cruise as safety review expands, manual self driving paused
+Link: [Click](https://techcrunch.com/2023/11/14/gm-inserts-exec-at-cruise-as-safety-review-expands-manual-self-driving-paused/)
 
-## [Theregister] Intel drops the deets on UK's Dawn AI supercomputer
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/13/intel_dawn_ai_uk/)
+## [Techcrunch] Morpheus Space developed a space mission design platform so intuitive even I could use it
+Link: [Click](https://techcrunch.com/2023/11/14/morpheus-space-developed-a-space-mission-design-platform-so-intuitive-even-i-could-use-it/)
 
-## [Theregister] Strike over? US actors may return to work with top-tier 'progressive AI protections'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/13/actors_strike_ai/)
+## [Theregister] Software is listening for the options you want it to offer, and it’s about time
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/15/chat_interfaces_improve_software/)
 
-## [Theregister] Aurora dawns late: Half-baked entry secures second in supercomputer stakes
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/13/aurora_top500_no2/)
+## [Theregister] Fujitsu-backed FDK claims nickel zinc batteries ready for use in UPSes
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/15/fujitsubacked_fdk_wants_nickel_zinc/)
+
+## [Theregister] UnitedHealthcare's broken AI denied seniors' medical claims, lawsuit alleges
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/15/unitedhealthcare_ai_medicine/)
+
+## [Theregister] Another month, another bunch of fixes for Microsoft security bugs exploited in the wild
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/15/november_2023_patch_tuesday/)
+
+## [Theregister] Russian national pleads guilty to building now-dismantled IPStorm proxy botnet
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/russian_ipstorm_botnet/)
+
+## [Theregister] Google Chrome coders really, truly, absolutely ready to cull third-party cookies from 2024
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/google_chrome_devs_third_party_cookie/)
+
+## [Theregister] AMD SEV OMG: Trusted execution undone by cache meddling
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/14/amd_trusted_execution/)
