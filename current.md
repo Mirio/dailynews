@@ -1,136 +1,148 @@
-## [Arstechnica] Ransomware group reports victim it breached to SEC regulators
+## [Arstechnica] OpenAI President Greg Brockman quits as shocked employees hold all-hands meeting
 ```
-Group tells SEC that the victim is in violation for not reporting it was hacked.
-```
-
-Link: [Click](https://arstechnica.com/?p=1984663)
-
-## [Arstechnica] With each iteration, this supercar gets better—the McLaren 750S, tested
-```
-How do you improve on the McLaren 720S? More power, less weight, sharper handling.
+Details emerge in Sam Altman firing, which blindsided Microsoft and investors.
 ```
 
-Link: [Click](https://arstechnica.com/?p=1984019)
+Link: [Click](https://arstechnica.com/?p=1985047)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, November 17, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, November 18, 2023
 ```
-Here are some hints to help you win NYT Connections #159.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
-
-## [Lifehacker] Pommes Aligot Are the Cheesiest of All Mashed Potatoes
-```
-This easy pommes aligot recipe makes a mash so cheesy it could be called “potato-y cheese."
+Here are some hints to help you win NYT Connections #160.
 ```
 
-Link: [Click](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 
-## [Lifehacker] Here Are the Best Deals From Walmart’s Black Friday Sale
+## [Lifehacker] These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers
 ```
-Here are the best discounts on TVs, laptops, and more during Walmart's Black Friday sale.
-```
-
-Link: [Click](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-
-## [Ycombinator] Arithmetic in Computer Hardware
-Link: [Click](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
-
-## [Ycombinator] De-crufted Windows 11 coming to Europe soon
-Link: [Click](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
-
-## [Ycombinator] Portugal just ran on 100% renewables for six days in a row
-Link: [Click](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
-
-## [Slashdot] Scientists Use Raspberry Pi Tech To Protect NASA Telescope Data
-```
-Richard Speed reports via The Register: Scientists have revealed how data from a NASA telescope was secured thanks to creative thinking and a batch of Raspberry Pi computers. The telescope was the Sup
+Whether you're looking for a full system or just a controller for player 2, now's the time to get 'em for cheap.
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/11/17/0210233/scientists-use-raspberry-pi-tech-to-protect-nasa-telescope-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 
-## [Slashdot] 'Make It Real' AI Prototype Turns Drawings Into Working Software
+## [Lifehacker] These Are Amazon’s Best Early Black Friday Deals on Digital Cameras
 ```
-An anonymous reader quotes a report from Ars Technica: On Wednesday, a collaborative whiteboard app maker called "tldraw" made waves online by releasing a prototype of a feature called "Make it Real" 
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/11/16/2335234/make-it-real-ai-prototype-turns-drawings-into-working-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] MediaTek Partners With Meta To Develop Chips For AR Smart Glasses
-```
-During MediaTek's 2023 summit, MediaTek executive Vince Hu announced a new partnership with Meta that would allow it to develop smart glasses capable of augmented reality or mixed reality experiences.
+Serious deals on everything from high-end cameras to adventuring cams.
 ```
 
-Link: [Click](https://meta.slashdot.org/story/23/11/16/2327225/mediatek-partners-with-meta-to-develop-chips-for-ar-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
 
-## [Slashdot] Ramaswamy Is the Only GOP Candidate With a Crypto Plan
+## [Lifehacker] Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday
 ```
-Republican presidential candidate Vivek Ramaswamy revealed a crypto plan today that aims to protect core aspects of the industry, including software developers and unhosted digital wallets. CoinDesk r
-```
-
-Link: [Click](https://politics.slashdot.org/story/23/11/16/2321259/ramaswamy-is-the-only-gop-candidate-with-a-crypto-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Alibaba Cancels Cloud Spinoff, Blames US Chip Sanctions
-```
-Alibaba is canceling the scheduled IPO of its cloud division due to the impact of the U.S. government's CPU export bans to China. The Register reports: The Chinese e-commerce giant reported the move a
+Beats, Bose, Sennheiser, Sony, and Soundcore headphones are all on sale right now.
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/16/2317208/alibaba-cancels-cloud-spinoff-blames-us-chip-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
 
-## [Slashdot] Prison Phone Company Leaked 600,000 Users' Data and Didn't Notify Them
+## [Lifehacker] Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday
 ```
-An anonymous reader quotes a report from Ars Technica: Prison phone company Global Tel*Link leaked the personal information of nearly 650,000 users and failed to notify most of the users that their pe
+If it's time to upgrade your TV-viewing experience, one of these deals might appeal to you.
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/11/16/2151246/prison-phone-company-leaked-600000-users-data-and-didnt-notify-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
 
-## [Techcrunch] Yet another former Silicon Valley darling is convicted of investor fraud
-Link: [Click](https://techcrunch.com/2023/11/16/yet-another-former-silicon-valley-darling-is-convicted-of-investor-fraud/)
+## [Lifehacker] These Are Amazon's Best Early Black Friday Deals on Soundbars
+```
+Because music and movie soundtracks sound better when they're playing through a single rectangle. That's just science.
+```
 
-## [Techcrunch] Indian central bank tightening consumer loans curb to impact startups
-Link: [Click](https://techcrunch.com/2023/11/16/indian-central-bank-tightening-consumer-loans-to-impact-startups/)
+Link: [Click](https://lifehacker.com/tech/amazon-best-soundbar-sales)
 
-## [Theregister] UK won't rush to regulate AI, says first-ever minister for digital brainboxes
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/uk_ai_regulation/)
+## [Lifehacker] 10 Amazon Early Black Friday Tech Deals I’m Actually Excited About
+```
+When everything is a "Black Friday deal," nothing is—but these highlights from Amazon's ongoing sale are actually worth paying attention to.
+```
 
-## [Theregister] Qualcomm promises 'premium performance' in Gen 3 Snapdragon 7 phone chips
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/qualcomm_snapdragon_gen3/)
+Link: [Click](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
 
-## [Theregister] Samsung UK discloses year-long breach, leaked customer data
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/uk_samsung_electronics_discloses_yearlong/)
+## [Lifehacker] These Are Amazon’s Best Robot Vacuum Sales for Early Black Friday
+```
+From a budget robot vacuum to more powerful options than Roombas, there's a Black Friday deal for you.
+```
 
-## [Theregister] Tencent shrugs off effect of US sanctions and says Chinese suppliers will fill GPU gap
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/tencent_q3_2023/)
+Link: [Click](https://lifehacker.com/home/best-amazon-early-black-friday-robot-vacuum-deals)
 
-## [Theregister] South Korea opens the door for robots to roam among pedestrians
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/mobile_robots_south_korea/)
+## [Ycombinator] Three senior researchers have resigned from OpenAI
+Link: [Click](https://news.ycombinator.com/item?id=38316378)
+
+## [Ycombinator] I Hacked the Magic Mouse
+Link: [Click](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+
+## [Ycombinator] Text adventure ported to social media
+Link: [Click](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
+
+## [Ycombinator] LMAX Disruptor – High Performance Inter-Thread Messaging Library
+Link: [Click](https://lmax-exchange.github.io/disruptor/)
+
+## [Ycombinator] Board Members (2014)
+Link: [Click](https://blog.samaltman.com/board-members)
+
+## [Ycombinator] Greg Brockman quits OpenAI
+Link: [Click](https://twitter.com/gdb/status/1725667410387378559?s=20)
+
+## [Ycombinator] TrasHTTPandas – Trash Panda HTTP Responses
+Link: [Click](https://httpraccoons.com/)
+
+## [Ycombinator] Ilya Sutskever "at the center" of Altman firing?
+Link: [Click](https://twitter.com/karaswisher/status/1725702501435941294)
+
+## [Ycombinator] Yuzu Progress Report October 2023
+Link: [Click](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
+
+## [Ycombinator] Parental controls? What parental controls?
+Link: [Click](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
+
+## [Ycombinator] My rants about TP-Link Omada networking products
+Link: [Click](http://rachelbythebay.com/w/2023/11/17/omada/)
+
+## [Ycombinator] Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building
+Link: [Click](https://grigora.co)
+
+## [Slashdot] Why US Women Now Live Almost 6 Years Longer Than Men
+```
+According to a new study published in JAMA Internal Medicine, women in the U.S. are now projected to live about six years longer than U.S. men. TIME reports: [T]he 2021 data represent the largest gend
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/18/0058220/why-us-women-now-live-almost-6-years-longer-than-men?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Valve Celebrates 25 Years of Half-Life With Feature-Packed Steam Update
+```
+An anonymous reader quotes a report from Ars Technica: This Sunday, November 19, makes a full 25 years since the original Half-Life first hit (pre-Steam) store shelves. To celebrate the anniversary, V
+```
+
+Link: [Click](https://games.slashdot.org/story/23/11/18/0030254/valve-celebrates-25-years-of-half-life-with-feature-packed-steam-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Swedish Workers Are Uniting Against Tesla
+```
+New submitter doc1623 shares a report from Wired: Swedish workers are uniting against Tesla. [Starting Friday], cleaners will stop cleaning Tesla showrooms, electricians won't fix the company's chargi
+```
+
+Link: [Click](https://tech.slashdot.org/story/23/11/18/0041200/swedish-workers-are-uniting-against-tesla?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] USDA's Plant Hardiness Zone Map Shows Half the Country Has Shifted
+```
+The newly updated U.S. Department of Agriculture's "plant hardiness zone map" has gardeners across the nation researching what new plants they can grow in their warming regions, as the 2023 map is abo
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/17/2356236/usdas-plant-hardiness-zone-map-shows-half-the-country-has-shifted?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Online Atrocity Database Exposed Thousands of Vulnerable People In Congo
+```
+An anonymous reader quotes a report from The Intercept: A joint project of Human Rights Watch and New York University to document human rights abuses in the Democratic Republic of the Congo has been t
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/11/17/2237246/online-atrocity-database-exposed-thousands-of-vulnerable-people-in-congo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Greg Brockman quits OpenAI after abrupt firing of Sam Altman
+Link: [Click](https://techcrunch.com/2023/11/17/greg-brockman-quits-openai-after-abrupt-firing-of-sam-altman/)
+
+## [Techcrunch] WTF is going on at OpenAI? We have theories
+Link: [Click](https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/)
+
+## [Theregister] Control Altman delete: OpenAI fires CEO, chairman quits
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/openais_board_of_directors_fire/)
+
+## [Theregister] IBM pauses advertising on X after ads show up next to antisemitic content
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/ibm_pauses_advertising_on_x/)
 
 ## [Theregister] Amazon bankrolling industry lobbying against Microsoft Azure should surprise no one
 Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/anti_microsoft_amazon/)
-
-## [Theregister] Wish you could sing like Charli XCX or possess any musical talent? YouTube AI might make that happen
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/youtube_generative_ai/)
-
-## [Theregister] Look out, Scattered Spider. FBI pumps 'significant' resources into snaring data-theft crew
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/fbi_scattered_spider_action/)
-
-## [Theregister] HP sued over use of forfeited 401(k) retirement contributions
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/16/hp_pension_fund/)
-
-## [Theregister] How much to clean up a ransomware infection? For Rackspace, about $11M
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/16/rackspace_ransomware_expenses/)
-
-## [Theregister] Alibaba cancels cloud spinoff, blames US chip sanctions
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/16/alibaba_cancels_cloud_spinoff_blames/)
-
-## [Theregister] Scientists use Raspberry Pi tech to protect NASA telescope data
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/16/scientists_use_raspberry_pi_tech/)
-
-## [Theverge] A hefty stable Steam Deck update gives the Dock a brand-new feature
-Link: [Click](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)
-
-## [Theverge] Fortnite is blocking some outfits in experiences made for kids
-Link: [Click](https://www.theverge.com/2023/11/16/23964778/fortnite-blocking-outfits-experiences-kids)
-
-## [Theverge] YouTube loosens ad guidelines around breastfeeding nudity and twerking
-Link: [Click](https://www.theverge.com/2023/11/16/23964804/youtube-loosens-ad-guidelines-breastfeeding-nudity-twerking-grinding)
