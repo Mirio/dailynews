@@ -1,113 +1,133 @@
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, November 20, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, November 21, 2023
 ```
-Here are some hints to help you win NYT Connections #162.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
-
-## [Ycombinator] Emmett Shear becomes interim OpenAI CEO as Altman talks break down
-Link: [Click](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
-
-## [Ycombinator] RSS can be used to distribute all sorts of information
-Link: [Click](https://colinwalker.blog/blog/?date=2023-11-19)
-
-## [Ycombinator] Setenv Is Not Thread Safe and C Doesn't Want to Fix It
-Link: [Click](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
-
-## [Ycombinator] A trip to see Chicagoland Sears houses
-Link: [Click](https://www.searshouseseeker.com/?m=0)
-
-## [Ycombinator] Friends don't let friends make bad graphs
-Link: [Click](https://github.com/cxli233/FriendsDontLetFriends)
-
-## [Ycombinator] Trap and test AWS SES emails locally
-Link: [Click](https://github.com/kamranahmedse/local-ses)
-
-## [Ycombinator] Cosmopolitan v3.1
-Link: [Click](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
-
-## [Ycombinator] Kyle Vogt resigns from Cruise
-Link: [Click](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
-
-## [Ycombinator] TIL you could make xkcd-like plots with matplotlib
-Link: [Click](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
-
-## [Slashdot] OpenAI Fiasco: Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down
-```
-Sam Altman will not be returning as CEO of OpenAI, after a furious weekend of negotiations. 
-The Information reports:
-Sam Altman won't return as CEO of OpenAI, despite efforts by the company's executi
+Here are some hints to help you win NYT Connections #163
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/20/0730217/openai-fiasco-emmett-shear-becomes-interim-openai-ceo-as-altman-talks-break-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 
-## [Slashdot] Cruise's CEO Resigns
+## [Lifehacker] Use Google Lens to Determine the Value of a Vintage Item
 ```
-An anonymous reader shared this report from TechCrunch:
-
-Kyle Vogt, the serial entrepreneur who co-founded and led Cruise from a startup in a garage through its acquisition and ownership by General Mo
+Figure out if your flea market find is worth a fortune—or a few bucks.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/20/0352235/cruises-ceo-resigns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/home/google-lens-vintage-items)
 
-## [Slashdot] The IMF Launches 'Central Bank Digital Currency' Handbook, Says CBDCs Could Someday Replace Cash
+## [Netflixtechblog] Incremental Processing using Netflix Maestro and Apache Iceberg
+Link: [Click](https://netflixtechblog.com/incremental-processing-using-netflix-maestro-and-apache-iceberg-b8ba072ddeeb?source=rss----2615bd06b42e---4)
+
+## [Ycombinator] Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B
+Link: [Click](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
+
+## [Ycombinator] Linda Yaccarino: no single authentic user saw this content alongside IBM's ads
+Link: [Click](https://twitter.com/lindayaX/status/1726747531843915965)
+
+## [Ycombinator] How many jacaranda trees are there in Sydney?
+Link: [Click](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
+
+## [Ycombinator] Earth likely briefly passed critical warming threshold on Friday and Saturday
+Link: [Click](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
+
+## [Ycombinator] New Amazon AI initiative includes scholarships, free AI courses
+Link: [Click](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
+
+## [Ycombinator] Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role
+Link: [Click](https://twitter.com/KateClarkTweets/status/1726732841730326862)
+
+## [Ycombinator] OpenAI board stands firm in face of staff revolt over Sam Altman's ouster
+Link: [Click](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
+
+## [Ycombinator] China's New(ish) SW26010-Pro Supercomputer at SC23
+Link: [Click](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
+
+## [Slashdot] FDA Considers First CRISPR Gene Editing Treatment That May Cure Sickle Cell
 ```
-An anonymous reader shared this report from CNBC:
-
-Central bank digital currencies have the potential to replace cash, but adoption could take time, said Kristalina Georgieva, managing director of the
+The U.S. Food and Drug Administration is reviewing a cutting-edge therapy called exa-cel that could potentially cure people of sickle cell disease, a painful and deadly disease with no universally suc
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/20/0127223/the-imf-launches-central-bank-digital-currency-handbook-says-cbdcs-could-someday-replace-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/11/21/056201/fda-considers-first-crispr-gene-editing-treatment-that-may-cure-sickle-cell?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Text Adventures are Still Thriving in Interactive Fiction Competition - and On Threads
+## [Slashdot] OpenAI's Board Approached Anthropic CEO About Top Job and Merger
 ```
-Today saw the end of IFComp.org's 29th annual text adventure competition (now administered by the charitable non-profit IF Technology Foundation). 74 new and original text adventures
- competed for a s
+According to The Information (paywalled), OpenAI's board of directors approached rival Anthropic's CEO about replacing Sam Altman and potentially merging the two AI startups. Anthropic CEO Dario Amode
 ```
 
-Link: [Click](https://games.slashdot.org/story/23/11/20/0039203/text-adventures-are-still-thriving-in-interactive-fiction-competition---and-on-threads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] ChatGPT: Everything you need to know about the AI-powered chatbot
-Link: [Click](https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/)
+## [Slashdot] Secretive White House Surveillance Program Gives Cops Access To Trillions of US
+```
+An anonymous reader quotes a report from Wired: A little-known surveillance program tracks more than a trillion domestic phone records within the United States each year, according to a letter WIRED o
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/21/013246/secretive-white-house-surveillance-program-gives-cops-access-to-trillions-of-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Optus CEO Resigns After Nationwide Outage Left Millions Without Mobile and Internet Services
+```
+Earlier this month, the entire Optus mobile network went offline nationwide following a "routine software upgrade." According to Reuters, "More than 10 million Australians were hit by the 12-hour netw
+```
+
+Link: [Click](https://tech.slashdot.org/story/23/11/21/0054209/optus-ceo-resigns-after-nationwide-outage-left-millions-without-mobile-and-internet-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Nothing's iMessage App Was a Security Catastrophe, Taken Down In 24 Hours
+```
+Last week, Android smartphone manufacturer "Nothing" announced that it's bringing iMessage to its newest phone through a new "Nothing Chats" app powered by the messaging platform Sunbird. After launch
+```
+
+Link: [Click](https://it.slashdot.org/story/23/11/21/0033219/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Microsoft CEO Nadella Says OpenAI Governance Needs To Change
+```
+In an interview with CNBC's Jon Fortt today, Microsoft CEO Satya Nadella said that the governance structure of OpenAI needs to change after the AI company's sudden firing of CEO Sam Altman. "At this p
+```
+
+Link: [Click](https://slashdot.org/story/23/11/21/0016222/microsoft-ceo-nadella-says-openai-governance-needs-to-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Google admits Spotify pays no Play Store fees because of a secret deal
+Link: [Click](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
+
+## [Techcrunch] Indy raises $44 million to simplify taxes and paperwork for freelancers
+Link: [Click](https://techcrunch.com/2023/11/20/indy-raises-44-million-to-simplify-taxes-and-paperwork-for-freelancers/)
+
+## [Techcrunch] Elon Musk’s ‘thermonuclear’ lawsuit over hate-adjacent ads on X… actually confirms them
+Link: [Click](https://techcrunch.com/2023/11/20/elon-musks-thermonuclear-lawsuit-over-hate-adjacent-ads-on-x-actually-confirms-them/)
 
 ## [Techcrunch] A timeline of Sam Altman’s firing from OpenAI — and the fallout
-Link: [Click](https://techcrunch.com/2023/11/19/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+Link: [Click](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 
-## [Techcrunch] Sam Altman won’t return as OpenAI’s CEO after all
-Link: [Click](https://techcrunch.com/2023/11/19/altman-wont-return-as-openais-ceo-after-all/)
+## [Techcrunch] Microsoft CEO Satya Nadella suggests that Sam Altman might return to OpenAI
+Link: [Click](https://techcrunch.com/2023/11/20/microsoft-ceo-satya-nadella-suggests-that-sam-altman-might-return-to-openai/)
 
-## [Techcrunch] Cruise co-founder and CEO Kyle Vogt resigns
-Link: [Click](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
+## [Techcrunch] European investors grab the popcorn for the new ‘series’ of OpenAI, but are fearful of the fallout
+Link: [Click](https://techcrunch.com/2023/11/20/european-investors-grab-the-popcorn/)
 
-## [Theregister] Why have just one firewall when you can fire <em>all</em> the walls?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/who_me/)
+## [Techcrunch] Chaos at OpenAI adds fuel to the AI talent poaching war
+Link: [Click](https://techcrunch.com/2023/11/20/openai-ai-talent-poaching-war/)
 
-## [Theregister] SpaceX celebrates Starship launch as a success – even with the explosion
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/spacex_celebrates_starship_explosion/)
+## [Theregister] CompSci teachers panic as Replit pulls the plug on educational IDE
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/comp_sci_panic/)
 
-## [Theregister] CEO of self-driving cab outfit Cruise parks his career
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/cruise_ceo_kyle_vogt_quits/)
+## [Theregister] Microsoft adds FPGA-powered network accelerator to Azure
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/azure_boost_network_accelerator/)
 
-## [Theregister] Xen Project improves the art of virtual machine maintenance with annual hypervisor release
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/xen_project_4_18/)
+## [Theregister] North Korea readies third attempt at 'spy satellite' launch
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/north_korea_satellite_launch_attempt/)
 
-## [Theregister] Your password hygiene remains atrocious, says NordPass
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/your_password_hygiene_is_still/)
+## [Theregister] Telco CEO quits after admitting she needs to carry rivals' SIM cards to stay in touch
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/optus_ceo_quits/)
 
-## [Theregister] Acer, Asus, Dell, HP, and Lenovo sign up for $42 billion scheme to make kit in India
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/asia_tech_news_brief/)
+## [Theregister] OpenAI meltdown: How could Microsoft have let this happen after betting so many billions?
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/microsoft_openai_altman_nadella/)
 
-## [Theregister] OpenAI CEO Sam Altman's ejection sparks theories as odd as some ChatGPT output
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/19/sam_altman_openai_depature_theories/)
+## [Theregister] Boffins claim invention of rechargable, biodegradable, supercapacitor drug pump
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/implantable_rechargable_supercapacitor_drugs/)
 
-## [Theregister] IBM pauses advertising on X after ads show up next to antisemitic content
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/17/ibm_pauses_advertising_on_x/)
+## [Theregister] OpenAI staff threaten to leave if ousted CEO Altman is not reinstated
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/openai_staff_threaten_to_leave/)
 
-## [Theverge] Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?
+## [Theregister] Fired OpenAI boss Sam Altman may join Microsoft
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/ex_openai_boss_sam_altman_to_join_microsoft/)
+
+## [Theverge] X sues Media Matters to silence moderation criticism
+Link: [Click](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+
+## [Theverge] Everything we know so far about OpenAI, Sam Altman’s firing, and what happens next
 Link: [Click](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
-
-## [Theverge] Sam Altman isn’t coming back to OpenAI
-Link: [Click](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
-
-## [Theverge] SpaceX’s new Starlink satellite internet terminal has a kickstand
-Link: [Click](https://www.theverge.com/2023/11/19/23968395/spacex-starlink-satellite-internet-terminal-kickstand-improved-fov-ip67-weather-rating)
