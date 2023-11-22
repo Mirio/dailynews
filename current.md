@@ -1,133 +1,124 @@
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, November 21, 2023
+## [Arstechnica] USB worm unleashed by Russian state hackers spreads worldwide
 ```
-Here are some hints to help you win NYT Connections #163
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
-
-## [Lifehacker] Use Google Lens to Determine the Value of a Vintage Item
-```
-Figure out if your flea market find is worth a fortune—or a few bucks.
+LitterDrifter's means of self-propagation are simple. So why is it spreading so widely?
 ```
 
-Link: [Click](https://lifehacker.com/home/google-lens-vintage-items)
+Link: [Click](https://arstechnica.com/?p=1985993)
 
-## [Netflixtechblog] Incremental Processing using Netflix Maestro and Apache Iceberg
-Link: [Click](https://netflixtechblog.com/incremental-processing-using-netflix-maestro-and-apache-iceberg-b8ba072ddeeb?source=rss----2615bd06b42e---4)
-
-## [Ycombinator] Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B
-Link: [Click](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
-
-## [Ycombinator] Linda Yaccarino: no single authentic user saw this content alongside IBM's ads
-Link: [Click](https://twitter.com/lindayaX/status/1726747531843915965)
-
-## [Ycombinator] How many jacaranda trees are there in Sydney?
-Link: [Click](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
-
-## [Ycombinator] Earth likely briefly passed critical warming threshold on Friday and Saturday
-Link: [Click](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
-
-## [Ycombinator] New Amazon AI initiative includes scholarships, free AI courses
-Link: [Click](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
-
-## [Ycombinator] Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role
-Link: [Click](https://twitter.com/KateClarkTweets/status/1726732841730326862)
-
-## [Ycombinator] OpenAI board stands firm in face of staff revolt over Sam Altman's ouster
-Link: [Click](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
-
-## [Ycombinator] China's New(ish) SW26010-Pro Supercomputer at SC23
-Link: [Click](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
-
-## [Slashdot] FDA Considers First CRISPR Gene Editing Treatment That May Cure Sickle Cell
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, November 22, 2023
 ```
-The U.S. Food and Drug Administration is reviewing a cutting-edge therapy called exa-cel that could potentially cure people of sickle cell disease, a painful and deadly disease with no universally suc
+Here are some hints to help you win NYT Connections #164.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/21/056201/fda-considers-first-crispr-gene-editing-treatment-that-may-cure-sickle-cell?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 
-## [Slashdot] OpenAI's Board Approached Anthropic CEO About Top Job and Merger
+## [Lifehacker] These Are the Best Streaming Service Deals for Black Friday
 ```
-According to The Information (paywalled), OpenAI's board of directors approached rival Anthropic's CEO about replacing Sam Altman and potentially merging the two AI startups. Anthropic CEO Dario Amode
-```
-
-Link: [Click](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Secretive White House Surveillance Program Gives Cops Access To Trillions of US
-```
-An anonymous reader quotes a report from Wired: A little-known surveillance program tracks more than a trillion domestic phone records within the United States each year, according to a letter WIRED o
+Streaming services are offering some steep discounts for Black Friday—here are the best we've found.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/21/013246/secretive-white-house-surveillance-program-gives-cops-access-to-trillions-of-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 
-## [Slashdot] Optus CEO Resigns After Nationwide Outage Left Millions Without Mobile and Internet Services
+## [Lifehacker] The Kindle Scribe Is One of the Best E-Readers You Can Buy
 ```
-Earlier this month, the entire Optus mobile network went offline nationwide following a "routine software upgrade." According to Reuters, "More than 10 million Australians were hit by the 12-hour netw
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/11/21/0054209/optus-ceo-resigns-after-nationwide-outage-left-millions-without-mobile-and-internet-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Nothing's iMessage App Was a Security Catastrophe, Taken Down In 24 Hours
-```
-Last week, Android smartphone manufacturer "Nothing" announced that it's bringing iMessage to its newest phone through a new "Nothing Chats" app powered by the messaging platform Sunbird. After launch
+The Kindle Scribe offers one of the best (and biggest) ways to read books through Amazon's Kindle store.
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/21/0033219/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/kindle-scribe-review)
 
-## [Slashdot] Microsoft CEO Nadella Says OpenAI Governance Needs To Change
+## [Ycombinator] We have reached an agreement in principle for Sam to return to OpenAI as CEO
+Link: [Click](https://twitter.com/openai/status/1727206187077370115)
+
+## [Ycombinator] FTC authorizes compulsory process for AI-related products and services
+Link: [Click](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
+
+## [Ycombinator] Bacteria store memories and pass them on for generations
+Link: [Click](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+
+## [Ycombinator] How does Cave/Glade Generator Work
+Link: [Click](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
+
+## [Slashdot] World's Richest 1% Emit As Much Carbon As Bottom Two-Thirds, Report Finds
 ```
-In an interview with CNBC's Jon Fortt today, Microsoft CEO Satya Nadella said that the governance structure of OpenAI needs to change after the AI company's sudden firing of CEO Sam Altman. "At this p
+An anonymous reader quotes a report from Phys.Org: The richest one percent of the global population are responsible for the same amount of carbon emissions as the world's poorest two-thirds, or five b
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/21/0016222/microsoft-ceo-nadella-says-openai-governance-needs-to-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Google admits Spotify pays no Play Store fees because of a secret deal
-Link: [Click](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
+## [Slashdot] FCC Proposes Ban On Cable and Satellite Early Termination Fees
+```
+FCC Chairwoman Jessica Rosenworcel today outlined a new proposal that would ban cable and satellite companies from charging subscribers early termination fees. Deadline reports: Some subscribers who s
+```
 
-## [Techcrunch] Indy raises $44 million to simplify taxes and paperwork for freelancers
-Link: [Click](https://techcrunch.com/2023/11/20/indy-raises-44-million-to-simplify-taxes-and-paperwork-for-freelancers/)
+Link: [Click](https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Elon Musk’s ‘thermonuclear’ lawsuit over hate-adjacent ads on X… actually confirms them
-Link: [Click](https://techcrunch.com/2023/11/20/elon-musks-thermonuclear-lawsuit-over-hate-adjacent-ads-on-x-actually-confirms-them/)
+## [Slashdot] Spotify To Phase Out Service In Uruguay Following New Copyright Bill
+```
+Laura Snapes reports via The Guardian: Spotify is to phase out its service in Uruguay after the passing of a new music copyright bill requiring "fair and equitable remuneration" for authors, composers
+```
+
+Link: [Click](https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Third-Party Data Breach Affecting Canadian Government Could Involve Data From 1999
+```
+Connor Jones reports via The Register: The government of Canada has confirmed its data was accessed after two of its third-party service providers were attacked. The third parties both provided reloca
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] ChatGPT: Everything you need to know about the AI-powered chatbot
+Link: [Click](https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 ## [Techcrunch] A timeline of Sam Altman’s firing from OpenAI — and the fallout
-Link: [Click](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+Link: [Click](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 
-## [Techcrunch] Microsoft CEO Satya Nadella suggests that Sam Altman might return to OpenAI
-Link: [Click](https://techcrunch.com/2023/11/20/microsoft-ceo-satya-nadella-suggests-that-sam-altman-might-return-to-openai/)
+## [Techcrunch] Callyope monitors mental health through speech-based technology
+Link: [Click](https://techcrunch.com/2023/11/21/callyope-monitors-mental-health-through-speech-based-technology/)
 
-## [Techcrunch] European investors grab the popcorn for the new ‘series’ of OpenAI, but are fearful of the fallout
-Link: [Click](https://techcrunch.com/2023/11/20/european-investors-grab-the-popcorn/)
+## [Techcrunch] Lightspeed finalizing leading $80M-plus funding in Pocket FM
+Link: [Click](https://techcrunch.com/2023/11/21/lightspeed-finalizing-leading-80m-plus-funding-in-pocket-fm/)
 
-## [Techcrunch] Chaos at OpenAI adds fuel to the AI talent poaching war
-Link: [Click](https://techcrunch.com/2023/11/20/openai-ai-talent-poaching-war/)
+## [Techcrunch] OpenAI’s initial new board counts Larry Summers among its ranks
+Link: [Click](https://techcrunch.com/2023/11/21/openais-initial-new-board-counts-larry-summers-among-its-ranks/)
 
-## [Theregister] CompSci teachers panic as Replit pulls the plug on educational IDE
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/comp_sci_panic/)
+## [Techcrunch] Sam Altman to return as OpenAI CEO
+Link: [Click](https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/)
 
-## [Theregister] Microsoft adds FPGA-powered network accelerator to Azure
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/azure_boost_network_accelerator/)
+## [Techcrunch] Florida judge finds Tesla, Elon Musk knew of defective Autopilot system
+Link: [Click](https://techcrunch.com/2023/11/21/florida-judge-finds-tesla-elon-musk-knew-of-defective-autopilot-system/)
 
-## [Theregister] North Korea readies third attempt at 'spy satellite' launch
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/north_korea_satellite_launch_attempt/)
+## [Techcrunch] Crezco aims to make integrating bill payments easier
+Link: [Click](https://techcrunch.com/2023/11/21/crezco-aims-to-make-integrating-bill-payments-easier/)
 
-## [Theregister] Telco CEO quits after admitting she needs to carry rivals' SIM cards to stay in touch
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/optus_ceo_quits/)
+## [Theregister] Nvidia revenue explodes, led by datacenter products and … InfiniBand?
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/nvidia_q3_2023/)
 
-## [Theregister] OpenAI meltdown: How could Microsoft have let this happen after betting so many billions?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/microsoft_openai_altman_nadella/)
+## [Theregister] Sam Altman set to rejoin OpenAI as CEO with Microsoft's blessing
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/sam_altman_openai_return/)
 
-## [Theregister] Boffins claim invention of rechargable, biodegradable, supercapacitor drug pump
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/implantable_rechargable_supercapacitor_drugs/)
+## [Theregister] China's regulator paused VMware purchase probe before desired close date
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/china_samr_broadcom_vmware/)
 
-## [Theregister] OpenAI staff threaten to leave if ousted CEO Altman is not reinstated
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/openai_staff_threaten_to_leave/)
+## [Theregister] Lenovo sues Asus for patent infringement, seeks US ZenBook ban
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/lenovo_takes_asus_to_court/)
 
-## [Theregister] Fired OpenAI boss Sam Altman may join Microsoft
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/20/ex_openai_boss_sam_altman_to_join_microsoft/)
+## [Theregister] Baidu joins Tencent in downplaying impact of US chip bans on AI ambitions
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/baidu_q3_2023/)
 
-## [Theverge] X sues Media Matters to silence moderation criticism
-Link: [Click](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+## [Theregister] India's $20B Smart Cities Mission isn't, and has hardly scratched the surface after eight years
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/india_smart_cities_mission/)
 
-## [Theverge] Everything we know so far about OpenAI, Sam Altman’s firing, and what happens next
+## [Theregister] US govt pays AT&amp;T to let cops search Americans' phone records – 'usually' without a warrant
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+
+## [Theregister] Binance and CEO admit financial crimes, billions coughed up to US govt
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/binance_ceo_settlement/)
+
+## [Theregister] Ex-OpenAI staff launch new chatbot – yup, it's Anthropic with Claude 2.1
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/anthropic_claude_chatbot/)
+
+## [Theverge] Everything we know so far about OpenAI, Sam Altman’s return, and what happens next
 Link: [Click](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+
+## [Theverge] Breaking: Sam Altman to return as CEO of OpenAI
+Link: [Click](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
