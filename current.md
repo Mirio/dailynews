@@ -1,124 +1,146 @@
-## [Arstechnica] USB worm unleashed by Russian state hackers spreads worldwide
+## [Lifehacker] These Are Some of Walmart's Best Black Friday Dyson Vacuum Deals
 ```
-LitterDrifter's means of self-propagation are simple. So why is it spreading so widely?
-```
-
-Link: [Click](https://arstechnica.com/?p=1985993)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, November 22, 2023
-```
-Here are some hints to help you win NYT Connections #164.
+Get a Dyson vacuum deal at Walmart ahead of Black Friday 2023
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
+Link: [Click](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 
-## [Lifehacker] These Are the Best Streaming Service Deals for Black Friday
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, November 23, 2023
 ```
-Streaming services are offering some steep discounts for Black Friday—here are the best we've found.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-
-## [Lifehacker] The Kindle Scribe Is One of the Best E-Readers You Can Buy
-```
-The Kindle Scribe offers one of the best (and biggest) ways to read books through Amazon's Kindle store.
+Here are some hints to help you win NYT Connections #165.
 ```
 
-Link: [Click](https://lifehacker.com/tech/kindle-scribe-review)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 
-## [Ycombinator] We have reached an agreement in principle for Sam to return to OpenAI as CEO
-Link: [Click](https://twitter.com/openai/status/1727206187077370115)
-
-## [Ycombinator] FTC authorizes compulsory process for AI-related products and services
-Link: [Click](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
-
-## [Ycombinator] Bacteria store memories and pass them on for generations
-Link: [Click](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
-
-## [Ycombinator] How does Cave/Glade Generator Work
-Link: [Click](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
-
-## [Slashdot] World's Richest 1% Emit As Much Carbon As Bottom Two-Thirds, Report Finds
+## [Lifehacker] This Inflatable Kayak Is Only $85 for Black Friday
 ```
-An anonymous reader quotes a report from Phys.Org: The richest one percent of the global population are responsible for the same amount of carbon emissions as the world's poorest two-thirds, or five b
+The Sevylor K5 Quikpak comes in a package with a paddle, pump, and backpack.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 
-## [Slashdot] FCC Proposes Ban On Cable and Satellite Early Termination Fees
+## [Lifehacker] The Key to Better Studying Is Self-Explanation
 ```
-FCC Chairwoman Jessica Rosenworcel today outlined a new proposal that would ban cable and satellite companies from charging subscribers early termination fees. Deadline reports: Some subscribers who s
-```
-
-Link: [Click](https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Spotify To Phase Out Service In Uruguay Following New Copyright Bill
-```
-Laura Snapes reports via The Guardian: Spotify is to phase out its service in Uruguay after the passing of a new music copyright bill requiring "fair and equitable remuneration" for authors, composers
+You shouldn't just know the facts of your material, but why the facts are the facts at all.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/family/self-explanation-study-method)
 
-## [Slashdot] Third-Party Data Breach Affecting Canadian Government Could Involve Data From 1999
+## [Lifehacker] 15 Amazon Black Friday Tech Deals I’m Actually Excited About
 ```
-Connor Jones reports via The Register: The government of Canada has confirmed its data was accessed after two of its third-party service providers were attacked. The third parties both provided reloca
+When everything is a "Black Friday deal," nothing is—but these highlights from Amazon's ongoing sale are actually worth paying attention to.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
 
-## [Techcrunch] ChatGPT: Everything you need to know about the AI-powered chatbot
-Link: [Click](https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
+## [Lifehacker] Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong
+```
+Barbells, dumbbells, benches, squat racks, and rowers are among the already-affordable items that Walmart has given deep discounts for Black Friday 2023
+```
 
-## [Techcrunch] A timeline of Sam Altman’s firing from OpenAI — and the fallout
-Link: [Click](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+Link: [Click](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 
-## [Techcrunch] Callyope monitors mental health through speech-based technology
-Link: [Click](https://techcrunch.com/2023/11/21/callyope-monitors-mental-health-through-speech-based-technology/)
+## [Ycombinator] test, [, and [[ (2020)
+Link: [Click](https://jmmv.dev/2020/03/test-bracket.html)
 
-## [Techcrunch] Lightspeed finalizing leading $80M-plus funding in Pocket FM
-Link: [Click](https://techcrunch.com/2023/11/21/lightspeed-finalizing-leading-80m-plus-funding-in-pocket-fm/)
+## [Ycombinator] Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD
+Link: [Click](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 
-## [Techcrunch] OpenAI’s initial new board counts Larry Summers among its ranks
-Link: [Click](https://techcrunch.com/2023/11/21/openais-initial-new-board-counts-larry-summers-among-its-ranks/)
+## [Ycombinator] Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse
+Link: [Click](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 
-## [Techcrunch] Sam Altman to return as OpenAI CEO
-Link: [Click](https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/)
+## [Ycombinator] Put some CLOS in your ECS
+Link: [Click](https://edoput.it/2023/11/19/data-oriented-clos.html)
 
-## [Techcrunch] Florida judge finds Tesla, Elon Musk knew of defective Autopilot system
-Link: [Click](https://techcrunch.com/2023/11/21/florida-judge-finds-tesla-elon-musk-knew-of-defective-autopilot-system/)
+## [Ycombinator] Intro to Large Language Models [Video]
+Link: [Click](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
-## [Techcrunch] Crezco aims to make integrating bill payments easier
-Link: [Click](https://techcrunch.com/2023/11/21/crezco-aims-to-make-integrating-bill-payments-easier/)
+## [Ycombinator] The power of bidiagonal matrices
+Link: [Click](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 
-## [Theregister] Nvidia revenue explodes, led by datacenter products and … InfiniBand?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/nvidia_q3_2023/)
+## [Ycombinator] An Interactive Guide to CSS Grid
+Link: [Click](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 
-## [Theregister] Sam Altman set to rejoin OpenAI as CEO with Microsoft's blessing
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/sam_altman_openai_return/)
+## [Ycombinator] Computational Modelling of Terrains
+Link: [Click](https://tudelft3d.github.io/terrainbook/)
 
-## [Theregister] China's regulator paused VMware purchase probe before desired close date
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/china_samr_broadcom_vmware/)
+## [Ycombinator] A gentle introduction to two's complement
+Link: [Click](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
 
-## [Theregister] Lenovo sues Asus for patent infringement, seeks US ZenBook ban
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/lenovo_takes_asus_to_court/)
+## [Slashdot] GameMaker Ditches Subscription Model For Indie Developers
+```
+GameMaker announced that it will be free to use for noncommercial, non-console projects, breaking away from Unity and its massive pricing controversy that saw game developers boycotting the engine. Th
+```
 
-## [Theregister] Baidu joins Tencent in downplaying impact of US chip bans on AI ambitions
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/baidu_q3_2023/)
+Link: [Click](https://games.slashdot.org/story/23/11/23/0146240/gamemaker-ditches-subscription-model-for-indie-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] India's $20B Smart Cities Mission isn't, and has hardly scratched the surface after eight years
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/india_smart_cities_mission/)
+## [Slashdot] OpenAI Researchers Warned Board of AI Breakthrough Ahead of CEO Ouster
+```
+An anonymous reader quotes a report from Reuters: Ahead of OpenAI CEO Sam Altman's four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial i
+```
 
-## [Theregister] US govt pays AT&amp;T to let cops search Americans' phone records – 'usually' without a warrant
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+Link: [Click](https://slashdot.org/story/23/11/23/0130213/openai-researchers-warned-board-of-ai-breakthrough-ahead-of-ceo-ouster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Binance and CEO admit financial crimes, billions coughed up to US govt
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/binance_ceo_settlement/)
+## [Slashdot] New Jersey Moves To Ban New Gas Powered Vehicle Sales From 2035
+```
+Brian Silvestro reports via Motor1.com: New Jersey announced a new rule set on Wednesday laying out plans to transition sales of light-duty vehicles in the state to 100-percent zero-emission by 2035. 
+```
 
-## [Theregister] Ex-OpenAI staff launch new chatbot – yup, it's Anthropic with Claude 2.1
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/21/anthropic_claude_chatbot/)
+Link: [Click](https://tech.slashdot.org/story/23/11/22/2325224/new-jersey-moves-to-ban-new-gas-powered-vehicle-sales-from-2035?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] Everything we know so far about OpenAI, Sam Altman’s return, and what happens next
-Link: [Click](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+## [Slashdot] Lenovo Seeks Halt of Asus Laptop Sales Over Alleged Patent Infringement
+```
+Lenovo has filed a lawsuit against Asus, claiming that the company's laptops infringe on four of their patents. "Lenovo is seeking damages and for Asus to stop selling Zenbook laptops and other allege
+```
 
-## [Theverge] Breaking: Sam Altman to return as CEO of OpenAI
-Link: [Click](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
+Link: [Click](https://yro.slashdot.org/story/23/11/22/2321240/lenovo-seeks-halt-of-asus-laptop-sales-over-alleged-patent-infringement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Robocar Tech Biz Sues Nvidia, Claims Stolen Code Shared In Teams Meeting Blunder
+```
+Dan Robinson reports via The Register: Nvidia is facing legal action in the U.S. for theft of trade secrets from a German automotive company, which alleges its ex-employee made an epic blunder of show
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/11/22/2314257/robocar-tech-biz-sues-nvidia-claims-stolen-code-shared-in-teams-meeting-blunder?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Sam Altman's Involvement In Worldcoin Is 'Not Expected To Change'
+```
+An anonymous reader quotes a report from TechCrunch: Sam Altman may have been asked to leave OpenAI, but his involvement in crypto project Tools for Humanity, which is building Worldcoin, remains unin
+```
+
+Link: [Click](https://slashdot.org/story/23/11/22/238205/sam-altmans-involvement-in-worldcoin-is-not-expected-to-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] India seeks to regulate deepfakes amid ethical concerns
+Link: [Click](https://techcrunch.com/2023/11/22/india-seeks-to-regulate-deepfakes-amid-ethical-concerns/)
+
+## [Techcrunch] Pakistan-based BusCaro is providing safer transportation options, especially for women
+Link: [Click](https://techcrunch.com/2023/11/22/pakistan-based-buscaro-is-providing-safer-transportation-options-especially-for-women/)
+
+## [Techcrunch] Elon Musk says X will show headlines on the platform again
+Link: [Click](https://techcrunch.com/2023/11/22/elon-musk-says-x-will-show-headlines-on-the-platform-again/)
+
+## [Techcrunch] Singapore-based Climate Alpha analyzes the impact of climate change on real estate
+Link: [Click](https://techcrunch.com/2023/11/22/climate-alpha/)
+
+## [Techcrunch] OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return
+Link: [Click](https://techcrunch.com/2023/11/22/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
+
+## [Theregister] Long-term space missions might make liftoff harder for male astronauts
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/space_exposure_erectile_dysfunction/)
+
+## [Theregister] NTT adapts AI network analysis tool to detect faults in nuclear fusion reactors
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/ntt_ai_nuclear_fusion_control/)
+
+## [Theregister] New Relic warns customers it's experienced a cyber … something
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/)
+
+## [Theregister] Broadcom re-orgs VMware into four divisions – none of which mention end-user compute products
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/broadcom_vmware_reorg/)
+
+## [Theregister] North Korea makes finding a gig even harder by attacking candidates and employers
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/north_korea_attacks_job_market/)
+
+## [Theregister] How to give Windows Hello the finger and login as someone on their stolen laptop
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/windows_hello_fingerprint_bypass/)
+
+## [Theregister] US nuke reactor lab hit by 'gay furry hackers' demanding cat-human mutants
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/nuclear_lab_hacked/)
