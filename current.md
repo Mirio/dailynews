@@ -1,146 +1,72 @@
-## [Lifehacker] These Are Some of Walmart's Best Black Friday Dyson Vacuum Deals
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, November 24, 2023
 ```
-Get a Dyson vacuum deal at Walmart ahead of Black Friday 2023
-```
-
-Link: [Click](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, November 23, 2023
-```
-Here are some hints to help you win NYT Connections #165.
+Here are some hints to help you win NYT Connections #166.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 
-## [Lifehacker] This Inflatable Kayak Is Only $85 for Black Friday
+## [Ycombinator] Mid-old cells are a potential target for anti-aging interventions in the elderly
+Link: [Click](https://www.nature.com/articles/s41467-023-43491-w)
+
+## [Ycombinator] State Dept prioritizes 'AI-ready workforce' in its first AI strategy
+Link: [Click](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
+
+## [Ycombinator] Odigos (YC W23) Is Hiring eBPF Engineer
+Link: [Click](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
+
+## [Ycombinator] Things you're allowed to do (2020)
+Link: [Click](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+
+## [Ycombinator] Flutter seems to be having bad times internally
+Link: [Click](https://twitter.com/timsneath/status/1727852099407622163)
+
+## [Ycombinator] FullControl: Unconstrained gcode design for 3D printers
+Link: [Click](https://github.com/FullControlXYZ/fullcontrol)
+
+## [Ycombinator] Bosque Programming Language
+Link: [Click](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
+
+## [Ycombinator] The BPF-programmable network device
+Link: [Click](https://lwn.net/Articles/949960/)
+
+## [Ycombinator] Extremely large telescopes at risk
+Link: [Click](https://www.science.org/doi/10.1126/science.adm9964)
+
+## [Ycombinator] 'Sunspot archipelago' 15 times wider than Earth could soon bombard us
+Link: [Click](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
+
+## [Slashdot] Nvidia Delays Launch of New China-focused AI Chip
 ```
-The Sevylor K5 Quikpak comes in a package with a paddle, pump, and backpack.
-```
-
-Link: [Click](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
-
-## [Lifehacker] The Key to Better Studying Is Self-Explanation
-```
-You shouldn't just know the facts of your material, but why the facts are the facts at all.
-```
-
-Link: [Click](https://lifehacker.com/family/self-explanation-study-method)
-
-## [Lifehacker] 15 Amazon Black Friday Tech Deals I’m Actually Excited About
-```
-When everything is a "Black Friday deal," nothing is—but these highlights from Amazon's ongoing sale are actually worth paying attention to.
-```
-
-Link: [Click](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
-
-## [Lifehacker] Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong
-```
-Barbells, dumbbells, benches, squat racks, and rowers are among the already-affordable items that Walmart has given deep discounts for Black Friday 2023
-```
-
-Link: [Click](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
-
-## [Ycombinator] test, [, and [[ (2020)
-Link: [Click](https://jmmv.dev/2020/03/test-bracket.html)
-
-## [Ycombinator] Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD
-Link: [Click](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
-
-## [Ycombinator] Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse
-Link: [Click](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
-
-## [Ycombinator] Put some CLOS in your ECS
-Link: [Click](https://edoput.it/2023/11/19/data-oriented-clos.html)
-
-## [Ycombinator] Intro to Large Language Models [Video]
-Link: [Click](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-
-## [Ycombinator] The power of bidiagonal matrices
-Link: [Click](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
-
-## [Ycombinator] An Interactive Guide to CSS Grid
-Link: [Click](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-
-## [Ycombinator] Computational Modelling of Terrains
-Link: [Click](https://tudelft3d.github.io/terrainbook/)
-
-## [Ycombinator] A gentle introduction to two's complement
-Link: [Click](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
-
-## [Slashdot] GameMaker Ditches Subscription Model For Indie Developers
-```
-GameMaker announced that it will be free to use for noncommercial, non-console projects, breaking away from Unity and its massive pricing controversy that saw game developers boycotting the engine. Th
+Nvidia has told customers in China it is delaying the launch of a new AI chip it designed to comply with U.S. export rules until the first quarter of next year, Reuters reported Friday, citing sources
 ```
 
-Link: [Click](https://games.slashdot.org/story/23/11/23/0146240/gamemaker-ditches-subscription-model-for-indie-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://slashdot.org/story/23/11/24/0637216/nvidia-delays-launch-of-new-china-focused-ai-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] OpenAI Researchers Warned Board of AI Breakthrough Ahead of CEO Ouster
+## [Slashdot] Some Pixel 8 Pro Displays Have Bumps Under the Glass
 ```
-An anonymous reader quotes a report from Reuters: Ahead of OpenAI CEO Sam Altman's four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial i
-```
-
-Link: [Click](https://slashdot.org/story/23/11/23/0130213/openai-researchers-warned-board-of-ai-breakthrough-ahead-of-ceo-ouster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] New Jersey Moves To Ban New Gas Powered Vehicle Sales From 2035
-```
-Brian Silvestro reports via Motor1.com: New Jersey announced a new rule set on Wednesday laying out plans to transition sales of light-duty vehicles in the state to 100-percent zero-emission by 2035. 
+Some Pixel 8 Pro owners have noticed circular bumps in several places on the screen that look to be the result of something pressing up against the underside, which is soft and fragile, of the 6.7-inc
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/22/2325224/new-jersey-moves-to-ban-new-gas-powered-vehicle-sales-from-2035?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://it.slashdot.org/story/23/11/24/0223213/some-pixel-8-pro-displays-have-bumps-under-the-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Lenovo Seeks Halt of Asus Laptop Sales Over Alleged Patent Infringement
+## [Slashdot] Personal Data Stolen in British Library Cyber-Attack Appears for Sale Online
 ```
-Lenovo has filed a lawsuit against Asus, claiming that the company's laptops infringe on four of their patents. "Lenovo is seeking damages and for Asus to stop selling Zenbook laptops and other allege
-```
-
-Link: [Click](https://yro.slashdot.org/story/23/11/22/2321240/lenovo-seeks-halt-of-asus-laptop-sales-over-alleged-patent-infringement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Robocar Tech Biz Sues Nvidia, Claims Stolen Code Shared In Teams Meeting Blunder
-```
-Dan Robinson reports via The Register: Nvidia is facing legal action in the U.S. for theft of trade secrets from a German automotive company, which alleges its ex-employee made an epic blunder of show
+The British Library has confirmed that personal data stolen in a cyber-attack has appeared online, apparently for sale to the highest bidder. From a report: The attack was carried out in October by a 
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/11/22/2314257/robocar-tech-biz-sues-nvidia-claims-stolen-code-shared-in-teams-meeting-blunder?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://it.slashdot.org/story/23/11/23/2012218/personal-data-stolen-in-british-library-cyber-attack-appears-for-sale-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Sam Altman's Involvement In Worldcoin Is 'Not Expected To Change'
-```
-An anonymous reader quotes a report from TechCrunch: Sam Altman may have been asked to leave OpenAI, but his involvement in crypto project Tools for Humanity, which is building Worldcoin, remains unin
-```
+## [Theregister] User read the manual, followed instructions, still couldn't make 'Excel' work
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/on_call/)
 
-Link: [Click](https://slashdot.org/story/23/11/22/238205/sam-altmans-involvement-in-worldcoin-is-not-expected-to-change?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Theregister] Europe's Ariane 6 rocket rated 'ready to rumble' after passing hot fire test
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/ariane_6_hot_fire_success/)
 
-## [Techcrunch] India seeks to regulate deepfakes amid ethical concerns
-Link: [Click](https://techcrunch.com/2023/11/22/india-seeks-to-regulate-deepfakes-amid-ethical-concerns/)
+## [Theregister] Singapore to deter crypto investors with tactics like those used on smokers, gamblers
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/singapore_to_regulate_crypto/)
 
-## [Techcrunch] Pakistan-based BusCaro is providing safer transportation options, especially for women
-Link: [Click](https://techcrunch.com/2023/11/22/pakistan-based-buscaro-is-providing-safer-transportation-options-especially-for-women/)
+## [Theregister] India's space gatekeepers pick Eutelsat OneWeb to provide satellite broadband
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/eutelsat_oneweb_india/)
 
-## [Techcrunch] Elon Musk says X will show headlines on the platform again
-Link: [Click](https://techcrunch.com/2023/11/22/elon-musk-says-x-will-show-headlines-on-the-platform-again/)
-
-## [Techcrunch] Singapore-based Climate Alpha analyzes the impact of climate change on real estate
-Link: [Click](https://techcrunch.com/2023/11/22/climate-alpha/)
-
-## [Techcrunch] OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return
-Link: [Click](https://techcrunch.com/2023/11/22/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
-
-## [Theregister] Long-term space missions might make liftoff harder for male astronauts
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/space_exposure_erectile_dysfunction/)
-
-## [Theregister] NTT adapts AI network analysis tool to detect faults in nuclear fusion reactors
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/ntt_ai_nuclear_fusion_control/)
-
-## [Theregister] New Relic warns customers it's experienced a cyber … something
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/)
-
-## [Theregister] Broadcom re-orgs VMware into four divisions – none of which mention end-user compute products
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/broadcom_vmware_reorg/)
-
-## [Theregister] North Korea makes finding a gig even harder by attacking candidates and employers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/23/north_korea_attacks_job_market/)
-
-## [Theregister] How to give Windows Hello the finger and login as someone on their stolen laptop
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/windows_hello_fingerprint_bypass/)
-
-## [Theregister] US nuke reactor lab hit by 'gay furry hackers' demanding cat-human mutants
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/22/nuclear_lab_hacked/)
+## [Theregister] Stop shaming service providers for outages, argues APNIC chief scientist
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/routing_police/)
