@@ -1,72 +1,73 @@
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, November 24, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, November 25, 2023
 ```
-Here are some hints to help you win NYT Connections #166.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
-
-## [Ycombinator] Mid-old cells are a potential target for anti-aging interventions in the elderly
-Link: [Click](https://www.nature.com/articles/s41467-023-43491-w)
-
-## [Ycombinator] State Dept prioritizes 'AI-ready workforce' in its first AI strategy
-Link: [Click](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
-
-## [Ycombinator] Odigos (YC W23) Is Hiring eBPF Engineer
-Link: [Click](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
-
-## [Ycombinator] Things you're allowed to do (2020)
-Link: [Click](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-
-## [Ycombinator] Flutter seems to be having bad times internally
-Link: [Click](https://twitter.com/timsneath/status/1727852099407622163)
-
-## [Ycombinator] FullControl: Unconstrained gcode design for 3D printers
-Link: [Click](https://github.com/FullControlXYZ/fullcontrol)
-
-## [Ycombinator] Bosque Programming Language
-Link: [Click](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
-
-## [Ycombinator] The BPF-programmable network device
-Link: [Click](https://lwn.net/Articles/949960/)
-
-## [Ycombinator] Extremely large telescopes at risk
-Link: [Click](https://www.science.org/doi/10.1126/science.adm9964)
-
-## [Ycombinator] 'Sunspot archipelago' 15 times wider than Earth could soon bombard us
-Link: [Click](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
-
-## [Slashdot] Nvidia Delays Launch of New China-focused AI Chip
-```
-Nvidia has told customers in China it is delaying the launch of a new AI chip it designed to comply with U.S. export rules until the first quarter of next year, Reuters reported Friday, citing sources
+Here are some hints to help you win NYT Connections #167.
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/24/0637216/nvidia-delays-launch-of-new-china-focused-ai-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 
-## [Slashdot] Some Pixel 8 Pro Displays Have Bumps Under the Glass
+## [Lifehacker] The Best Black Friday Deals on Kitchen Tools
 ```
-Some Pixel 8 Pro owners have noticed circular bumps in several places on the screen that look to be the result of something pressing up against the underside, which is soft and fragile, of the 6.7-inc
-```
-
-Link: [Click](https://it.slashdot.org/story/23/11/24/0223213/some-pixel-8-pro-displays-have-bumps-under-the-glass?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Personal Data Stolen in British Library Cyber-Attack Appears for Sale Online
-```
-The British Library has confirmed that personal data stolen in a cyber-attack has appeared online, apparently for sale to the highest bidder. From a report: The attack was carried out in October by a 
+There's never been a better time to grab a KitchenAid mixer or an air fryer.
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/23/2012218/personal-data-stolen-in-british-library-cyber-attack-appears-for-sale-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 
-## [Theregister] User read the manual, followed instructions, still couldn't make 'Excel' work
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/on_call/)
+## [Netflixtechblog] Causal Machine Learning for Creative Insights
+Link: [Click](https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96?source=rss----2615bd06b42e---4)
 
-## [Theregister] Europe's Ariane 6 rocket rated 'ready to rumble' after passing hot fire test
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/ariane_6_hot_fire_success/)
+## [Ycombinator] Tesla Normal Operating Sounds
+Link: [Click](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
 
-## [Theregister] Singapore to deter crypto investors with tactics like those used on smokers, gamblers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/singapore_to_regulate_crypto/)
+## [Ycombinator] The Bond villain compliance strategy
+Link: [Click](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 
-## [Theregister] India's space gatekeepers pick Eutelsat OneWeb to provide satellite broadband
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/eutelsat_oneweb_india/)
+## [Ycombinator] ArchiveTeam is downloading and saving content from Blogger
+Link: [Click](https://wiki.archiveteam.org/index.php/Blogger)
 
-## [Theregister] Stop shaming service providers for outages, argues APNIC chief scientist
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/24/routing_police/)
+## [Ycombinator] Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015)
+Link: [Click](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
+
+## [Ycombinator] There are no strings on me
+Link: [Click](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
+
+## [Slashdot] ECB Chief Lagarde Admits Her Son Lost Crypto Cash
+```
+No one is a prophet in their own land, including European Central Bank President Christine Lagarde, who admitted on Friday that her son lost "almost all" of his investments in crypto assets, despite c
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/25/0154202/ecb-chief-lagarde-admits-her-son-lost-crypto-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Putin Says West Cannot Have AI Monopoly So Russia Must Up Its Game
+```
+Russia President Vladimir Putin on Friday warned that the West should not be allowed to develop a monopoly in the sphere of AI, and said that a much more ambitious Russian strategy for the development
+```
+
+Link: [Click](https://slashdot.org/story/23/11/25/0152234/putin-says-west-cannot-have-ai-monopoly-so-russia-must-up-its-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] China's Secretive Sunway Pro CPU Quadruples Performance Over Its Predecessor
+```
+An anonymous reader shares a report: Earlier this year, the National Supercomputing Center in Wuxi (an entity blacklisted in the U.S.) launched its new supercomputer based on the enhanced China-design
+```
+
+Link: [Click](https://hardware.slashdot.org/story/23/11/25/0036227/chinas-secretive-sunway-pro-cpu-quadruples-performance-over-its-predecessor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Theverge] Some of our favorite devices are on sale for Black Friday
+Link: [Click](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+
+## [Theverge] The best Black Friday 2023 deals you can still get
+Link: [Click](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+
+## [Theverge] The best Black Friday deals on headphones and earbuds
+Link: [Click](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+
+## [Theverge] The best Black Friday deals you can get for under $25
+Link: [Click](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
+
+## [Theverge] The best Black Friday deals on Amazon devices
+Link: [Click](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
+
+## [Theverge] The best gaming deals for Black Friday 2023
+Link: [Click](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
+
+## [Theverge] Best Black Friday deals on smartwatches and fitness trackers
+Link: [Click](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
