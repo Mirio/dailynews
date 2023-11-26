@@ -1,73 +1,43 @@
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, November 25, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Sunday, November 26, 2023
 ```
-Here are some hints to help you win NYT Connections #167.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
-
-## [Lifehacker] The Best Black Friday Deals on Kitchen Tools
-```
-There's never been a better time to grab a KitchenAid mixer or an air fryer.
+Here are some hints to help you win NYT Connections #168.
 ```
 
-Link: [Click](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 
-## [Netflixtechblog] Causal Machine Learning for Creative Insights
-Link: [Click](https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96?source=rss----2615bd06b42e---4)
+## [Ycombinator] Naev – open-source game about space exploration, trade and combat
+Link: [Click](https://naev.org/)
 
-## [Ycombinator] Tesla Normal Operating Sounds
-Link: [Click](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+## [Ycombinator] The Flix Programming Language
+Link: [Click](https://flix.dev/)
 
-## [Ycombinator] The Bond villain compliance strategy
-Link: [Click](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
+## [Ycombinator] Raiders of the Lost Ark Story Conference (1978)
+Link: [Click](https://nloewen.com/docs/lucas-spielberg-kasdan--raiders-of-the-lost-ark-story-conference/)
 
-## [Ycombinator] ArchiveTeam is downloading and saving content from Blogger
-Link: [Click](https://wiki.archiveteam.org/index.php/Blogger)
+## [Ycombinator] Selfhosted Email by Maddy on Oracle Cloud
+Link: [Click](https://taoshu.in/net/selfhost-email.html)
 
-## [Ycombinator] Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015)
-Link: [Click](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
+## [Ycombinator] The Curse of Docker
+Link: [Click](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 
-## [Ycombinator] There are no strings on me
-Link: [Click](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
+## [Ycombinator] We have lost access to approximately €6k in bounties
+Link: [Click](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 
-## [Slashdot] ECB Chief Lagarde Admits Her Son Lost Crypto Cash
+## [Ycombinator] At Meta, Underage Users Were an 'Open Secret,' States Say
+Link: [Click](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)
+
+## [Slashdot] Meta Knowingly Collected Data on Pre-Teens, Unredacted Evidence From Lawsuit Shows
 ```
-No one is a prophet in their own land, including European Central Bank President Christine Lagarde, who admitted on Friday that her son lost "almost all" of his investments in crypto assets, despite c
-```
+The New York Times reports:
 
-Link: [Click](https://news.slashdot.org/story/23/11/25/0154202/ecb-chief-lagarde-admits-her-son-lost-crypto-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Putin Says West Cannot Have AI Monopoly So Russia Must Up Its Game
-```
-Russia President Vladimir Putin on Friday warned that the West should not be allowed to develop a monopoly in the sphere of AI, and said that a much more ambitious Russian strategy for the development
+Meta has received more than 1.1 million reports of users under the age of 13 on its Instagram platform since early 2019 yet it "disabled only a fraction" of those accounts
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/25/0152234/putin-says-west-cannot-have-ai-monopoly-so-russia-must-up-its-game?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/23/11/26/0428256/meta-knowingly-collected-data-on-pre-teens-unredacted-evidence-from-lawsuit-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] China's Secretive Sunway Pro CPU Quadruples Performance Over Its Predecessor
+## [Slashdot] Google Confirms Its Schedule for Disabling Third-Party Cookies in Chrome - Starting in 2024
 ```
-An anonymous reader shares a report: Earlier this year, the National Supercomputing Center in Wuxi (an entity blacklisted in the U.S.) launched its new supercomputer based on the enhanced China-design
+"The abolition of third-party cookies will make it possible to protect privacy-related data such as what sites users visit and what pages they view from advertising companies," notes the Japan-based s
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/11/25/0036227/chinas-secretive-sunway-pro-cpu-quadruples-performance-over-its-predecessor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Theverge] Some of our favorite devices are on sale for Black Friday
-Link: [Click](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
-
-## [Theverge] The best Black Friday 2023 deals you can still get
-Link: [Click](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
-
-## [Theverge] The best Black Friday deals on headphones and earbuds
-Link: [Click](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
-
-## [Theverge] The best Black Friday deals you can get for under $25
-Link: [Click](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
-
-## [Theverge] The best Black Friday deals on Amazon devices
-Link: [Click](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
-
-## [Theverge] The best gaming deals for Black Friday 2023
-Link: [Click](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
-
-## [Theverge] Best Black Friday deals on smartwatches and fitness trackers
-Link: [Click](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
+Link: [Click](https://tech.slashdot.org/story/23/11/26/0011205/google-confirms-its-schedule-for-disabling-third-party-cookies-in-chrome---starting-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
