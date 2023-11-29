@@ -1,146 +1,144 @@
-## [Lifehacker] These Are Walmart's Best Cyber Monday Deals on Fitness Equipment
+## [Arstechnica] ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation
 ```
-These barbells, dumbbells, benches, squat racks, and rowers were already affordable, but the Cyber Monday 2023 prices are even better.
-```
-
-Link: [Click](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
-
-## [Lifehacker] The Best Tech Deals From Best Buy's Cyber Monday Sale
-```
-Cyber Monday deals at Best Buy are now live, and it is the retailer with the best tech deals.
+Easy-to-exploit flaw can give hackers passwords and cryptographic keys to vulnerable servers.
 ```
 
-Link: [Click](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
+Link: [Click](https://arstechnica.com/?p=1986988)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, November 28, 2023
+## [Arstechnica] A Victorian naturalist traded aboriginal remains in a scientific quid pro quo
 ```
-Here are some hints to help you win NYT Connections #170.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
-
-## [Ycombinator] The `hanging-punctuation property` in CSS
-Link: [Click](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-
-## [Ycombinator] Simplifying Transformer Blocks
-Link: [Click](https://arxiv.org/abs/2311.01906)
-
-## [Ycombinator] Designing a SIMD Algorithm from Scratch
-Link: [Click](https://mcyoung.xyz/2023/11/27/simd-base64/)
-
-## [Ycombinator] That time Verisign typo-squatted all of .com and .net
-Link: [Click](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
-
-## [Ycombinator] RPG Engine for the Nintendo 64
-Link: [Click](https://github.com/breadbored/N64-RPG)
-
-## [Ycombinator] Semaglutide treatment associated with high reduction in Alcohol Use Disorder
-Link: [Click](https://www.eurekalert.org/news-releases/1009292)
-
-## [Ycombinator] San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators
-Link: [Click](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
-
-## [Ycombinator] Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)
-Link: [Click](https://etleap.com/careers/software-engineer/)
-
-## [Ycombinator] Running SQL Queries on Org Tables
-Link: [Click](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
-
-## [Ycombinator] Antirez' tiny JSON selector library
-Link: [Click](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
-
-## [Ycombinator] Show HN: SwaraNotebook – a notation editor for Indian classical music
-Link: [Click](https://swaranotebook.com/)
-
-## [Ycombinator] Orion Browser by Kagi
-Link: [Click](https://kagi.com/orion/)
-
-## [Slashdot] Meta Designed Platforms To Get Children Addicted, Court Documents Allege
-```
-An anonymous reader quotes a report from The Guardian: Instagram and Facebook parent company Meta purposefully engineered its platforms to addict children and knowingly allowed underage users to hold 
+Morton Allport acquired his specimens through networks and sometimes grave-robbing
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/27/2242201/meta-designed-platforms-to-get-children-addicted-court-documents-allege?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1986689)
 
-## [Slashdot] Tech Conference Collapses After Organizer Admits To Making Fake 'Auto-Generated' Female Speaker
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, November 29, 2023
 ```
-Samantha Cole reports via 404 Media: The founder of a software developer conference has been accused of creating fake female speakers to bolster diversity numbers -- and some speakers are dropping out
-```
-
-Link: [Click](https://slashdot.org/story/23/11/27/2235211/tech-conference-collapses-after-organizer-admits-to-making-fake-auto-generated-female-speaker?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Several Piracy-Related Arrests Spark Fears of High-Level Crackdown In Nordic Region
-```
-A series of arrests that began in late August and continued into last week has sparked concerns that a relatively rare 'Scene' crackdown targeting the top of the so-called 'Piracy Pyramid' may be unde
+Here are some hints to help you win NYT Connections #171
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/11/27/2227245/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-in-nordic-region?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 
-## [Techcrunch] Wind.app makes DeFi accessible to the average consumer
-Link: [Click](https://techcrunch.com/2023/11/27/wind-app/)
+## [Lifehacker] How to See the Geminid Meteor Shower
+```
+Regarded by many as the best annual meteor shower, the Geminid is coming soon, to a sky near you.
+```
 
-## [Techcrunch] Amazon announces three new serverless offerings to kick off re:Invent
-Link: [Click](https://techcrunch.com/2023/11/27/amazon-announces-three-new-serverless-offerings-to-kick-off-reinvent/)
+Link: [Click](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 
-## [Techcrunch] Paris-based startup studio Hexa raises some funding to launch even more startups
-Link: [Click](https://techcrunch.com/2023/11/27/paris-based-startup-studio-hexa-raises-some-funding-to-launch-even-more-startups/)
+## [Ycombinator] It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago
+Link: [Click](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
 
-## [Techcrunch] Apple partner Foxconn to invest $1.5 billion in India
-Link: [Click](https://techcrunch.com/2023/11/27/apple-partner-foxconn-to-invest-1-5-billion-in-india/)
+## [Ycombinator] Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal
+Link: [Click](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
 
-## [Techcrunch] Inflow connects small fashion brands with manufacturers in Vietnam
-Link: [Click](https://techcrunch.com/2023/11/27/inflow/)
+## [Ycombinator] Wozmon for x86-64
+Link: [Click](https://github.com/IanSeyler/wozmon_x86-64)
 
-## [Techcrunch] European startup funding halved to $42B in 2023, says Atomico
-Link: [Click](https://techcrunch.com/2023/11/27/european-startup-funding-halved-to-42b-in-2023-says-atomico/)
+## [Ycombinator] An ex-Googler's guide to dev tools (2020)
+Link: [Click](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 
-## [Techcrunch] Cradle’s AI-powered protein programming platform levels up with $24M in new funding
-Link: [Click](https://techcrunch.com/2023/11/27/cradles-ai-powered-protein-programming-platform-levels-up-with-24m-in-new-funding/)
+## [Ycombinator] Massachusetts becomes fifth state to make prison calls free
+Link: [Click](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 
-## [Theregister] Samsung creates a group dedicated to inventing whatever comes next
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/samsung_future_business_planning_group/)
+## [Ycombinator] A rural post office was told to prioritize Amazon packages. Chaos ensued
+Link: [Click](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
+
+## [Ycombinator] Cyberattack – November 2023
+Link: [Click](https://www.blender.org/news/cyberattack-november-2023/)
+
+## [Ycombinator] Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL
+Link: [Click](https://twitter.com/ShopifyEng/status/1729500623773573265)
+
+## [Slashdot] RHEL 10 Plans To Drop X.Org Server Except For XWayland
+```
+"Red Hat is going to do away with the X.Org server and support Wayland and XWayland for apps that currently (or only) run on X11," writes Slashdot reader motang. Red Hat's Carlos Soriano Sanchez confi
+```
+
+Link: [Click](https://linux.slashdot.org/story/23/11/29/0559207/rhel-10-plans-to-drop-xorg-server-except-for-xwayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Files Suggest Climate Summit's Leader Is Using Event To Promote Fossil Fuels
+```
+An anonymous reader quotes a report from the New York Times: As the host of global climate talks that begin this week, the United Arab Emirates is expected to play a central role in forging an agreeme
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/28/2159245/files-suggest-climate-summits-leader-is-using-event-to-promote-fossil-fuels?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] American Airlines To Turn 10K Tons of CO2 Into Buried Carbon Blocks
+```
+American Airlines today announced a deal with Graphyte to purchase "carbon removal credits" to help accelerate its long-term goal to reach net-zero emissions by 2050. According to the announcement, th
+```
+
+Link: [Click](https://news.slashdot.org/story/23/11/28/2151228/american-airlines-to-turn-10k-tons-of-co2-into-buried-carbon-blocks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] AWS's Transcription Platform Is Now Powered By Generative AI
+```
+Emilia David reports via The Verge: AWS added new languages to its Amazon Transcribe product, offering generative AI-based transcription for 100 languages and a slew of new AI capabilities for custome
+```
+
+Link: [Click](https://slashdot.org/story/23/11/28/2141220/awss-transcription-platform-is-now-powered-by-generative-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Fanless AirJet Cooler Experiment Boosts MacBook Air To Match MacBook Pro's Performance
+```
+Anton Shilov reports via Tom's Hardware: Engineers from Frore Systems have integrated the company's innovative solid-state AirJet cooling system, which provides impressive cooling capabilities despite
+```
+
+Link: [Click](https://hardware.slashdot.org/story/23/11/28/2124223/fanless-airjet-cooler-experiment-boosts-macbook-air-to-match-macbook-pros-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Hackers Spent 2+ Years Looting Secrets of Chipmaker NXP Before Being Detected
+```
+An anonymous reader quotes a report from Ars Technica: A prolific espionage hacking group with ties to China spent over two years looting the corporate network of NXP, the Netherlands-based chipmaker 
+```
+
+Link: [Click](https://it.slashdot.org/story/23/11/28/2120238/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Prosus slashes Indian edtech giant Byju’s valuation to ‘sub-$3 billion’
+Link: [Click](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
+
+## [Techcrunch] Immensa, a MENA-based additive manufacturing and digital inventory platform, raises $20 million
+Link: [Click](https://techcrunch.com/2023/11/28/immensa-a-mena-based-additive-manufacturing-and-digital-inventory-platform-raises-20-million/)
+
+## [Techcrunch] FEBE Ventures launches $75 million second fund
+Link: [Click](https://techcrunch.com/2023/11/28/febe-ventures-launches-75-million-second-fund/)
+
+## [Techcrunch] London’s iconic black cabs can soon be hailed on Uber
+Link: [Click](https://techcrunch.com/2023/11/28/londons-iconic-black-cabs-can-soon-be-hailed-on-uber/)
+
+## [Theregister] No link between internet use and poor mental health, according to Oxford boffins
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/internet_mental_health_study/)
+
+## [Theregister] Japan's space agency suffers cyber attack, points finger at Active Directory
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/jaxa_cyberattack/)
+
+## [Theregister] Good luck finding competent Copilot help, warns Microsoft MVP
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/copilot_competence_scarce/)
+
+## [Theregister] Two sats, one customer: Japan's NTT signs up for Amazon's space internet
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/ntt_amazon_kuiper/)
+
+## [Theregister] VMware president Sumit Dhawan out – scores gig as CEO of infosec vendor Proofpoint
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/vmware_president_exits_broadcom/)
+
+## [Theregister] Japan's digital minister flamed and shamed for using his smartphone in Parliament
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/japanese_digital_minister_googling/)
+
+## [Theregister] Zuckerberg accused of OK'ing Insta plastic surgery filters despite fears of harm to kids
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/mark_zuckerberg_filters_teens/)
+
+## [Theregister] Someone else has a go at reforming US Section 702 spying powers – and nope, no warrant requirement
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/section_702_reauthorization_bill/)
+
+## [Theregister] Either the FBI is recruiting in Iran – or some govt Google ad buyers are getting a lousy deal
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/government_google_ads/)
+
+## [Theregister] Plex gives fans a privacy complex after sharing viewing habits with friends by default
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/plex_privacy/)
+
+## [Theregister] AI agents can copy humans to get closer to artificial general intelligence, DeepMind finds
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/ai_agents_can_copy_humans/)
 
 ## [Theregister] After bashing Nvidia for ‘arming’ China, Cerebras's backer G42 alarms US govt with suspected Beijing ties
 Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/cerebras_g42_china_refile/)
 
-## [Theregister] India's CERT given exemption from Right To Information requests
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/cert_in_rti_exemption/)
-
-## [Theregister] AWS previews AppFabric for productivity – pitched as AI-powered glue between apps
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/aws_appfabric/)
-
-## [Theregister] X/Twitter booted out of Australia's disinformation-fighting club
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/x_australia_trouble/)
-
-## [Theregister] DevTernity conference collapses amid claims women speakers were faked
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/devternity_conference_fake_speakers/)
-
-## [Theregister] 'Serial cybercriminal and scammer' jailed for 8 years, told to pay back $1.2M
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/serial_cybercriminal_and_scammer_sentenced/)
-
-## [Theregister] Data-destroying defect found after OpenZFS 2.2.0 release
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/27/openzfs_2_2_0_data_corruption/)
-
-## [Theverge] The best Cyber Monday deals for some of The Verge staff’s favorite stuff
-Link: [Click](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
-
-## [Theverge] The best Cyber Monday deals you can still get
-Link: [Click](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
-
-## [Theverge] The best Cyber Monday deals under $100
-Link: [Click](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
-
-## [Theverge] AWS’ transcription platform is now powered by generative AI
-Link: [Click](https://www.theverge.com/2023/11/27/23978822/aws-transcription-amazon-generative-ai)
-
-## [Theverge] Best Cyber Monday robot vacuum deals
-Link: [Click](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
-
-## [Theverge] The best Cyber Monday deals on smartwatches and fitness trackers
-Link: [Click](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
-
-## [Theverge] The best Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more
-Link: [Click](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
-
-## [Theverge] The best Cyber Monday deals for less than $50
-Link: [Click](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
+## [Theverge] London’s famed black cabs will be listed on Uber’s app in big win for the ridehail company
+Link: [Click](https://www.theverge.com/2023/11/28/23979409/uber-london-black-cab-app-referrals-taxi-ltda)
