@@ -1,144 +1,157 @@
-## [Arstechnica] ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation
+## [Arstechnica] Elon Musk on X antisemitism controversy: “Don’t advertise. Go f*** yourself”
 ```
-Easy-to-exploit flaw can give hackers passwords and cryptographic keys to vulnerable servers.
-```
-
-Link: [Click](https://arstechnica.com/?p=1986988)
-
-## [Arstechnica] A Victorian naturalist traded aboriginal remains in a scientific quid pro quo
-```
-Morton Allport acquired his specimens through networks and sometimes grave-robbing
+Musk says X advertiser backlash is "going to kill the company."
 ```
 
-Link: [Click](https://arstechnica.com/?p=1986689)
+Link: [Click](https://arstechnica.com/?p=1987322)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, November 29, 2023
+## [Arstechnica] 2 municipal water facilities report falling to hackers in separate breaches
 ```
-Here are some hints to help you win NYT Connections #171
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
-
-## [Lifehacker] How to See the Geminid Meteor Shower
-```
-Regarded by many as the best annual meteor shower, the Geminid is coming soon, to a sky near you.
+The facilities, in Pennsylvania and Texas, serve more than 2 million residents.
 ```
 
-Link: [Click](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
+Link: [Click](https://arstechnica.com/?p=1987313)
 
-## [Ycombinator] It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago
-Link: [Click](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
-
-## [Ycombinator] Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal
-Link: [Click](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
-
-## [Ycombinator] Wozmon for x86-64
-Link: [Click](https://github.com/IanSeyler/wozmon_x86-64)
-
-## [Ycombinator] An ex-Googler's guide to dev tools (2020)
-Link: [Click](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
-
-## [Ycombinator] Massachusetts becomes fifth state to make prison calls free
-Link: [Click](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
-
-## [Ycombinator] A rural post office was told to prioritize Amazon packages. Chaos ensued
-Link: [Click](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
-
-## [Ycombinator] Cyberattack – November 2023
-Link: [Click](https://www.blender.org/news/cyberattack-november-2023/)
-
-## [Ycombinator] Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL
-Link: [Click](https://twitter.com/ShopifyEng/status/1729500623773573265)
-
-## [Slashdot] RHEL 10 Plans To Drop X.Org Server Except For XWayland
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, November 30, 2023
 ```
-"Red Hat is going to do away with the X.Org server and support Wayland and XWayland for apps that currently (or only) run on X11," writes Slashdot reader motang. Red Hat's Carlos Soriano Sanchez confi
+Here are some hints to help you win NYT Connections #172.
 ```
 
-Link: [Click](https://linux.slashdot.org/story/23/11/29/0559207/rhel-10-plans-to-drop-xorg-server-except-for-xwayland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 
-## [Slashdot] Files Suggest Climate Summit's Leader Is Using Event To Promote Fossil Fuels
-```
-An anonymous reader quotes a report from the New York Times: As the host of global climate talks that begin this week, the United Arab Emirates is expected to play a central role in forging an agreeme
-```
+## [Ycombinator] Sam Altman returns as CEO, OpenAI has a new initial board
+Link: [Click](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 
-Link: [Click](https://news.slashdot.org/story/23/11/28/2159245/files-suggest-climate-summits-leader-is-using-event-to-promote-fossil-fuels?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] Henry Kissinger Has Died
+Link: [Click](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
 
-## [Slashdot] American Airlines To Turn 10K Tons of CO2 Into Buried Carbon Blocks
-```
-American Airlines today announced a deal with Graphyte to purchase "carbon removal credits" to help accelerate its long-term goal to reach net-zero emissions by 2050. According to the announcement, th
-```
+## [Ycombinator] Losing Metaphors: Zip and Paste
+Link: [Click](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 
-Link: [Click](https://news.slashdot.org/story/23/11/28/2151228/american-airlines-to-turn-10k-tons-of-co2-into-buried-carbon-blocks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] AWS's Transcription Platform Is Now Powered By Generative AI
+## [Slashdot] Apple Pulls Plug On Goldman Credit-Card Partnership
 ```
-Emilia David reports via The Verge: AWS added new languages to its Amazon Transcribe product, offering generative AI-based transcription for 100 languages and a slew of new AI capabilities for custome
+schwit1 shares a report from the Wall Street Journal: Apple is pulling the plug on its credit-card partnership with Goldman Sachs (source paywalled; alternative source), the final nail in the coffin o
 ```
 
-Link: [Click](https://slashdot.org/story/23/11/28/2141220/awss-transcription-platform-is-now-powered-by-generative-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/11/30/0316210/apple-pulls-plug-on-goldman-credit-card-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Fanless AirJet Cooler Experiment Boosts MacBook Air To Match MacBook Pro's Performance
+## [Slashdot] Henry Kissinger, American Diplomat and Nobel Winner, Dead at 100
 ```
-Anton Shilov reports via Tom's Hardware: Engineers from Frore Systems have integrated the company's innovative solid-state AirJet cooling system, which provides impressive cooling capabilities despite
-```
-
-Link: [Click](https://hardware.slashdot.org/story/23/11/28/2124223/fanless-airjet-cooler-experiment-boosts-macbook-air-to-match-macbook-pros-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Hackers Spent 2+ Years Looting Secrets of Chipmaker NXP Before Being Detected
-```
-An anonymous reader quotes a report from Ars Technica: A prolific espionage hacking group with ties to China spent over two years looting the corporate network of NXP, the Netherlands-based chipmaker 
+Henry Kissinger, a diplomatic powerhouse whose roles as a national security adviser and secretary of state under two presidents left an indelible mark on U.S. foreign policy and earned him a controver
 ```
 
-Link: [Click](https://it.slashdot.org/story/23/11/28/2120238/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/11/30/0333252/henry-kissinger-american-diplomat-and-nobel-winner-dead-at-100?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Prosus slashes Indian edtech giant Byju’s valuation to ‘sub-$3 billion’
-Link: [Click](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
+## [Slashdot] Traffic Pollution Can Cause Rise In Blood Pressure, Study Finds
+```
+An anonymous reader quotes a report from The Guardian: Air pollution from traffic can cause a significant rise in blood pressure that can last up to 24 hours, according to a study via the University o
+```
 
-## [Techcrunch] Immensa, a MENA-based additive manufacturing and digital inventory platform, raises $20 million
-Link: [Click](https://techcrunch.com/2023/11/28/immensa-a-mena-based-additive-manufacturing-and-digital-inventory-platform-raises-20-million/)
+Link: [Click](https://tech.slashdot.org/story/23/11/29/2352209/traffic-pollution-can-cause-rise-in-blood-pressure-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] FEBE Ventures launches $75 million second fund
-Link: [Click](https://techcrunch.com/2023/11/28/febe-ventures-launches-75-million-second-fund/)
+## [Slashdot] Microsoft Joins OpenAI's Board With Sam Altman Officially Back As CEO
+```
+Sam Altman is officially OpenAI's CEO again after spending four days in exile. Meanwhile, Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI. "OpenAI adding Mi
+```
 
-## [Techcrunch] London’s iconic black cabs can soon be hailed on Uber
-Link: [Click](https://techcrunch.com/2023/11/28/londons-iconic-black-cabs-can-soon-be-hailed-on-uber/)
+Link: [Click](https://slashdot.org/story/23/11/30/036210/microsoft-joins-openais-board-with-sam-altman-officially-back-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] No link between internet use and poor mental health, according to Oxford boffins
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/internet_mental_health_study/)
+## [Slashdot] Nikola Tesla's Historic Wardenclyffe Lab Site At Risk After Devastating Fire
+```
+Jennifer Ouellette reports via Ars Technica: Back in 2012, a crowdfunding effort on Indigogo successfully raised the funds necessary to purchase the Wardenclyffe Tower site on Long Island, New York, w
+```
 
-## [Theregister] Japan's space agency suffers cyber attack, points finger at Active Directory
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/jaxa_cyberattack/)
+Link: [Click](https://science.slashdot.org/story/23/11/29/2346217/nikola-teslas-historic-wardenclyffe-lab-site-at-risk-after-devastating-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Good luck finding competent Copilot help, warns Microsoft MVP
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/copilot_competence_scarce/)
+## [Slashdot] Three 'Grand Theft Auto' Titles Are Coming To Netflix
+```
+On December 14, 2023, three Grand Theft Auto games will officially become available for Netflix members on the App Store, Google Play, and in the Netflix mobile app. IGN reports: Those who can't wait 
+```
 
-## [Theregister] Two sats, one customer: Japan's NTT signs up for Amazon's space internet
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/ntt_amazon_kuiper/)
+Link: [Click](https://games.slashdot.org/story/23/11/29/2339216/three-grand-theft-auto-titles-are-coming-to-netflix?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] VMware president Sumit Dhawan out – scores gig as CEO of infosec vendor Proofpoint
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/vmware_president_exits_broadcom/)
+## [Slashdot] Roundcube Open-Source Webmail Software Merges With Nextcloud
+```
+Michael Larabel reports via Phoronix: The open-source Roundcube webmail software project has "merged" with Nextcloud, the prominent open-source personal cloud software. In boosting Nextcloud's webmail
+```
 
-## [Theregister] Japan's digital minister flamed and shamed for using his smartphone in Parliament
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/japanese_digital_minister_googling/)
+Link: [Click](https://news.slashdot.org/story/23/11/29/2334206/roundcube-open-source-webmail-software-merges-with-nextcloud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Zuckerberg accused of OK'ing Insta plastic surgery filters despite fears of harm to kids
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/mark_zuckerberg_filters_teens/)
+## [Slashdot] BBC BASIC Is Back In a Big Way
+```
+An anonymous reader quotes a report from Hackaday: The BBC has a long history of teaching the world about computers. The broadcaster's name was proudly displayed on the BBC Micro, and BBC Basic was th
+```
 
-## [Theregister] Someone else has a go at reforming US Section 702 spying powers – and nope, no warrant requirement
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/section_702_reauthorization_bill/)
+Link: [Click](https://developers.slashdot.org/story/23/11/29/2328255/bbc-basic-is-back-in-a-big-way?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Either the FBI is recruiting in Iran – or some govt Google ad buyers are getting a lousy deal
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/government_google_ads/)
+## [Techcrunch] It’s official: Evernote will restrict free users to 50 notes
+Link: [Click](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 
-## [Theregister] Plex gives fans a privacy complex after sharing viewing habits with friends by default
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/plex_privacy/)
+## [Techcrunch] Robinhood brings its stock-trading platform to the U.K., its first international market
+Link: [Click](https://techcrunch.com/2023/11/29/robinhood-brings-its-stock-trading-platform-to-the-u-k-its-first-international-market/)
 
-## [Theregister] AI agents can copy humans to get closer to artificial general intelligence, DeepMind finds
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/ai_agents_can_copy_humans/)
+## [Techcrunch] European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’
+Link: [Click](https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/)
 
-## [Theregister] After bashing Nvidia for ‘arming’ China, Cerebras's backer G42 alarms US govt with suspected Beijing ties
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/28/cerebras_g42_china_refile/)
+## [Techcrunch] Apple and Google avoid naming ChatGPT as their ‘app of the year,’ picking AllTrails and Imprint instead
+Link: [Click](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
 
-## [Theverge] London’s famed black cabs will be listed on Uber’s app in big win for the ridehail company
-Link: [Click](https://www.theverge.com/2023/11/28/23979409/uber-london-black-cab-app-referrals-taxi-ltda)
+## [Techcrunch] A timeline of Sam Altman’s firing from OpenAI — and the fallout
+Link: [Click](https://techcrunch.com/2023/11/29/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+
+## [Techcrunch] Sam Altman’s officially back at OpenAI, and the board gains a Microsoft observer
+Link: [Click](https://techcrunch.com/2023/11/29/sam-altmans-officially-back-at-openai-and-the-board-gains-a-microsoft-observer/)
+
+## [Techcrunch] Elon Musk says ‘go f*ck yourself’ to advertisers leaving X
+Link: [Click](https://techcrunch.com/2023/11/29/elon-musk-says-go-fuck-yourself-to-advertisers-leaving-x/)
+
+## [Techcrunch] Backed by East Ventures, Fr8Labs aims to digitize Asia’s logistics industry
+Link: [Click](https://techcrunch.com/2023/11/29/fr8labs/)
+
+## [Theregister] Weak session keys let snoops take a byte out of your Bluetooth traffic
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/bluetooth_bluffs_attacks_are_no/)
+
+## [Theregister] AI offers some novel crystal materials that could form future chips, batteries, more
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/ai_predicts_novel_materials/)
+
+## [Theregister] OpenAI makes it official: Sam Altman is back as CEO
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/sam_altman_openai_ceo_restored/)
+
+## [Theregister] NASA tech reveals he crashed Spirit Mars rover two weeks before vital deadline
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/spirit_rover_crash_story/)
+
+## [Theregister] China's Loongson debuts processor that 'matches Intel silicon circa 2020'
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/loongson_3a6000/)
+
+## [Theregister] US lawmakers have Chinese LiDAR on their threat-detection radar
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/us_lawmakers_examine_chinese_lidar/)
+
+## [Theregister] Rogue ex-Motorola techie admits cyberattack on former employer, passport fraud
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/rogue_exmotorola_tech_pleads_guilty/)
+
+## [Theregister] Meta yanks VR headset's strap-on booster battery after charging bricks it
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/meta_quest_battery_charger_flaw/)
+
+## [Theregister] Time to take action: Google's inactive account purge begins Friday
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/time_to_take_action_googles/)
+
+## [Theregister] Dragonfly delayed – formal confirmation of journey to Saturn's moon slips into 2024
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/dragonfly_delayed_formal_confirmation_slips/)
+
+## [Theregister] IBM's vintage Db2 database jumps on AWS's cloud bandwagon
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/aws_launch_ibms_db2_database/)
+
+## [Theverge] Interview: Sam Altman on being fired and rehired by OpenAI
+Link: [Click](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+
+## [Theverge] Activision Blizzard had a plan — or ploy — to launch its own Android game store
+Link: [Click](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
+
+## [Theverge] Everything we know so far about OpenAI, Sam Altman’s return, and what happens next
+Link: [Click](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+
+## [Theverge] Microsoft joins OpenAI’s board with Sam Altman officially back as CEO
+Link: [Click](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)
+
+## [Theverge] Elon Musk tells advertisers: ‘Go fuck yourself’
+Link: [Click](https://www.theverge.com/2023/11/29/23981928/elon-musk-ad-boycott-go-fuck-yourself-destroy-x)
