@@ -1,157 +1,138 @@
-## [Arstechnica] Elon Musk on X antisemitism controversy: “Don’t advertise. Go f*** yourself”
+## [Arstechnica] Google researchers report critical zero-days in Chrome and all Apple OSes
 ```
-Musk says X advertiser backlash is "going to kill the company."
-```
-
-Link: [Click](https://arstechnica.com/?p=1987322)
-
-## [Arstechnica] 2 municipal water facilities report falling to hackers in separate breaches
-```
-The facilities, in Pennsylvania and Texas, serve more than 2 million residents.
+Discoveries made by Google's Threat Analysis Group, which tracks nation-state hacking.
 ```
 
-Link: [Click](https://arstechnica.com/?p=1987313)
+Link: [Click](https://arstechnica.com/?p=1987731)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, November 30, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, December 1, 2023
 ```
-Here are some hints to help you win NYT Connections #172.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
-
-## [Ycombinator] Sam Altman returns as CEO, OpenAI has a new initial board
-Link: [Click](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
-
-## [Ycombinator] Henry Kissinger Has Died
-Link: [Click](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
-
-## [Ycombinator] Losing Metaphors: Zip and Paste
-Link: [Click](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
-
-## [Slashdot] Apple Pulls Plug On Goldman Credit-Card Partnership
-```
-schwit1 shares a report from the Wall Street Journal: Apple is pulling the plug on its credit-card partnership with Goldman Sachs (source paywalled; alternative source), the final nail in the coffin o
+Here are some hints to help you win NYT Connections #173.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/11/30/0316210/apple-pulls-plug-on-goldman-credit-card-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 
-## [Slashdot] Henry Kissinger, American Diplomat and Nobel Winner, Dead at 100
+## [Lifehacker] You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link
 ```
-Henry Kissinger, a diplomatic powerhouse whose roles as a national security adviser and secretary of state under two presidents left an indelible mark on U.S. foreign policy and earned him a controver
-```
-
-Link: [Click](https://news.slashdot.org/story/23/11/30/0333252/henry-kissinger-american-diplomat-and-nobel-winner-dead-at-100?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Traffic Pollution Can Cause Rise In Blood Pressure, Study Finds
-```
-An anonymous reader quotes a report from The Guardian: Air pollution from traffic can cause a significant rise in blood pressure that can last up to 24 hours, according to a study via the University o
+You can now easily stream Steam Link to your Meta Quest headset.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/11/29/2352209/traffic-pollution-can-cause-rise-in-blood-pressure-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 
-## [Slashdot] Microsoft Joins OpenAI's Board With Sam Altman Officially Back As CEO
+## [Lifehacker] How to Make a Collaborative Playlist on Spotify
 ```
-Sam Altman is officially OpenAI's CEO again after spending four days in exile. Meanwhile, Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI. "OpenAI adding Mi
-```
-
-Link: [Click](https://slashdot.org/story/23/11/30/036210/microsoft-joins-openais-board-with-sam-altman-officially-back-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Nikola Tesla's Historic Wardenclyffe Lab Site At Risk After Devastating Fire
-```
-Jennifer Ouellette reports via Ars Technica: Back in 2012, a crowdfunding effort on Indigogo successfully raised the funds necessary to purchase the Wardenclyffe Tower site on Long Island, New York, w
+It's easy for you and your friends to create playlists of all your favorite songs.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/11/29/2346217/nikola-teslas-historic-wardenclyffe-lab-site-at-risk-after-devastating-fire?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
 
-## [Slashdot] Three 'Grand Theft Auto' Titles Are Coming To Netflix
+## [Ycombinator] Marker: Convert PDF to Markdown quickly with high accuracy
+Link: [Click](https://github.com/VikParuchuri/marker)
+
+## [Ycombinator] Code is run more than read
+Link: [Click](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+
+## [Ycombinator] Anduril announces Roadrunner, jet-powered VTOL drone
+Link: [Click](https://www.anduril.com/roadrunner/)
+
+## [Ycombinator] A reality bending mistake in Apple's computational photography
+Link: [Click](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
+
+## [Ycombinator] How to pick more beautiful colors for your data visualizations (2020)
+Link: [Click](https://blog.datawrapper.de/beautifulcolors/)
+
+## [Ycombinator] Music-Map – Find Similar Music
+Link: [Click](https://www.music-map.com)
+
+## [Ycombinator] Show HN: Australian Acoustic Observatory Search
+Link: [Click](https://search.acousticobservatory.org/)
+
+## [Ycombinator] ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?
+Link: [Click](https://arxiv.org/abs/2311.16989)
+
+## [Ycombinator] Skyfield: Elegant Astronomy for Python
+Link: [Click](https://rhodesmill.org/skyfield/)
+
+## [Ycombinator] The Stroad
+Link: [Click](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
+
+## [Slashdot] A Strong Solar Storm Is Inbound With a Full Halo CME
 ```
-On December 14, 2023, three Grand Theft Auto games will officially become available for Netflix members on the App Store, Google Play, and in the Netflix mobile app. IGN reports: Those who can't wait 
+The Space Weather Prediction Center is closely watching the arrival of a super-hot plasma eruption, known as a coronal mass ejection (CME), that will slam into Earth tonight, writes longtime Slashdot 
 ```
 
-Link: [Click](https://games.slashdot.org/story/23/11/29/2339216/three-grand-theft-auto-titles-are-coming-to-netflix?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/01/0051251/a-strong-solar-storm-is-inbound-with-a-full-halo-cme?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Roundcube Open-Source Webmail Software Merges With Nextcloud
+## [Slashdot] Steam Drops macOS Mojave Support, Effectively Ending Life For Many 32-Bit Games
 ```
-Michael Larabel reports via Phoronix: The open-source Roundcube webmail software project has "merged" with Nextcloud, the prominent open-source personal cloud software. In boosting Nextcloud's webmail
-```
-
-Link: [Click](https://news.slashdot.org/story/23/11/29/2334206/roundcube-open-source-webmail-software-merges-with-nextcloud?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] BBC BASIC Is Back In a Big Way
-```
-An anonymous reader quotes a report from Hackaday: The BBC has a long history of teaching the world about computers. The broadcaster's name was proudly displayed on the BBC Micro, and BBC Basic was th
+An anonymous reader quotes a report from Ars Technica: Valve Software's Steam gaming marketplace and app will drop support for macOS 10.13 (High Sierra) and 10.14 (Mojave), according to a support page
 ```
 
-Link: [Click](https://developers.slashdot.org/story/23/11/29/2328255/bbc-basic-is-back-in-a-big-way?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://apple.slashdot.org/story/23/12/01/0043225/steam-drops-macos-mojave-support-effectively-ending-life-for-many-32-bit-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] It’s official: Evernote will restrict free users to 50 notes
-Link: [Click](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
+## [Slashdot] Hyundai and Kia's New 'Uni Wheel' Drive System Could Revolutionize EV Design
+```
+"Two articles from Electrek and InsideEVs describe Hyundai and Kia's new 'Uni Wheel' drive system that could revolutionize EV design," writes longtime Slashdot reader Uncle_Meataxe. From a report: Des
+```
 
-## [Techcrunch] Robinhood brings its stock-trading platform to the U.K., its first international market
-Link: [Click](https://techcrunch.com/2023/11/29/robinhood-brings-its-stock-trading-platform-to-the-u-k-its-first-international-market/)
+Link: [Click](https://tech.slashdot.org/story/23/12/01/0032246/hyundai-and-kias-new-uni-wheel-drive-system-could-revolutionize-ev-design?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’
-Link: [Click](https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/)
+## [Slashdot] Microsoft In Talks To Launch Mobile Gaming Store, Rivaling Apple
+```
+According to Microsoft Gaming CEO Phil Spencer, the company is talking to partners to help launch a mobile gaming store that will take on Apple and Google. "It's an important part of our strategy and 
+```
 
-## [Techcrunch] Apple and Google avoid naming ChatGPT as their ‘app of the year,’ picking AllTrails and Imprint instead
-Link: [Click](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
+Link: [Click](https://games.slashdot.org/story/23/12/01/0022236/microsoft-in-talks-to-launch-mobile-gaming-store-rivaling-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] A timeline of Sam Altman’s firing from OpenAI — and the fallout
-Link: [Click](https://techcrunch.com/2023/11/29/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+## [Slashdot] US Judge Blocks Montana From Banning TikTok Use In State
+```
+Montana's first-of-its-kind state ban on TikTok has been blocked by a U.S. judge, saying it "oversteps state power and infringes on the constitutional rights of users." Reuters reports: TikTok, which 
+```
 
-## [Techcrunch] Sam Altman’s officially back at OpenAI, and the board gains a Microsoft observer
-Link: [Click](https://techcrunch.com/2023/11/29/sam-altmans-officially-back-at-openai-and-the-board-gains-a-microsoft-observer/)
+Link: [Click](https://yro.slashdot.org/story/23/12/01/007246/us-judge-blocks-montana-from-banning-tiktok-use-in-state?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Elon Musk says ‘go f*ck yourself’ to advertisers leaving X
-Link: [Click](https://techcrunch.com/2023/11/29/elon-musk-says-go-fuck-yourself-to-advertisers-leaving-x/)
+## [Slashdot] Apple and Google Pick AllTrails and Imprint As Their 'App of the Year'
+```
+An anonymous reader quotes a report from TechCrunch: Both Apple and Google today announced their best apps and games of the year, with the hiking and biking companion AllTrails winning as Apple's iPho
+```
 
-## [Techcrunch] Backed by East Ventures, Fr8Labs aims to digitize Asia’s logistics industry
-Link: [Click](https://techcrunch.com/2023/11/29/fr8labs/)
+Link: [Click](https://mobile.slashdot.org/story/23/11/30/2224211/apple-and-google-pick-alltrails-and-imprint-as-their-app-of-the-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Weak session keys let snoops take a byte out of your Bluetooth traffic
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/bluetooth_bluffs_attacks_are_no/)
+## [Techcrunch] Anduril unveils Roadrunner, “a fighter jet weapon that lands like a Falcon 9”
+Link: [Click](https://techcrunch.com/2023/11/30/anduril-unveils-roadrunner-a-fighter-jet-weapon-that-lands-like-a-falcon-9/)
 
-## [Theregister] AI offers some novel crystal materials that could form future chips, batteries, more
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/ai_predicts_novel_materials/)
+## [Techcrunch] How the Tesla Cyberbeast compares to other high-priced electric pickups
+Link: [Click](https://techcrunch.com/2023/11/30/how-the-tesla-cyberbeast-compares-to-other-high-priced-electric-pickups/)
 
-## [Theregister] OpenAI makes it official: Sam Altman is back as CEO
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/sam_altman_openai_ceo_restored/)
+## [Theregister] Interpol makes first border arrest using Biometric Hub to ID suspect
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/interpol_biohub_arrest/)
 
-## [Theregister] NASA tech reveals he crashed Spirit Mars rover two weeks before vital deadline
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/spirit_rover_crash_story/)
+## [Theregister] Thirty-nine weeks: that's how long you'll be waiting for an AI server from Dell
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/dell_q3_24/)
 
-## [Theregister] China's Loongson debuts processor that 'matches Intel silicon circa 2020'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/loongson_3a6000/)
+## [Theregister] You're so worried about AWS reliability, the cloud giant now lets you simulate major outages
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/aws_az_fault_injection_service/)
 
-## [Theregister] US lawmakers have Chinese LiDAR on their threat-detection radar
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/us_lawmakers_examine_chinese_lidar/)
+## [Theregister] Today's 'China is misbehaving online' allegations come from Google, Meta
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/google_meta_allege_chiina_cyberattacks/)
 
-## [Theregister] Rogue ex-Motorola techie admits cyberattack on former employer, passport fraud
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/rogue_exmotorola_tech_pleads_guilty/)
+## [Theregister] Ex-school IT admin binned student, staff accounts and trashed phone system
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/it_admin_guilty/)
 
-## [Theregister] Meta yanks VR headset's strap-on booster battery after charging bricks it
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/meta_quest_battery_charger_flaw/)
+## [Theregister] Potential sat-bothering cannibal coronal mass ejection slams into Earth's atmo tonight
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/01/cannibal_coronal_mass_ejection/)
 
-## [Theregister] Time to take action: Google's inactive account purge begins Friday
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/time_to_take_action_googles/)
+## [Theregister] Watchdog claims retaliation from military after questioning cushy federal IT contracts
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/watchdog_air_force_contracts/)
 
-## [Theregister] Dragonfly delayed – formal confirmation of journey to Saturn's moon slips into 2024
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/dragonfly_delayed_formal_confirmation_slips/)
+## [Theregister] America's ambitious Artemis III likely to miss 2025 Moon landing date, auditors sigh
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/artemis_iii_gao_moon/)
 
-## [Theregister] IBM's vintage Db2 database jumps on AWS's cloud bandwagon
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/29/aws_launch_ibms_db2_database/)
+## [Theregister] HP printer software turns up uninvited on Windows systems
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 
-## [Theverge] Interview: Sam Altman on being fired and rehired by OpenAI
-Link: [Click](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+## [Theregister] The AI everything show continues at AWS: Generate SQL from text, vector search, and more
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/11/30/ai_saturation_continues_at_aws/)
 
-## [Theverge] Activision Blizzard had a plan — or ploy — to launch its own Android game store
-Link: [Click](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
-
-## [Theverge] Everything we know so far about OpenAI, Sam Altman’s return, and what happens next
-Link: [Click](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
-
-## [Theverge] Microsoft joins OpenAI’s board with Sam Altman officially back as CEO
-Link: [Click](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)
-
-## [Theverge] Elon Musk tells advertisers: ‘Go fuck yourself’
-Link: [Click](https://www.theverge.com/2023/11/29/23981928/elon-musk-ad-boycott-go-fuck-yourself-destroy-x)
+## [Theverge] Furiosa’s first trailer teases the origins of one of the Mad Max saga’s best characters
+Link: [Click](https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer)
