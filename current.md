@@ -1,78 +1,177 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, December 4, 2023
+## [Arstechnica] Grand Theft Auto VI trailer arrives early with a crime-crazy Florida
 ```
-Here are some hints to help you win Wordle #898.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, December 4, 2023
-```
-Here are some hints to help you win NYT Connections #176.
+First female protagonist and sun-soaked, satire-drenched tone on display.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
+Link: [Click](https://arstechnica.com/?p=1988539)
 
-## [Ycombinator] Relative shell script includes with realpath on FreeBSD
-Link: [Click](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
-
-## [Ycombinator] D Programming Language
-Link: [Click](https://dlang.org)
-
-## [Ycombinator] Tyrian purple: Ancient pigment that was more valuable than gold
-Link: [Click](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
-
-## [Ycombinator] Lack of sunlight during the day is worse than electric lighting at night
-Link: [Click](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-
-## [Ycombinator] A case for moving away from the cloud and embracing local storage solutions
-Link: [Click](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
-
-## [Ycombinator] Spotify will reduce total headcount by 17% across the company
-Link: [Click](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
-
-## [Ycombinator] Experts revive ancient techniques to make concrete more sustainable
-Link: [Click](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
-
-## [Ycombinator] Writing a file system from scratch in Rust
-Link: [Click](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-
-## [Slashdot] 150,000 Programmers Tackle 'Advent of Code' in Event's 9th Year
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 5, 2023
 ```
-"Advent of Code" has begun. New programming puzzles will appear every day until Christmas at AdventOfCode.com &mdash; and the annual event (first started in 2015) has grown into a worldwide phenomenon
+Here are some hints to help you win Wordle #899.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/12/04/0539251/150000-programmers-tackle-advent-of-code-in-events-9th-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 
-## [Slashdot] 'What Drives This Madness On Small Modular Nuclear Reactors?'
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 5, 2023
 ```
-Slashdot reader XXongo writes: Nuclear power plants have historically been built at gigawatt scale. Recently, however, there has been a new dawn seeing multiple projects to build Small Modular Reactor
+Here are some hints to help you win NYT Connections #177.
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/12/04/0152257/what-drives-this-madness-on-small-modular-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 
-## [Techcrunch] India’s MoveinSync eyes $50–60M in fresh funding
-Link: [Click](https://techcrunch.com/2023/12/03/moveinsync-funding/)
+## [Ycombinator] Rest in Peace, Optane
+Link: [Click](https://specbranch.com/posts/rip-optane/)
 
-## [Techcrunch] More layoffs come for micromobility, Cruise cuts loom, and what the Cybertruck signals for Elon
-Link: [Click](https://techcrunch.com/2023/12/03/more-layoffs-come-for-micromobility-cruise-cuts-loom-and-what-the-cybertruck-signals-for-elon/)
+## [Ycombinator] Mounting Git commits as folders with NFS
+Link: [Click](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 
-## [Techcrunch] Gravel gets funding from NEA to support Indonesia’s booming construction industry
-Link: [Click](https://techcrunch.com/2023/12/03/gravel/)
+## [Ycombinator] I Hacked Magic the Gathering: Arena for a 100% Win Rate
+Link: [Click](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 
-## [Theregister] Sysadmin's favorite collection of infallible utilities failed … foully
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/who_me/)
+## [Ycombinator] Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)
+Link: [Click](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 
-## [Theregister] EU lawmakers finalize cyber security rules that panicked open source devs
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/infosec_in_brief/)
+## [Ycombinator] Bits (YC S20) is hiring a finance and analytics manager in London
+Link: [Click](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
 
-## [Theregister] New Relic's cyber-something revealed as attack on staging systems, some users
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/new_relic_security_incident/)
+## [Ycombinator] Eclipse: The Demo that Sold 3D to Nintendo
+Link: [Click](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
 
-## [Theregister] Linus Torvalds flags holiday-mode changes to next kernel merge window
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/linux_kernel_6_7_rc4/)
+## [Ycombinator] Maelstrom: A workbench for learning distributed systems
+Link: [Click](https://github.com/jepsen-io/maelstrom)
 
-## [Theregister] Creating a single AI-generated image needs as much power as charging your smartphone
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/ai_news_in_brief/)
+## [Ycombinator] New theory claims to unite Einstein's gravity with quantum mechanics
+Link: [Click](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 
-## [Theverge] Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’
-Link: [Click](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
+## [Ycombinator] Why does Gnome fingerprint unlock not unlock the keyring?
+Link: [Click](https://mjg59.dreamwidth.org/68537.html)
+
+## [Ycombinator] Rage: Fast web framework compatible with Rails
+Link: [Click](https://github.com/rage-rb/rage)
+
+## [Ycombinator] Show HN: TSDiagram – Diagrams as Code with TypeScript
+Link: [Click](https://tsdiagram.com)
+
+## [Ycombinator] When Google Fiber abandons your city as a failed experiment (2019)
+Link: [Click](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
+
+## [Ycombinator] Designing a Symbol Layer (2021)
+Link: [Click](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
+
+## [Ycombinator] Common Rust Lifetime Misconceptions (2020)
+Link: [Click](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+
+## [Ycombinator] EHTML Docs
+Link: [Click](https://e-html.org/html/documentation.html)
+
+## [Ycombinator] Inoculating soil with mycorrhizal fungi can increase plant yield: study
+Link: [Click](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
+
+## [Slashdot] Research Finds That Renting Ages You Faster Than Smoking, Obesity
+```
+schwit1 shares a report from the New York Post: A landmark study out of the University of Adelaide and University of Essex has found that living in a private rental property accelerates the biological
+```
+
+Link: [Click](https://science.slashdot.org/story/23/12/05/0043231/research-finds-that-renting-ages-you-faster-than-smoking-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Cicadas Are So Loud, Fiber Optic Cables Can 'Hear' Them
+```
+An anonymous reader quotes a report from Wired: One of the world's most peculiar test beds stretches above Princeton, New Jersey. It's a fiber optic cable strung between three utility poles that then 
+```
+
+Link: [Click](https://tech.slashdot.org/story/23/12/04/2336239/cicadas-are-so-loud-fiber-optic-cables-can-hear-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] China Sinks 1400-Ton Data Center In Sea With Power of 6 Million PCs
+```
+According to China Daily, China has become the world's first nation to deploy a commercial data center underwater. Interesting Engineering reports: China's attempts to set up a commercial data center 
+```
+
+Link: [Click](https://hardware.slashdot.org/story/23/12/04/2327243/china-sinks-1400-ton-data-center-in-sea-with-power-of-6-million-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] YouTuber Who Deliberately Crashed Plane For Views Is Headed To Federal Prison
+```
+Trevor Jacob, a daredevil YouTuber who deliberately crashed a plane for views in a moneymaking scheme, has been sentenced to six months in federal prison. Jacob posted a video of himself in 2021 parac
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/12/04/236224/youtuber-who-deliberately-crashed-plane-for-views-is-headed-to-federal-prison?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Rockstar Officially Unveils GTA 6 Trailer
+```
+Rockstar Games has officially revealed the trailer for Grand Theft Auto VI, which is coming in 2025. You can watch it on YouTube. IGN reports: The trailer gives us a look at the game's female protagon
+```
+
+Link: [Click](https://entertainment.slashdot.org/story/23/12/05/010204/rockstar-officially-unveils-gta-6-trailer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] US Issues Warning To Nvidia, Urging To Stop Redesigning Chips For China
+```
+At the Reagan National Defense Forum in Simi Valley, California, on Saturday, US Commerce Secretary Gina Raimondo issued a cautionary statement to Nvidia, urging them to stop redesigning AI chips for 
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/12/04/2251254/us-issues-warning-to-nvidia-urging-to-stop-redesigning-chips-for-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Automakers' Data Privacy Practices 'Are Unacceptable,' Says US Senator
+```
+An anonymous reader quotes a report from Ars Technica: US Senator Edward Markey (D-Mass.) is one of the more technologically engaged of our elected lawmakers. And like many technologically engaged Ars
+```
+
+Link: [Click](https://tech.slashdot.org/story/23/12/04/227232/automakers-data-privacy-practices-are-unacceptable-says-us-senator?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] SoftBank Corp takes 51% of Cubic Telecom for $513M to drive into the connected car world
+Link: [Click](https://techcrunch.com/2023/12/04/softbank-corp-cubic-telecom/)
+
+## [Techcrunch] Egypt’s Mtor nabs $2.8M pre-seed for its online auto parts marketplace
+Link: [Click](https://techcrunch.com/2023/12/04/egypts-mtor-nabs-2-8m-pre-seed-for-its-online-auto-parts-marketplace/)
+
+## [Techcrunch] Fortnite is expanding its horizons with a Lego building game and a Rock Band successor
+Link: [Click](https://techcrunch.com/2023/12/04/lego-fortnite-rock-band-fortnite-festival-rocket-racing/)
+
+## [Techcrunch] For $200, George Santos will gossip with you on Cameo
+Link: [Click](https://techcrunch.com/2023/12/04/for-200-george-santos-will-gossip-with-you-on-cameo/)
+
+## [Techcrunch] Cruise faces fines in California for withholding key details in robotaxi accident
+Link: [Click](https://techcrunch.com/2023/12/04/cruise-faces-fines-in-california-for-withholding-key-details-in-robotaxi-accident/)
+
+## [Techcrunch] Kodiak’s military prototype AV is a Ford F-150 pickup
+Link: [Click](https://techcrunch.com/2023/12/04/kodiaks-military-prototype-av-is-a-ford-f-150-pickup/)
+
+## [Techcrunch] UK age assurance guidance for porn sites gives thumbs up to AI age checks, digital ID wallets and more
+Link: [Click](https://techcrunch.com/2023/12/04/ofcom-porn-sites-age-assurance-guidance/)
+
+## [Theregister] Spanish media sues Meta for ignoring GDPR and harvesting data
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/spanish_media_meta_lawsuit/)
+
+## [Theregister] UK government denies China/Russia nuke plant hack claim
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/uk_government_denies_sellafield_hack_claim/)
+
+## [Theregister] China gamifies censorship and surveillance with national internet law quiz
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/china_gamifies_censorship_and_surveillance/)
+
+## [Theregister] Korean peninsula space race sees South and North launch tit for tat spy sats
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/south_north_korea_spy_satellites/)
+
+## [Theregister] Amazon on the hook for predictably revolting use of concealed clothes hook spy cam
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/amazon_camera_hook_case_proceeds/)
+
+## [Theregister] IBM takes a crack at 'utility scale' quantum processing with Heron processor
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/ibm_heron_quantum_processor/)
+
+## [Theregister] Hershey phishes! Crooks snarf chocolate lovers' creds
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/hershey_phishes_data_breach/)
+
+## [Theregister] You can't deepfake diversity, and that's a good thing
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/opinion/)
+
+## [Theverge] The Fiat 500e is a tiny, affordable EV that’s only emission is classical music
+Link: [Click](https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car)
+
+## [Theverge] PlayStation accounts are being ‘permanently suspended’ and no one knows why
+Link: [Click](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
+
+## [Theverge] The Verge’s favorite holiday gifts under $100
+Link: [Click](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
+
+## [Theverge] The UK tries, once again, to age-gate pornography
+Link: [Click](https://www.theverge.com/2023/12/4/23987821/uk-online-safety-act-age-verification-pornography-privacy)
+
+## [Theverge] DoorDash makes tipping an afterthought to protest New York City’s wage raise
+Link: [Click](https://www.theverge.com/2023/12/4/23988334/doordash-new-york-minimum-wage-worker-tips)
