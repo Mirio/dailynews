@@ -1,177 +1,131 @@
-## [Arstechnica] Grand Theft Auto VI trailer arrives early with a crime-crazy Florida
+## [Arstechnica] NASA says SpaceX’s next Starship flight could test refueling tech
 ```
-First female protagonist and sun-soaked, satire-drenched tone on display.
-```
-
-Link: [Click](https://arstechnica.com/?p=1988539)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 5, 2023
-```
-Here are some hints to help you win Wordle #899.
+SpaceX appears on track for at least a preliminary propellant transfer test next year.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
+Link: [Click](https://arstechnica.com/?p=1988814)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 5, 2023
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, December 6, 2023
 ```
-Here are some hints to help you win NYT Connections #177.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
-
-## [Ycombinator] Rest in Peace, Optane
-Link: [Click](https://specbranch.com/posts/rip-optane/)
-
-## [Ycombinator] Mounting Git commits as folders with NFS
-Link: [Click](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
-
-## [Ycombinator] I Hacked Magic the Gathering: Arena for a 100% Win Rate
-Link: [Click](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
-
-## [Ycombinator] Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)
-Link: [Click](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
-
-## [Ycombinator] Bits (YC S20) is hiring a finance and analytics manager in London
-Link: [Click](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
-
-## [Ycombinator] Eclipse: The Demo that Sold 3D to Nintendo
-Link: [Click](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
-
-## [Ycombinator] Maelstrom: A workbench for learning distributed systems
-Link: [Click](https://github.com/jepsen-io/maelstrom)
-
-## [Ycombinator] New theory claims to unite Einstein's gravity with quantum mechanics
-Link: [Click](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
-
-## [Ycombinator] Why does Gnome fingerprint unlock not unlock the keyring?
-Link: [Click](https://mjg59.dreamwidth.org/68537.html)
-
-## [Ycombinator] Rage: Fast web framework compatible with Rails
-Link: [Click](https://github.com/rage-rb/rage)
-
-## [Ycombinator] Show HN: TSDiagram – Diagrams as Code with TypeScript
-Link: [Click](https://tsdiagram.com)
-
-## [Ycombinator] When Google Fiber abandons your city as a failed experiment (2019)
-Link: [Click](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
-
-## [Ycombinator] Designing a Symbol Layer (2021)
-Link: [Click](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
-
-## [Ycombinator] Common Rust Lifetime Misconceptions (2020)
-Link: [Click](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-
-## [Ycombinator] EHTML Docs
-Link: [Click](https://e-html.org/html/documentation.html)
-
-## [Ycombinator] Inoculating soil with mycorrhizal fungi can increase plant yield: study
-Link: [Click](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
-
-## [Slashdot] Research Finds That Renting Ages You Faster Than Smoking, Obesity
-```
-schwit1 shares a report from the New York Post: A landmark study out of the University of Adelaide and University of Essex has found that living in a private rental property accelerates the biological
+Here are some hints to help you win Wordle #900.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/12/05/0043231/research-finds-that-renting-ages-you-faster-than-smoking-obesity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 
-## [Slashdot] Cicadas Are So Loud, Fiber Optic Cables Can 'Hear' Them
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, December 6, 2023
 ```
-An anonymous reader quotes a report from Wired: One of the world's most peculiar test beds stretches above Princeton, New Jersey. It's a fiber optic cable strung between three utility poles that then 
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/12/04/2336239/cicadas-are-so-loud-fiber-optic-cables-can-hear-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] China Sinks 1400-Ton Data Center In Sea With Power of 6 Million PCs
-```
-According to China Daily, China has become the world's first nation to deploy a commercial data center underwater. Interesting Engineering reports: China's attempts to set up a commercial data center 
+Here are some hints to help you win NYT Connections #178.
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/12/04/2327243/china-sinks-1400-ton-data-center-in-sea-with-power-of-6-million-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 
-## [Slashdot] YouTuber Who Deliberately Crashed Plane For Views Is Headed To Federal Prison
+## [Ycombinator] Why Is Jepsen Written in Clojure?
+Link: [Click](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+
+## [Ycombinator] A new quantum algorithm for classical mechanics with an exponential speedup
+Link: [Click](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
+
+## [Ycombinator] JSONB has landed
+Link: [Click](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
+
+## [Ycombinator] MLX: An array framework for Apple Silicon
+Link: [Click](https://github.com/ml-explore/mlx)
+
+## [Ycombinator] Go Testing by Example [video]
+Link: [Click](https://research.swtch.com/testing)
+
+## [Ycombinator] After the Plague: Health and History in Medieval England
+Link: [Click](https://www.aftertheplague.org)
+
+## [Ycombinator] Leaked document shows how Amazon amasses influence in the Inland Empire
+Link: [Click](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
+
+## [Ycombinator] MLX: NumPy like framework for Apple Silicon by Apple
+Link: [Click](https://ml-explore.github.io/mlx/build/html/index.html)
+
+## [Slashdot] 'Wobbly Spacetime' May Help Resolve Contradictory Physics Theories
 ```
-Trevor Jacob, a daredevil YouTuber who deliberately crashed a plane for views in a moneymaking scheme, has been sentenced to six months in federal prison. Jacob posted a video of himself in 2021 parac
+Scientists have proposed a framework that they say could unify quantum mechanics and Albert Einstein's theory of general relatively. "Quantum theory and Einstein's theory of general relativity are mat
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/12/04/236224/youtuber-who-deliberately-crashed-plane-for-views-is-headed-to-federal-prison?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/06/0118223/wobbly-spacetime-may-help-resolve-contradictory-physics-theories?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Rockstar Officially Unveils GTA 6 Trailer
+## [Slashdot] Harvard, MIT and UPenn's Presidents Should 'Resign in Disgrace', Bill Ackman Says
 ```
-Rockstar Games has officially revealed the trailer for Grand Theft Auto VI, which is coming in 2025. You can watch it on YouTube. IGN reports: The trailer gives us a look at the game's female protagon
-```
-
-Link: [Click](https://entertainment.slashdot.org/story/23/12/05/010204/rockstar-officially-unveils-gta-6-trailer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] US Issues Warning To Nvidia, Urging To Stop Redesigning Chips For China
-```
-At the Reagan National Defense Forum in Simi Valley, California, on Saturday, US Commerce Secretary Gina Raimondo issued a cautionary statement to Nvidia, urging them to stop redesigning AI chips for 
+An anonymous reader writes: Bill Ackman has called for the resignation of Harvard, MIT, and the University of Pennsylvania's presidents following their congressional hearing on antisemitism on Tuesday
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/12/04/2251254/us-issues-warning-to-nvidia-urging-to-stop-redesigning-chips-for-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/12/06/0648239/harvard-mit-and-upenns-presidents-should-resign-in-disgrace-bill-ackman-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Automakers' Data Privacy Practices 'Are Unacceptable,' Says US Senator
+## [Slashdot] Western US Wildfires Undo Two Decades of Air Quality Progress
 ```
-An anonymous reader quotes a report from Ars Technica: US Senator Edward Markey (D-Mass.) is one of the more technologically engaged of our elected lawmakers. And like many technologically engaged Ars
+An anonymous reader quotes a report from Axios: Increasingly intensive and frequent wildfires in the western U.S. are deteriorating air quality and causing more premature deaths, a new study found. Fi
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/12/04/227232/automakers-data-privacy-practices-are-unacceptable-says-us-senator?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/23/12/06/0040241/western-us-wildfires-undo-two-decades-of-air-quality-progress?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] SoftBank Corp takes 51% of Cubic Telecom for $513M to drive into the connected car world
-Link: [Click](https://techcrunch.com/2023/12/04/softbank-corp-cubic-telecom/)
+## [Slashdot] Amazon Releases Fallout TV Series Trailer
+```
+Samuel Axon reports via Ars Technica: The trailer for Amazon's Fallout TV series dropped this weekend, and it's either craven fan service or wonderfully authentic, depending on your point of view. The
+```
 
-## [Techcrunch] Egypt’s Mtor nabs $2.8M pre-seed for its online auto parts marketplace
-Link: [Click](https://techcrunch.com/2023/12/04/egypts-mtor-nabs-2-8m-pre-seed-for-its-online-auto-parts-marketplace/)
+Link: [Click](https://entertainment.slashdot.org/story/23/12/06/0031245/amazon-releases-fallout-tv-series-trailer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Fortnite is expanding its horizons with a Lego building game and a Rock Band successor
-Link: [Click](https://techcrunch.com/2023/12/04/lego-fortnite-rock-band-fortnite-festival-rocket-racing/)
+## [Slashdot] Congress Spent Billions On EV Chargers. But Not One Has Come Online.
+```
+Press2ToContinue shares a report from Politico: Congress at the urging of the Biden administration agreed in 2021 to spend $7.5 billion to build tens of thousands of electric vehicle chargers across t
+```
 
-## [Techcrunch] For $200, George Santos will gossip with you on Cameo
-Link: [Click](https://techcrunch.com/2023/12/04/for-200-george-santos-will-gossip-with-you-on-cameo/)
+Link: [Click](https://tech.slashdot.org/story/23/12/06/0022203/congress-spent-billions-on-ev-chargers-but-not-one-has-come-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Cruise faces fines in California for withholding key details in robotaxi accident
-Link: [Click](https://techcrunch.com/2023/12/04/cruise-faces-fines-in-california-for-withholding-key-details-in-robotaxi-accident/)
+## [Slashdot] Pixar's Disney+ Pandemic Movies Are Hitting Theaters After All
+```
+In 2024, the Pixar films that debuted on Disney+ during the COVID-19 pandemic years when theaters were shut down will be returning to the big screen. Those include Soul, Luca and Turning Red. Engadget
+```
 
-## [Techcrunch] Kodiak’s military prototype AV is a Ford F-150 pickup
-Link: [Click](https://techcrunch.com/2023/12/04/kodiaks-military-prototype-av-is-a-ford-f-150-pickup/)
+Link: [Click](https://entertainment.slashdot.org/story/23/12/05/239237/pixars-disney-pandemic-movies-are-hitting-theaters-after-all?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] UK age assurance guidance for porn sites gives thumbs up to AI age checks, digital ID wallets and more
-Link: [Click](https://techcrunch.com/2023/12/04/ofcom-porn-sites-age-assurance-guidance/)
+## [Techcrunch] ‘Mega-deals’ could be inflating overall AI funding figures
+Link: [Click](https://techcrunch.com/2023/12/05/mega-deals-ai-funding-q3/)
 
-## [Theregister] Spanish media sues Meta for ignoring GDPR and harvesting data
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/spanish_media_meta_lawsuit/)
+## [Techcrunch] Twitch to shut down in Korea over ‘prohibitively expensive’ network fees
+Link: [Click](https://techcrunch.com/2023/12/05/twitch-to-shut-down-in-korea-over-prohibitively-expensive-network-fees/)
 
-## [Theregister] UK government denies China/Russia nuke plant hack claim
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/uk_government_denies_sellafield_hack_claim/)
+## [Techcrunch] Avenir seeks to raise $800M for new fund
+Link: [Click](https://techcrunch.com/2023/12/05/avenir-seeks-to-raise-800m-for-new-fund/)
 
-## [Theregister] China gamifies censorship and surveillance with national internet law quiz
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/china_gamifies_censorship_and_surveillance/)
+## [Techcrunch] Discord reimagines its mobile app to showcase its best social features
+Link: [Click](https://techcrunch.com/2023/12/05/discord-app-redesign-mobile/)
 
-## [Theregister] Korean peninsula space race sees South and North launch tit for tat spy sats
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/south_north_korea_spy_satellites/)
+## [Theregister] Getty's image-scraping sueball against Stability AI will go to trial in the UK
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/getty_sues_stability_ai/)
 
-## [Theregister] Amazon on the hook for predictably revolting use of concealed clothes hook spy cam
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/amazon_camera_hook_case_proceeds/)
+## [Theregister] Atlassian security advisory reveals four fresh critical flaws – in mail with dead links
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/atlassian_four_rce_cves/)
 
-## [Theregister] IBM takes a crack at 'utility scale' quantum processing with Heron processor
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/ibm_heron_quantum_processor/)
+## [Theregister] Microsoft issues deadline for end of Windows 10 support – it's pay to play for security
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/microsoft_windows_10_security/)
 
-## [Theregister] Hershey phishes! Crooks snarf chocolate lovers' creds
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/hershey_phishes_data_breach/)
+## [Theregister] NTT Data to monitor ten million hotel guests and sell data about their sleep
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/ntt_hotel_sleep_data_sale/)
 
-## [Theregister] You can't deepfake diversity, and that's a good thing
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/04/opinion/)
+## [Theregister] Cisco intros AI to find firewall flaws, warns this sort of thing can't be free
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/cisco_ai_security/)
 
-## [Theverge] The Fiat 500e is a tiny, affordable EV that’s only emission is classical music
-Link: [Click](https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car)
+## [Theregister] India's Moon mission pulled off another trick: an experimental orbital sequel
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/chandrayaan_3_earth_orbit_return/)
 
-## [Theverge] PlayStation accounts are being ‘permanently suspended’ and no one knows why
-Link: [Click](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
+## [Theregister] Boffins devise 'universal backdoor' for image models to cause AI hallucinations
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/universal_backdoor_llm_image/)
 
-## [Theverge] The Verge’s favorite holiday gifts under $100
-Link: [Click](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
+## [Theregister] Fancy Bear goes phishing in US, European high-value networks
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/fancy_bear_phishing_microsoft/)
 
-## [Theverge] The UK tries, once again, to age-gate pornography
-Link: [Click](https://www.theverge.com/2023/12/4/23987821/uk-online-safety-act-age-verification-pornography-privacy)
+## [Theregister] Steve Jobs' $4.01 RadioShack check set to fetch small fortune at auction
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/steve_jobs_radioshack_check/)
 
-## [Theverge] DoorDash makes tipping an afterthought to protest New York City’s wage raise
-Link: [Click](https://www.theverge.com/2023/12/4/23988334/doordash-new-york-minimum-wage-worker-tips)
+## [Theverge] Finally, non-MagSafe wireless chargers will fast-charge recent iPhones
+Link: [Click](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
+
+## [Theverge] Hollywood’s strikes are over
+Link: [Click](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
