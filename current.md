@@ -1,131 +1,106 @@
-## [Arstechnica] NASA says SpaceX’s next Starship flight could test refueling tech
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, December 7, 2023
 ```
-SpaceX appears on track for at least a preliminary propellant transfer test next year.
-```
-
-Link: [Click](https://arstechnica.com/?p=1988814)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, December 6, 2023
-```
-Here are some hints to help you win Wordle #900.
+Here are some hints to help you win Wordle #901.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, December 6, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, December 7, 2023
 ```
-Here are some hints to help you win NYT Connections #178.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
-
-## [Ycombinator] Why Is Jepsen Written in Clojure?
-Link: [Click](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
-
-## [Ycombinator] A new quantum algorithm for classical mechanics with an exponential speedup
-Link: [Click](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
-
-## [Ycombinator] JSONB has landed
-Link: [Click](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-
-## [Ycombinator] MLX: An array framework for Apple Silicon
-Link: [Click](https://github.com/ml-explore/mlx)
-
-## [Ycombinator] Go Testing by Example [video]
-Link: [Click](https://research.swtch.com/testing)
-
-## [Ycombinator] After the Plague: Health and History in Medieval England
-Link: [Click](https://www.aftertheplague.org)
-
-## [Ycombinator] Leaked document shows how Amazon amasses influence in the Inland Empire
-Link: [Click](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
-
-## [Ycombinator] MLX: NumPy like framework for Apple Silicon by Apple
-Link: [Click](https://ml-explore.github.io/mlx/build/html/index.html)
-
-## [Slashdot] 'Wobbly Spacetime' May Help Resolve Contradictory Physics Theories
-```
-Scientists have proposed a framework that they say could unify quantum mechanics and Albert Einstein's theory of general relatively. "Quantum theory and Einstein's theory of general relativity are mat
+Here are some hints to help you win NYT Connections #179.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/12/06/0118223/wobbly-spacetime-may-help-resolve-contradictory-physics-theories?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 
-## [Slashdot] Harvard, MIT and UPenn's Presidents Should 'Resign in Disgrace', Bill Ackman Says
+## [Ycombinator] Building end-to-end security for Messenger
+Link: [Click](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+
+## [Ycombinator] Cabinets of curiosities laid the foundation for modern museums
+Link: [Click](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
+
+## [Ycombinator] Five-Disk Floppy RAID: 4MB of Blistering Fast Storage (2009)
+Link: [Click](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
+
+## [Ycombinator] Tell HN: ZFS silent data corruption bugfix – my research results
+Link: [Click](https://news.ycombinator.com/item?id=38553008)
+
+## [Ycombinator] A slightly longer Lean 4 proof tour
+Link: [Click](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
+
+## [Ycombinator] Brain-Inspired Efficient Pruning: Criticality in Spiking Neural Networks
+Link: [Click](https://arxiv.org/abs/2311.16141)
+
+## [Ycombinator] Robinhood launches crypto trading in the European Union
+Link: [Click](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+
+## [Ycombinator] 23andMe updates their TOS to force binding arbitration
+Link: [Click](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
+
+## [Ycombinator] Tesla Whistleblower – 'Autopilot' System Not Safe Enough for Public Roads
+Link: [Click](https://jalopnik.com/tesla-whistleblower-says-autopilot-system-is-not-safe-e-1851077068)
+
+## [Ycombinator] The extremely large telescope will transform astronomy
+Link: [Click](https://www.economist.com/interactive/science-and-technology/2023/12/06/the-extremely-telescope-will-trasform-astronomy)
+
+## [Slashdot] Wasabi Linked To 'Substantial' Boost In Memory, Japanese Study Finds
 ```
-An anonymous reader writes: Bill Ackman has called for the resignation of Harvard, MIT, and the University of Pennsylvania's presidents following their congressional hearing on antisemitism on Tuesday
+Researchers at Tohoku University in Japan found that wasabi improves both short- and long-term memory. CBS News reports: Rui Nouchi, the study's lead researcher and an associate professor at the schoo
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/06/0648239/harvard-mit-and-upenns-presidents-should-resign-in-disgrace-bill-ackman-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/07/0049253/wasabi-linked-to-substantial-boost-in-memory-japanese-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Western US Wildfires Undo Two Decades of Air Quality Progress
+## [Slashdot] EU Mulls Expansion of Geo-Blocking 'Bans' To Video Streaming Platforms
 ```
-An anonymous reader quotes a report from Axios: Increasingly intensive and frequent wildfires in the western U.S. are deteriorating air quality and causing more premature deaths, a new study found. Fi
-```
-
-Link: [Click](https://news.slashdot.org/story/23/12/06/0040241/western-us-wildfires-undo-two-decades-of-air-quality-progress?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Amazon Releases Fallout TV Series Trailer
-```
-Samuel Axon reports via Ars Technica: The trailer for Amazon's Fallout TV series dropped this weekend, and it's either craven fan service or wonderfully authentic, depending on your point of view. The
+One of the suggestions in a recent report (PDF) from the European Parliament's Committee on Internal Market and Consumer Protection is to expand geo-blocking restrictions to the audiovisual sector, in
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/12/06/0031245/amazon-releases-fallout-tv-series-trailer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://yro.slashdot.org/story/23/12/06/2230212/eu-mulls-expansion-of-geo-blocking-bans-to-video-streaming-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Congress Spent Billions On EV Chargers. But Not One Has Come Online.
+## [Slashdot] Meta and Microsoft To Buy AMD's New AI Chip As Alternative To Nvidia's
 ```
-Press2ToContinue shares a report from Politico: Congress at the urging of the Biden administration agreed in 2021 to spend $7.5 billion to build tens of thousands of electric vehicle chargers across t
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/12/06/0022203/congress-spent-billions-on-ev-chargers-but-not-one-has-come-online?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Pixar's Disney+ Pandemic Movies Are Hitting Theaters After All
-```
-In 2024, the Pixar films that debuted on Disney+ during the COVID-19 pandemic years when theaters were shut down will be returning to the big screen. Those include Soul, Luca and Turning Red. Engadget
+Meta, OpenAI, and Microsoft said at an AMD investor event today that they will use AMD's newest AI chip, the Instinct MI300X, as an alternative to Nvidia's expensive graphic processors. "If AMD's late
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/12/05/239237/pixars-disney-pandemic-movies-are-hitting-theaters-after-all?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://hardware.slashdot.org/story/23/12/06/2224201/meta-and-microsoft-to-buy-amds-new-ai-chip-as-alternative-to-nvidias?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] ‘Mega-deals’ could be inflating overall AI funding figures
-Link: [Click](https://techcrunch.com/2023/12/05/mega-deals-ai-funding-q3/)
+## [Techcrunch] European neobroker Scalable Capital raises $65M on a flat $1.4B valuation
+Link: [Click](https://techcrunch.com/2023/12/06/european-neobroker-scalable-capital-raises-65m-on-a-flat-1-4b-valuation/)
 
-## [Techcrunch] Twitch to shut down in Korea over ‘prohibitively expensive’ network fees
-Link: [Click](https://techcrunch.com/2023/12/05/twitch-to-shut-down-in-korea-over-prohibitively-expensive-network-fees/)
+## [Techcrunch] After e-signatures, Tomorro believes e-contracts will be the next big thing
+Link: [Click](https://techcrunch.com/2023/12/06/after-e-signatures-tomorro-believes-e-contracts-will-be-the-next-thing/)
 
-## [Techcrunch] Avenir seeks to raise $800M for new fund
-Link: [Click](https://techcrunch.com/2023/12/05/avenir-seeks-to-raise-800m-for-new-fund/)
+## [Techcrunch] Five-month-old Indian AI startup Sarvam scores $41 million funding
+Link: [Click](https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv/)
 
-## [Techcrunch] Discord reimagines its mobile app to showcase its best social features
-Link: [Click](https://techcrunch.com/2023/12/05/discord-app-redesign-mobile/)
+## [Techcrunch] Meta finally starts rolling out default end-to-end encryption for Messenger
+Link: [Click](https://techcrunch.com/2023/12/06/meta-finally-starts-rolling-out-default-end-to-end-encryption-for-messenger/)
 
-## [Theregister] Getty's image-scraping sueball against Stability AI will go to trial in the UK
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/getty_sues_stability_ai/)
+## [Techcrunch] India’s Paytm slides 20% on curbing low-value personal loans
+Link: [Click](https://techcrunch.com/2023/12/06/indias-paytm-curbing-low-value-personal-loans-spells-bad-news-for-the-industry/)
 
-## [Theregister] Atlassian security advisory reveals four fresh critical flaws – in mail with dead links
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/atlassian_four_rce_cves/)
+## [Theregister] Belgian man charged with smuggling sanctioned military tech to Russia and China
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/belgian_russia_china_hardware/)
 
-## [Theregister] Microsoft issues deadline for end of Windows 10 support – it's pay to play for security
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/microsoft_windows_10_security/)
+## [Theregister] Cisco delivers a powerup to its switches for small and medium biz
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/cisco_catalyst_1200_1300_refresh/)
 
-## [Theregister] NTT Data to monitor ten million hotel guests and sell data about their sleep
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/ntt_hotel_sleep_data_sale/)
+## [Theregister] Swedish Tesla strike goes international as Norwegian and Danish unions join in
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
 
-## [Theregister] Cisco intros AI to find firewall flaws, warns this sort of thing can't be free
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/cisco_ai_security/)
+## [Theregister] Google teases AlphaCode 2 – a code-generating AI revamped with Gemini
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/alphacode_2_software/)
 
-## [Theregister] India's Moon mission pulled off another trick: an experimental orbital sequel
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/chandrayaan_3_earth_orbit_return/)
+## [Theregister] Australia building 'top secret' cloud to catch up and link with US, UK intel orgs
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/australia_top_secret_cloud/)
 
-## [Theregister] Boffins devise 'universal backdoor' for image models to cause AI hallucinations
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/universal_backdoor_llm_image/)
+## [Theregister] Chromebooks are problematic for profits and planet, says Lenovo exec
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/chromebooks_are_problematic_for_profits/)
 
-## [Theregister] Fancy Bear goes phishing in US, European high-value networks
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/06/fancy_bear_phishing_microsoft/)
+## [Theregister] Dell APJ chief: Industry won't wait for Nvidia H100
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/dell_apj_president_says_industry/)
 
-## [Theregister] Steve Jobs' $4.01 RadioShack check set to fetch small fortune at auction
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/05/steve_jobs_radioshack_check/)
+## [Theregister] Dump C++ and in Rust you should trust, Five Eyes agencies urge
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/07/memory_correction_five_eyes/)
 
-## [Theverge] Finally, non-MagSafe wireless chargers will fast-charge recent iPhones
-Link: [Click](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
-
-## [Theverge] Hollywood’s strikes are over
-Link: [Click](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+## [Theverge] Messenger is finally getting end-to-end encryption by default
+Link: [Click](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
