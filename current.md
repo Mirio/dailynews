@@ -1,108 +1,141 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, December 11, 2023
+## [Arstechnica] Google’s Android app store monopoly violates antitrust law, jury finds
 ```
-Here are some hints to help you win Wordle #905.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, December 11, 2023
-```
-Here are some hints to help you win NYT Connections #183.
+Epic Games scores major court win; judge will decide remedies next month.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
+Link: [Click](https://arstechnica.com/?p=1990262)
 
-## [Ycombinator] Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330
-Link: [Click](https://datatracker.ietf.org/doc/rfc9330/)
-
-## [Ycombinator] Templ: A language for writing HTML user interfaces in Go
-Link: [Click](https://github.com/a-h/templ)
-
-## [Ycombinator] Pitivi – Free video editor with a beautiful and intuitive user interface
-Link: [Click](https://www.pitivi.org/)
-
-## [Ycombinator] Could we stop Yellowstone from erupting with a geothermal power plant?
-Link: [Click](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
-
-## [Ycombinator] Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming
-Link: [Click](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
-
-## [Ycombinator] NeurIPS 2023: Expo Day
-Link: [Click](https://mlcontests.com/neurips-2023/expo-day/)
-
-## [Ycombinator] Littlefs – a little fail-safe filesystem designed for microcontrollers
-Link: [Click](https://github.com/littlefs-project/littlefs)
-
-## [Ycombinator] HN-comments-drawer: one line HN comments integration into sites
-Link: [Click](https://github.com/prakhar897/hn-comments-drawer)
-
-## [Ycombinator] Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real
-Link: [Click](https://sagittarius.greg.technology/)
-
-## [Ycombinator] John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary
-Link: [Click](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
-
-## [Slashdot] 'Zombie TV':  Cable Channels Left Showing Reruns as Their Owners Invest in Streaming Services
+## [Arstechnica] The US military’s spaceplane is about to fly again—it needs a bigger rocket
 ```
-All those original shows on streaming services brought us "peak TV." But the New York Times reports on the flipside: back in the cable universe, they're experiencing "zombie TV":
-
-In 2015, the USA cab
+SpaceX called off launch attempts Sunday and Monday. It's now set for Tuesday night.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/12/11/0530258/zombie-tv-cable-channels-left-showing-reruns-as-their-owners-invest-in-streaming-services?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1990132)
 
-## [Slashdot] Hidden Impacts of Ferocious Volcanic Eruption Finally Revealed
+## [Arstechnica] The growing abuse of QR codes in malware and payment scams prompts FTC warning
 ```
-Long-time Slashdot reader schwit1 shared an interesting article from ScienceAlert:
-
-Undersea volcanic eruptions account for more than three-quarters of all volcanism on Earth, but rarely do we see the
+The convenience of QR codes is a double-edged sword. Follow these tips to stay safe.
 ```
 
-Link: [Click](https://science.slashdot.org/story/23/12/11/0229254/hidden-impacts-of-ferocious-volcanic-eruption-finally-revealed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1990254)
 
-## [Slashdot] New Internet Standard L4S:  the Quiet Plan to Make the Internet Feel Faster
+## [Arstechnica] AI companion robot helps some seniors fight loneliness, but others hate it
 ```
-Slow load times? Choppy videos? The real problem is latency, writes the Verge &mdash; but the good news is "there's a plan to almost eliminate latency, and big companies like Apple, Google, Comcast, C
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/12/11/0158248/new-internet-standard-l4s-the-quiet-plan-to-make-the-internet-feel-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Is There a Mass Exodus of Former Silicon Valley Tech Companies From Austin, Texas?
-```
-"Over the years, Austin has seen a huge migration of tech companies moving to the city, from billionaire owners of Twitter (X) to the largest search engine in the world," according to a local news sit
+There's limited evidence for health benefits so far; early work suggests no one-size-fits-all.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/11/0043208/is-there-a-mass-exodus-of-former-silicon-valley-tech-companies-from-austin-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1990239)
 
-## [Techcrunch] Amazon loses second AWS India and South Asia top exec in less than a year
-Link: [Click](https://techcrunch.com/2023/12/10/amazon-loses-second-aws-india-and-south-asia-top-exec-in-less-than-a-year/)
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 12, 2023
+```
+Here are some hints to help you win Wordle #906.
+```
 
-## [Techcrunch] US-China tech war escalates over EV battery dominance
-Link: [Click](https://techcrunch.com/2023/12/10/us-china-tech-war-escalates-over-ev-battery-dominance/)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 
-## [Techcrunch] Elon Musk brings Alex Jones and Infowars back on X after user poll
-Link: [Click](https://techcrunch.com/2023/12/10/elon-musk-brings-alex-jones-and-infowars-back-on-x-after-user-poll/)
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 12, 2023
+```
+Here are some hints to help you win NYT Connections #184.
+```
 
-## [Techcrunch] SumUp taps €285M more in growth funding to weather the fintech storm
-Link: [Click](https://techcrunch.com/2023/12/10/sumup-taps-e285m-more-in-growth-funding-to-weather-the-fintech-storm/)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 
-## [Techcrunch] Cruise faces fines, TuSimple exits the U.S. and a new reporter joins the TC transpo team
-Link: [Click](https://techcrunch.com/2023/12/10/cruise-faces-fines-tusimple-exits-the-u-s-and-a-new-reporter-joins-the-tc-transpo-team/)
+## [Lifehacker] Why You Shouldn’t Force Kids Into Sports (and What You Should Do Instead)
+```
+How to support your child's athletic pursuits without getting all 'Varsity Blues' on them
+```
 
-## [Theregister] Enterprising techie took the bumpy road to replacing vintage hardware
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/who_me/)
+Link: [Click](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
 
-## [Theregister] Trust us, says EU, our AI Act will make AI trustworthy by banning the nasty ones
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/eu_agrees_ai_act/)
+## [Slashdot] Betelgeuse Will Briefly Disappear In Once-in-a-Lifetime Coincidence
+```
+Meghan Bartels reports via Scientific American: Some sky watchers this month will witness Betelgeuse, one of the brightest and best-known stars in the sky, nearly disappear. Mere seconds later -- desp
+```
 
-## [Theregister] Doom turns 30, so its creators celebrate seminal first-person shooter’s contribution to IT careers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/doom_30th_anniversary_sigil_wad/)
+Link: [Click](https://science.slashdot.org/story/23/12/12/0142233/betelgeuse-will-briefly-disappear-in-once-in-a-lifetime-coincidence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Raspberry Pi sizes up HAT+ spec for future hardware add-ons
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/rpi_hat_plus_m2/)
+## [Slashdot] MIT Group Releases White Papers On Governance of AI
+```
+An anonymous reader quotes a report from MIT News: Providing a resource for U.S. policymakers, a committee of MIT leaders and scholars has released a set of policy briefs that outlines a framework for
+```
 
-## [Theregister] Don't be fooled: Google faked its Gemini AI voice demo
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/ai_in_brief/)
+Link: [Click](https://yro.slashdot.org/story/23/12/11/2216207/mit-group-releases-white-papers-on-governance-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Microsoft hikes prices across Asia
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/11/apac_tech_news_brief/)
+## [Slashdot] Google's App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games
+```
+A jury in San Francisco unanimously found (PDF) that Google violated California and federal antitrust laws through deals that stifled competition for its mobile app store. "The verdict delivers the fi
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/12/12/0133226/googles-app-store-ruled-an-illegal-monopoly-as-a-jury-sides-with-epic-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Wendy's Expanding Use of AI Chatbot To Take Orders At Drive-Thrus
+```
+According to Bloomberg, Wendy's is expanding its test of an AI-powered chatbot that takes orders at the drive-thru. From the report: Franchisees will get the chance to test the product in 2024, the Du
+```
+
+Link: [Click](https://slashdot.org/story/23/12/11/222244/wendys-expanding-use-of-ai-chatbot-to-take-orders-at-drive-thrus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Apple Releases Spatial Video Recording On iPhone 15 Pro
+```
+With iOS 17.2 rolling out today, Apple is giving users the ability to record spatial videos on their iPhone 15 Pro and iPhone 15 Pro Max. "The new feature lets users film in three dimensions and exper
+```
+
+Link: [Click](https://mobile.slashdot.org/story/23/12/11/2154256/apple-releases-spatial-video-recording-on-iphone-15-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Huawei To Start Building First European Factory In France
+```
+An anonymous reader quotes a report from Reuters: China's Huawei will start building its mobile phone network equipment factory in France next year, a source familiar with the matter said, pressing ah
+```
+
+Link: [Click](https://slashdot.org/story/23/12/11/215238/huawei-to-start-building-first-european-factory-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Lego Fortnite’s debut builds momentum with 2.4M people playing at once
+Link: [Click](https://techcrunch.com/2023/12/11/lego-fortnites-debut-builds-momentum-with-2-4m-people-playing-at-once/)
+
+## [Techcrunch] Omidyar Network to pull out of India market
+Link: [Click](https://techcrunch.com/2023/12/11/omidyar-network-to-pull-out-of-india-market/)
+
+## [Techcrunch] A spectral device using Generative AI could detect bad microbes in food factories in real time
+Link: [Click](https://techcrunch.com/2023/12/11/a-spectral-device-using-generative-ai-could-detect-bad-microbes-in-food-factories-in-real-time/)
+
+## [Techcrunch] Tribe Capital eyes leading $75M-plus funding in India’s Shiprocket
+Link: [Click](https://techcrunch.com/2023/12/11/tribe-capital-eyes-leading-75m-plus-funding-in-india-shiprocket/)
+
+## [Techcrunch] Fortnite maker Epic Games wins its antitrust fight against Google
+Link: [Click](https://techcrunch.com/2023/12/11/epic-games-google-antitrust-win/)
+
+## [Techcrunch] Terran Orbital CEO tells staff it is not looking for a buyer
+Link: [Click](https://techcrunch.com/2023/12/11/terran-orbital-ceo-tells-staff-it-is-not-looking-for-a-buyer/)
+
+## [Theregister] British train system is getting another excuse for delays - solar storms
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/train_solar_storm/)
+
+## [Theregister] Interpol moves against human traffickers who enslave people to scam you online
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/interpol_cyberscam_trafficker_action/)
+
+## [Theregister] ByteDance slides around Indonesian social commerce ban with $1.5 billion buy
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/bytedance_tokopedia_deal/)
+
+## [Theregister] China's SpaceX wannabe recycles a rocket after just 38 days
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/ispace_china_test_success/)
+
+## [Theregister] Epic decision sees jury find Google's Play store is illegal monopoly
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/epic_v_google_epic_wins/)
+
+## [Theregister] Proposed US surveillance regime would enlist more businesses
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/setction_702_renewal/)
+
+## [Theregister] Broadcom halves subscription price for VMware's flagship hybrid cloud suite
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/12/vmware_broadcom_licensing_changes/)
+
+## [Theverge] The Apple TV app now looks more like an all-purpose streaming hub
+Link: [Click](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
+
+## [Theverge] Epic win: Jury decides Google has illegal monopoly in app store fight
+Link: [Click](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
+
+## [Theverge] Netflix is back, after an outage knocked many people offline for a few hours
+Link: [Click](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
+
+## [Theverge] Epic v. Google: everything we’re learning live in Fortnite court
+Link: [Click](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
