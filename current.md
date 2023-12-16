@@ -1,131 +1,110 @@
-## [Arstechnica] If AI is making the Turing test obsolete, what might be better?
+## [Arstechnica] A top-secret Chinese spy satellite just launched on a supersized rocket
 ```
-The Turing test focuses on the ability to chat—can we test the ability to think?
-```
-
-Link: [Click](https://arstechnica.com/?p=1991004)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, December 15, 2023
-```
-Here are some hints to help you win Wordle #909.
+This satellite may carry a large telescope to continuously monitor the Indo-Pacific.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
+Link: [Click](https://arstechnica.com/?p=1991612)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, December 15, 2023
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Saturday, December 16, 2023
 ```
-Here are some hints to help you win NYT Connections #187.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
-
-## [Lifehacker] The Best Places to Rent Tools and Equipment (and What It Will Cost)
-```
-You don't need to own every single tool you'll ever use—you can find big box and local rental options near you for tools you only need to use for specific projects.
+Here are some hints to help you win Wordle #910.
 ```
 
-Link: [Click](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 
-## [Lifehacker] This AI Tax Assistant Actually Seems Pretty Useful
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, December 16, 2023
 ```
-Normally I don't recommend turning to AI for your financial decisions, but give this chatbot a spin.
-```
-
-Link: [Click](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
-
-## [Lifehacker] Epic’s Got a Great Sale on 'Alan Wake 2,' One of the Best Games of the Year
-```
-Grab Alan Wake 2 for a hefty discount and get Alan Wake Remastered for free.
+Here are some hints to help you win NYT Connections #188.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 
-## [Lifehacker] Governments Can Spy on Your Push Notifications
+## [Ycombinator] Advancements in machine learning for machine learning
+Link: [Click](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
+
+## [Ycombinator] CRDT Concepts: Causal Trees
+Link: [Click](https://www.farley.ai/posts/causal)
+
+## [Ycombinator] Bluetooth keystroke-injection in Android, Linux, macOS and iOS
+Link: [Click](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+
+## [Ycombinator] RAG to Riches
+Link: [Click](https://sourcegraph.com/blog/rag-to-riches)
+
+## [Ycombinator] OpenAI suspends ByteDance's account after it used GPT to train its own AI model
+Link: [Click](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
+
+## [Ycombinator] Transactional Email Delivery Made Easy
+Link: [Click](https://maileroo.com/)
+
+## [Ycombinator] Location history data in Google Maps will soon be stored on user devices
+Link: [Click](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
+
+## [Ycombinator] The music player you wish you had in the early 2000s
+Link: [Click](https://www.crowdsupply.com/cool-tech-zone/tangara)
+
+## [Ycombinator] InpharmD (YC W21) Is Hiring – NLP/ML Engineer
+Link: [Click](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+
+## [Ycombinator] Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors
+Link: [Click](https://github.com/Doubiiu/DynamiCrafter)
+
+## [Ycombinator] Securing the Fundamentals: Our Support for Log4j
+Link: [Click](https://www.sovereigntechfund.de/news/log4j-investment)
+
+## [Ycombinator] City council passes bill enabling tenants to report vacant apartments
+Link: [Click](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
+
+## [Ycombinator] Astronomers detect almost 100 new extremely-metal poor galaxies
+Link: [Click](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
+
+## [Slashdot] Researchers Develop World's First Antenna For Ultra-Secure 6G
 ```
-Here's one more reason to hate smartphone notifications.
-```
-
-Link: [Click](https://lifehacker.com/tech/governments-spying-on-push-notifications)
-
-## [Ycombinator] Pipe Dreams: The life and times of Yahoo Pipes
-Link: [Click](https://retool.com/pipes)
-
-## [Ycombinator] Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it
-Link: [Click](https://github.com/ncruces/go-sqlite-bench)
-
-## [Ycombinator] Researchers create transparent magnetic materials using laser heating
-Link: [Click](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
-
-## [Ycombinator] AMD's Next GPU Is a 3D-Integrated Superchip
-Link: [Click](https://spectrum.ieee.org/amd-mi300)
-
-## [Ycombinator] Fragmentation
-Link: [Click](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
-
-## [Ycombinator] Scratch Data (YC S21) Is Hiring
-Link: [Click](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-
-## [Ycombinator] Google Groups ending support for Usenet
-Link: [Click](https://support.google.com/groups/answer/11036538?hl=en)
-
-## [Slashdot] NASA's Voyager 1 Probe In Interstellar Space Can't Phone Home
-```
-NASA's Voyager 1 spacecraft is, once again, having trouble transmitting any scientific or systems data back to Earth. "The 46-year-old spacecraft is capable of receiving commands, but a problem seems 
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/12/14/1956257/nasas-voyager-1-probe-in-interstellar-space-cant-phone-home?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Google DeepMind Uses LLM To Solve Unsolvable Math Problem
-```
-An anonymous reader quotes a report from MIT Technology Review: In a paper published in Nature today, the researchers say it is the first time a large language model has been used to discover a soluti
-```
-
-Link: [Click](https://science.slashdot.org/story/23/12/14/1933219/google-deepmind-uses-llm-to-solve-unsolvable-math-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Google Releases On-Device Diagnostics Tool, Repair Manuals For Pixel Phones
-```
-Emma Roth reports via The Verge: Google is releasing a tool to help users diagnose problems with their Pixel phones. Users can launch the app by entering #*#7287#*# on the dial pad, allowing them to c
+Researchers from the City University of Hong Kong have developed a special antenna that can control all five important aspects of electromagnetic waves using computer software. Interesting Engineering
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/12/14/2356218/google-releases-on-device-diagnostics-tool-repair-manuals-for-pixel-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://mobile.slashdot.org/story/23/12/16/0424200/researchers-develop-worlds-first-antenna-for-ultra-secure-6g?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Cheating Fears Over Chatbots Were Overblown, New Research Suggests
+## [Slashdot] Biggest Solar Flare In Years Temporarily Disrupts Radio Signals On Earth
 ```
-Natasha Singer reports via The New York Times: According to new research from Stanford University, the popularization of A.I. chatbots has not boosted overall cheating rates in schools (Warning: sourc
-```
-
-Link: [Click](https://news.slashdot.org/story/23/12/15/002256/cheating-fears-over-chatbots-were-overblown-new-research-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Alphabet's 'Renew Home' Company Brings Power Grid Data To Your Smart Home
-```
-An anonymous reader quotes a report from Ars Technica: Google's parent company, Alphabet, is launching a new company called "Renew Home." The new company will pull in some other projects from Nest and
+An anonymous reader quotes a report from Phys.Org: A NASA telescope has captured the biggest solar flare in years, which temporarily knocked out radio communication on Earth. The sun spit out the huge
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/23/12/14/1938220/alphabets-renew-home-company-brings-power-grid-data-to-your-smart-home?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/23/12/16/0023257/biggest-solar-flare-in-years-temporarily-disrupts-radio-signals-on-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Damn, even the Pope thinks AI and autonomous weapons need reining in
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/pope_francis_ai_treaty/)
+## [Slashdot] Vera Molnar, Pioneer of Computer Art, Dies At 99
+```
+Alex Williams reports via The New York Times: Vera Molnar, a Hungarian-born artist who has been called the godmother of generative art for her pioneering digital work, which started with the hulking c
+```
 
-## [Theregister] Is it 2000 or 2023? Get ready for AI-anchored news again
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/channel_1_ai_news/)
+Link: [Click](https://tech.slashdot.org/story/23/12/16/004230/vera-molnar-pioneer-of-computer-art-dies-at-99?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] China’s e-commerce players commit to broaden overseas
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/chinas_ecommerce_players_expand_overseas/)
+## [Slashdot] Firefox's Android Browser Adds 450+ New Extensions
+```
+Firefox's Android browser now has over 450 new extensions available on Mozilla's Firefox Browser Add-ons page. "These extensions allow users to customize the mobile browser to their needs, whether tha
+```
 
-## [Theregister] Science fiction writers imagine a future in which AI doesn’t abuse copyright, or their generosity
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/sfwa_ai_idea/)
+Link: [Click](https://news.slashdot.org/story/23/12/15/2356227/firefoxs-android-browser-adds-450-new-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Everyone's talking about AI but industry reps say few are ready to implement
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/ai_implementation_challenges/)
+## [Slashdot] OpenAI Suspends ByteDance's Account After It Used GPT To Train Its Own AI Model
+```
+TikTok's parent company, ByteDance, has been secretly using OpenAI's technology to develop its own competing large language model (LLM). "This practice is generally considered a faux pas in the AI wor
+```
 
-## [Theregister] VMware channel partner rates new product bundles and subs-only licenses 'very attractive'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/vmware_by_broadcom_update/)
+Link: [Click](https://slashdot.org/story/23/12/15/2346251/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] The truth about Dropbox opening up your files to AI – and the loss of trust in tech
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/15/dropbox_ai_training/)
+## [Slashdot] McDonald's Ice Cream Machine Hackers Say They Found the 'Smoking Gun' That Killed Their Startup
+```
+An anonymous reader quotes a report from Wired: A little over three years have passed since McDonald's sent out an email to thousands of its restaurant owners around the world that abruptly cut short 
+```
 
-## [Theverge] Vivo’s X100 Pro offers another massive camera sensor to an international audience
-Link: [Click](https://www.theverge.com/2023/12/14/23999052/vivo-x100-pro-launch-europe-camera-specs)
+Link: [Click](https://slashdot.org/story/23/12/15/226234/mcdonalds-ice-cream-machine-hackers-say-they-found-the-smoking-gun-that-killed-their-startup?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] Naughty Dog cancels its The Last of Us multiplayer game
-Link: [Click](https://www.theverge.com/2023/12/14/24002141/naughty-dog-the-last-of-us-online-multiplayer-canceled)
+## [Theregister] Hundreds of thousands of dollars in crypto stolen after Ledger code poisoned
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/16/ledger_crypto_conect_kit/)
+
+## [Theverge] California settles Activision Blizzard gender discrimination lawsuit for $54 million
+Link: [Click](https://www.theverge.com/2023/12/15/24003556/california-activision-blizzard-gender-discrimination-lawsuit-settlement)
+
+## [Theverge] Philips Hue reorganizes, plans job cuts to save $218 million annually
+Link: [Click](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)
