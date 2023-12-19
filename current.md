@@ -1,84 +1,70 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, December 18, 2023
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 19, 2023
 ```
-Here are some hints to help you win Wordle #912.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, December 18, 2023
-```
-Here are some hints to help you win NYT Connections #190.
+Here are some hints to help you win Wordle #913.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 
-## [Ycombinator] Show HN: Microagents: Agents capable of self-editing their prompts / Python code
-Link: [Click](https://github.com/aymenfurter/microagents)
-
-## [Ycombinator] Mickey, Disney, and the public domain: A 95-year love triangle
-Link: [Click](https://web.law.duke.edu/cspd/mickey/)
-
-## [Ycombinator] Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]
-Link: [Click](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-
-## [Ycombinator] Autonomous subs use AI to wayfind without GPS
-Link: [Click](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
-
-## [Ycombinator] Small offline large language model – TinyChatEngine from MIT
-Link: [Click](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
-
-## [Ycombinator] AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack
-Link: [Click](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
-
-## [Slashdot] Creator of JSON Unveils New Programming Language 'Misty'
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 19, 2023
 ```
-He specified the JSON notation, and developed tools like JSLint and the minifier JSMin. His Wikipedia entry says he was also a senior JavaScript architect at PayPal &mdash; but he's probably better kn
+Here are some hints to help you win NYT Connections #191.
 ```
 
-Link: [Click](https://developers.slashdot.org/story/23/12/18/0634241/creator-of-json-unveils-new-programming-language-misty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 
-## [Slashdot] ProPublica Argues US Police 'Have Undermined the Promise of Body Cameras'
-```
-A new investigation from ProPublica argues that in the U.S., "Hundreds of millions in taxpayer dollars have been spent on what was sold as a revolution in transparency and accountability. 
+## [Ycombinator] Gokrazy – Go Appliances
+Link: [Click](https://gokrazy.org/)
 
-"Instead, 
-```
+## [Ycombinator] The Illustrated GPT-2: Visualizing Transformer Language Models (2019)
+Link: [Click](https://jalammar.github.io/illustrated-gpt2/)
 
-Link: [Click](https://yro.slashdot.org/story/23/12/18/0351201/propublica-argues-us-police-have-undermined-the-promise-of-body-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] 3D Printer Auto Bed Leveling Mesh Visualizer
+Link: [Click](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 
-## [Slashdot] 'Copyright Troll' Porn Company 'Makes Millions By Shaming Porn Consumers'
-```
-In 1999 Los Angeles Times reporter Michael Hiltzik co-authored a Pulitzer Prize-winning story. Now a business columnist for the Times, he writes that a Southern California maker of pornographic films 
-```
+## [Ycombinator] Unbricking my MacBook took an email to Tim Cook
+Link: [Click](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 
-Link: [Click](https://yro.slashdot.org/story/23/12/18/020222/copyright-troll-porn-company-makes-millions-by-shaming-porn-consumers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] Why do programmers need private offices with doors? (Do Not Disturb)
+Link: [Click](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
 
-## [Slashdot] How Artists are Sabotaging AI to Take Revenge on Image Generators
-```
-Some text-to-image generators "have been trained by indiscriminately scraping online images," reports the Conversation, "many of which may be under copyright. 
+## [Techcrunch] Black British founders are down but not out
+Link: [Click](https://techcrunch.com/2023/12/18/black-british-founders-are-down-but-not-out/)
 
-"Researchers who want to empower indivi
-```
+## [Techcrunch] Activision Blizzard will pay $54 million to settle California workplace discrimination suit
+Link: [Click](https://techcrunch.com/2023/12/18/activision-blizzard-will-pay-54-million-to-settle-california-workplace-discrimination-suit/)
 
-Link: [Click](https://slashdot.org/story/23/12/18/0053244/how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Techcrunch] Google says it will pay $700M as a part of Play Store dispute settlement
+Link: [Click](https://techcrunch.com/2023/12/18/google-says-it-will-pay-700m-as-a-part-of-play-store-dispute-settlement/)
 
-## [Techcrunch] Cruise cuts a quarter of its self-driving workforce, another e-scooter startup folds and a special year-end message
-Link: [Click](https://techcrunch.com/2023/12/17/cruise-cuts-a-quarter-of-its-self-driving-workforce-another-e-scooter-startup-folds-and-a-special-year-end-message/)
+## [Techcrunch] Why Gogoro picked India as its new go-to market
+Link: [Click](https://techcrunch.com/2023/12/18/gogoro-india/)
 
-## [Theregister] Halley's Comet has begun its long trek back toward Earth
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/comet_halley_now_officially_on/)
+## [Theregister] Japanese brewery using generative AI to dream up new beverages
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/kirin_ai_drink_development/)
 
-## [Theregister] Google Groups ditches links to Usenet, the OG social network
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/google_ends_usenet_links/)
+## [Theregister] VMware's end-user compute products are for sale. Who might buy 'em?
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/vmware_euc_sale_speculation/)
 
-## [Theregister] Your landlord should offer on-prem cloud, suggests immersed datacenter upstart
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/resetdata_basement_datacenters/)
+## [Theregister] Pakistani politician deepfakes himself to deliver a speech from behind bars
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/ousted_and_isolated_pakistan_pm/)
 
-## [Theregister] Apple, Corellium, settle iOS virtualization case
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/apple_corellium_case_settles/)
+## [Theregister] India's long-awaited telecoms bill drops language that would have regulated social media
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/india_telecommunications_bill_2023/)
 
-## [Theregister] MongoDB warns breach of internal systems exposed customer contact info
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/infosec_in_brief/)
+## [Theregister] Beijing demands government apps must shed their bureaucratic skins
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/cac_app_fornalism_crackdown/)
 
-## [Theregister] Pro-China campaign targeted YouTube with AI avatars
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/asia_in_brief/)
+## [Theregister] Internet's deep-level architects slam US, UK, Europe for pushing device-side scanning
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/iab_ietf_oppose_clientside_scanning/)
+
+## [Theregister] Apple pulls Watch Series 9, Ultra 2 from shelves in US after Masimo patent brawl
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/apple_pulling_watch_series_9/)
+
+## [Theregister] SUSE's Captain Container on sailing the open source seas
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/suse_captain_container/)
+
+## [Theverge] Google to pay $700 million and make tiny app store changes to settle with 50 states
+Link: [Click](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
+
+## [Theverge] The Verge’s favorite holiday gifts under $25
+Link: [Click](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
