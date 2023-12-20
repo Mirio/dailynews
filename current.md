@@ -1,70 +1,133 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 19, 2023
+## [Lifehacker] You Can Get 1TB of Koofr Cloud Storage for $120 Right Now
 ```
-Here are some hints to help you win Wordle #913.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 19, 2023
-```
-Here are some hints to help you win NYT Connections #191.
+Koofr cloud storage can help you keep all of your files, photos, and other data safe and in one place.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
+Link: [Click](https://lifehacker.com/tech/koofr-cloud-storage)
 
-## [Ycombinator] Gokrazy – Go Appliances
-Link: [Click](https://gokrazy.org/)
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, December 20, 2023
+```
+Here are some hints to help you win Wordle #914.
+```
 
-## [Ycombinator] The Illustrated GPT-2: Visualizing Transformer Language Models (2019)
-Link: [Click](https://jalammar.github.io/illustrated-gpt2/)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 
-## [Ycombinator] 3D Printer Auto Bed Leveling Mesh Visualizer
-Link: [Click](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, December 20, 2023
+```
+Here are some hints to help you win NYT Connections #192.
+```
 
-## [Ycombinator] Unbricking my MacBook took an email to Tim Cook
-Link: [Click](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
 
-## [Ycombinator] Why do programmers need private offices with doors? (Do Not Disturb)
-Link: [Click](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
+## [Lifehacker] You Can Get Windows 11 Pro for $25 Right Now
+```
+You can upgrade your PC to Windows 11 Pro for pretty cheap right now.
+```
 
-## [Techcrunch] Black British founders are down but not out
-Link: [Click](https://techcrunch.com/2023/12/18/black-british-founders-are-down-but-not-out/)
+Link: [Click](https://lifehacker.com/tech/windows-11-pro-sale)
 
-## [Techcrunch] Activision Blizzard will pay $54 million to settle California workplace discrimination suit
-Link: [Click](https://techcrunch.com/2023/12/18/activision-blizzard-will-pay-54-million-to-settle-california-workplace-discrimination-suit/)
+## [Lifehacker] These Are the Best Last-minute Gift Card Deals for Christmas
+```
+If you simply don’t have time for the season's most thoughtful gift, you can snag one of these solid gift card deals right now.
+```
 
-## [Techcrunch] Google says it will pay $700M as a part of Play Store dispute settlement
-Link: [Click](https://techcrunch.com/2023/12/18/google-says-it-will-pay-700m-as-a-part-of-play-store-dispute-settlement/)
+Link: [Click](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
 
-## [Techcrunch] Why Gogoro picked India as its new go-to market
-Link: [Click](https://techcrunch.com/2023/12/18/gogoro-india/)
+## [Lifehacker] You Can Get a One-Year Sam's Club Membership for $20 Right Now
+Link: [Click](https://lifehacker.com/money/one-year-sams-club-membership)
 
-## [Theregister] Japanese brewery using generative AI to dream up new beverages
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/kirin_ai_drink_development/)
+## [Ycombinator] LLM in a Flash: Efficient LLM Inference with Limited Memory
+Link: [Click](https://huggingface.co/papers/2312.11514)
 
-## [Theregister] VMware's end-user compute products are for sale. Who might buy 'em?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/vmware_euc_sale_speculation/)
+## [Ycombinator] Build a search engine, not a vector DB
+Link: [Click](https://blog.elicit.com/search-vs-vector-db/)
 
-## [Theregister] Pakistani politician deepfakes himself to deliver a speech from behind bars
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/ousted_and_isolated_pakistan_pm/)
+## [Ycombinator] An underground delivery train comes to the Atlanta suburbs
+Link: [Click](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 
-## [Theregister] India's long-awaited telecoms bill drops language that would have regulated social media
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/india_telecommunications_bill_2023/)
+## [Ycombinator] An update on HDR and color management in KWin
+Link: [Click](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 
-## [Theregister] Beijing demands government apps must shed their bureaucratic skins
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/cac_app_fornalism_crackdown/)
+## [Ycombinator] Show HN: I built an open source AI video search engine to learn more about AI
+Link: [Click](https://avse.vercel.app)
 
-## [Theregister] Internet's deep-level architects slam US, UK, Europe for pushing device-side scanning
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/iab_ietf_oppose_clientside_scanning/)
+## [Ycombinator] Rite Aid banned from using AI facial recognition for five years
+Link: [Click](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 
-## [Theregister] Apple pulls Watch Series 9, Ultra 2 from shelves in US after Masimo patent brawl
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/apple_pulling_watch_series_9/)
+## [Ycombinator] MiniLang: A type-safe C successor that compiles directly to x86_64 assembly
+Link: [Click](https://github.com/NICUP14/MiniLang)
 
-## [Theregister] SUSE's Captain Container on sailing the open source seas
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/18/suse_captain_container/)
+## [Slashdot] Hurricane Larry Dropped Over 100,000 Microplastics Per Square Meter Per Day, Study Finds
+```
+When hurricane Larry made landfall in the Atlantic in 2021, it was depositing over 100,000 microplastics per square meter of land per day. The findings have been published in the journal Communication
+```
 
-## [Theverge] Google to pay $700 million and make tiny app store changes to settle with 50 states
-Link: [Click](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
+Link: [Click](https://news.slashdot.org/story/23/12/20/0344219/hurricane-larry-dropped-over-100000-microplastics-per-square-meter-per-day-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] The Verge’s favorite holiday gifts under $25
-Link: [Click](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
+## [Slashdot] Blue Origin's Suborbital Rocket Flies For First Time In 15 Months
+```
+An anonymous reader quotes a report from Ars Technica: With redesigned engine components, Blue Origin's New Shepard rocket took off from West Texas and flew to the edge of space on Tuesday with a pack
+```
+
+Link: [Click](https://science.slashdot.org/story/23/12/19/233206/blue-origins-suborbital-rocket-flies-for-first-time-in-15-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Ministry of Justice Plans To Digitize Then Destroy 100 Million Historical Wills
+```
+"The Ministry of Justice is consulting on digitizing and then throwing away about 100 million paper originals of the last wills and testaments of British people dating back more than 150 years in an e
+```
+
+Link: [Click](https://hardware.slashdot.org/story/23/12/19/2244208/ministry-of-justice-plans-to-digitize-then-destroy-100-million-historical-wills?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Canada Lays Out Plan To Phase Out Sales of Gas-Powered Cars, Trucks By 2035
+```
+"EVs mandates are coming to Canada whether you like it or not," writes Slashdot reader Major_Disorder, sharing a report from the Canadian Broadcasting Corporation. "Here is what my Canadian brothers a
+```
+
+Link: [Click](https://tech.slashdot.org/story/23/12/19/2248229/canada-lays-out-plan-to-phase-out-sales-of-gas-powered-cars-trucks-by-2035?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Next Beeper Mini Fix Requires Users To Have a Mac
+```
+Juli Clover reports via MacRumors: The developers behind Beeper Mini are continuing with their effort to make iMessage for Android function despite Apple's mitigations, and the latest "fix" requires B
+```
+
+Link: [Click](https://apple.slashdot.org/story/23/12/19/227227/next-beeper-mini-fix-requires-users-to-have-a-mac?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] TomTom Creates AI-Based Conversational Assistant For Vehicles With Microsoft
+```
+An anonymous reader writes: Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for 
+```
+
+Link: [Click](https://slashdot.org/story/23/12/19/2211232/tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] ShareChat faces large valuation cut in new funding
+Link: [Click](https://techcrunch.com/2023/12/19/sharechat-faces-large-valuation-cut-in-new-funding/)
+
+## [Theregister] Long-delayed Ariane 6 rocket is 'ready to go' – hopefully – says European Space Agency
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/esa_ariane_6_ready/)
+
+## [Theregister] China's GPU contender Moore Threads reveals card that can cope with Nvidia’s CUDA
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/moore_threads_mtt_s4000_gpu/)
+
+## [Theregister] Singapore wants datacenters, clouds, regulated like critical infrastructure
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/singapore_proposes_treating_data_centers/)
+
+## [Theregister] India builds massive tech infrastructure to support finance sector
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/india_financial_services_infrastructure_build/)
+
+## [Theregister] Philippines, South Korea, Interpol cuff 3,500 suspected cyber scammers, seize $300M
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/interpol_haechi_iv/)
+
+## [Theregister] California approves lavatory-to-faucet water recycling
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/california_approves_water_recycling/)
+
+## [Theregister] FBI develops decryptor for BlackCat ransomware, seizes gang's website
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/19/blackcat_domain_seizure/)
+
+## [Theverge] The Verge’s favorite splurge-worthy gifts for 2023
+Link: [Click](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
+
+## [Theverge] The Verge’s 2023 gaming and entertainment holiday gift guide
+Link: [Click](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+
+## [Theverge] Rite Aid hit with five-year facial recognition ban over ‘reckless’ use
+Link: [Click](https://www.theverge.com/2023/12/19/24008516/rite-aid-facial-recognition-ban-ftc-five-years)
