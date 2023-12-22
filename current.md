@@ -1,110 +1,103 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, December 21, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, December 22, 2023
 ```
-Here are some hints to help you win Wordle #915.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, December 21, 2023
-```
-Here are some hints to help you win NYT Connections #193.
+Here are some hints to help you win NYT Connections #194.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 
-## [Lifehacker] These Wireless Open-Ear Conduction Headphones Are $34 Right Now
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, December 22, 2023
 ```
-If you want to be aware of your surroundings while you listen, these headphones are for you.
-```
-
-Link: [Click](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
-
-## [Ycombinator] Catalyst – Tailwind CSS Application UI Kit
-Link: [Click](https://tailwindui.com/templates/catalyst)
-
-## [Ycombinator] U.S. workers say banned weed killer in 50 countries is giving them Parkinson's
-Link: [Click](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
-
-## [Ycombinator] Show HN: Talk to any ArXiv paper just by changing the URL
-Link: [Click](https://github.com/evanhu1/talk2arxiv)
-
-## [Ycombinator] A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative
-Link: [Click](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
-
-## [Ycombinator] OpenAI Begins Tackling ChatGPT Data Leak Vulnerability
-Link: [Click](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
-
-## [Slashdot] Car Buyer Hilariously Tricks Chevy AI Bot Into Selling a Tahoe For $1
-```
-Chevrolet of Watsonville recently introduced a ChatGPT-powered chatbot on their website that was quickly exploited by users for their amusement. Internet users, like Chris Bakke, manipulated the chatb
+Here are some hints to help you win Wordle #916.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/23/12/21/0518215/car-buyer-hilariously-tricks-chevy-ai-bot-into-selling-a-tahoe-for-1?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 
-## [Slashdot] Rite Aid Banned From Using Facial Recognition Software
+## [Ycombinator] A structured note-taking app for personal use
+Link: [Click](https://github.com/penxio/penx)
+
+## [Ycombinator] FreeBasic
+Link: [Click](https://www.freebasic.net/)
+
+## [Ycombinator] What We Need Instead of "Web Components"
+Link: [Click](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
+
+## [Ycombinator] Leonardo Da Vinci’s Self-Powered Cart (2021)
+Link: [Click](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+
+## [Ycombinator] Labs.Google
+Link: [Click](https://labs.google/)
+
+## [Ycombinator] Open-source AI knowledge database with web UI and Enterprise SSO
+Link: [Click](https://github.com/casibase/casibase)
+
+## [Ycombinator] WARC'in the Crawler
+Link: [Click](https://www.marginalia.nu/log/94_warc_warc/)
+
+## [Ycombinator] Modern C for Fedora (and the World)
+Link: [Click](https://lwn.net/Articles/954018/)
+
+## [Ycombinator] What Is OIDC?
+Link: [Click](https://fusionauth.io/articles/identity-basics/what-is-oidc)
+
+## [Ycombinator] NLP Research in the Era of LLMs
+Link: [Click](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
+
+## [Ycombinator] 3D-GPT: Procedural 3D Modeling with Large Language Models
+Link: [Click](https://chuny1.github.io/3DGPT/3dgpt.html)
+
+## [Ycombinator] Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model
+Link: [Click](https://news.ycombinator.com/item?id=38730143)
+
+## [Slashdot] US Commits To Landing an International Astronaut On the Moon
 ```
-An anonymous reader quotes a report from TechCrunch: Rite Aid has been banned from using facial recognition software for five years, after the Federal Trade Commission (FTC) found that the U.S. drugst
+During a meeting of the National Space Council, Vice President Kamala Harris said an international astronaut will land on the Moon during one of NASA's Artemis missions. "Today, in recognition of the 
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/12/21/003208/rite-aid-banned-from-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/22/0032254/us-commits-to-landing-an-international-astronaut-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Scientists Successfully Replicate Historic Nuclear Fusion Breakthrough Three Times
+## [Slashdot] California Workers Say Herbicide Is Giving Them Parkinson's
 ```
-After producing a nuclear fusion reaction last year that released more energy than it used, scientists at the National Ignition Facility at the Lawrence Livermore National Laboratory in California (LL
-```
-
-Link: [Click](https://hardware.slashdot.org/story/23/12/20/2356218/scientists-successfully-replicate-historic-nuclear-fusion-breakthrough-three-times?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] In Contrast To Cruise, Waymo Is Touting Its Vehicles' Safety In New Report
-```
-Waymo has a new peer-reviewed study (PDF) to share that shows how safe its autonomous cars are compared to cars driven by humans. SFist reports: As the Chronicle notes, the study covers the 1.76 milli
+An anonymous reader quotes a report from the Los Angeles Times: It was the late 1980s when Gary Mund felt his pinky tremble. At first it seemed like a random occurrence, but pretty quickly he realized
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/12/20/2316253/in-contrast-to-cruise-waymo-is-touting-its-vehicles-safety-in-new-report?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/21/2357257/california-workers-say-herbicide-is-giving-them-parkinsons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Warner Bros. Discovery In Talks To Merge With Paramount Global
+## [Slashdot] Tolkien Estate Wins Court Order To Destroy Fan's 'Lord of the Rings' Sequel
 ```
-According to Axios, the CEO of Warner Bros. Discovery, David Zaslav, met with Paramount Global CEO Bob Bakish to discuss a possible merger. "The combination would create a news and entertainment behem
-```
-
-Link: [Click](https://slashdot.org/story/23/12/20/2311203/warner-bros-discovery-in-talks-to-merge-with-paramount-global?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] The Rise and Fall of Usenet
-```
-An anonymous reader quotes a report from ZDNet: Long before Facebook existed, or even before the Internet, there was Usenet. Usenet was the first social network. Now, with Google Groups abandoning Use
+Remy Tumin reports via the New York Times: It was supposed to be what a fan described as a "loving homage" to his hero, the author J.R.R. Tolkien, and to "The Lord of the Rings," which he called "one 
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/12/20/2147253/the-rise-and-fall-of-usenet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://entertainment.slashdot.org/story/23/12/21/2342211/tolkien-estate-wins-court-order-to-destroy-fans-lord-of-the-rings-sequel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Worldcoin is no longer offering Orb-verification in India, Brazil and France
-Link: [Click](https://techcrunch.com/2023/12/20/worldcoin-is-no-longer-offering-orb-verification-in-india-brazil-and-france/)
+## [Slashdot] Android May Soon Tell You When It's Time To Replace Your Phone's Battery
+```
+The next version of Android could give you an estimate of your battery's remaining capacity, which naturally degrades over time. "Android 14 laid the initial groundwork for the OS to track battery hea
+```
 
-## [Techcrunch] Vestwell raises $125M to help businesses power workplace savings programs
-Link: [Click](https://techcrunch.com/2023/12/20/vestwell-raises-125m-in-preempted-round-of-funding-to-help-businesses-power-workplace-savings-programs/)
+Link: [Click](https://hardware.slashdot.org/story/23/12/21/2332207/android-may-soon-tell-you-when-its-time-to-replace-your-phones-battery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Elon Musk’s X suffered yet another global outage
-Link: [Click](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
+## [Slashdot] Ryzen vs. Meteor Lake: AMD's AI Often Wins, Even On Intel's Hand-Picked Tests
+```
+Velcroman1 writes: Intel's new generation of "Meteor Lake" mobile CPUs herald a new age of "AI PCs," computers that can handle inference workloads such as generating images or transcribing audio witho
+```
 
-## [Theregister] 'The computer was sitting in a puddle of mud, with water up to the motherboard'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/on_call/)
+Link: [Click](https://slashdot.org/story/23/12/21/2320213/ryzen-vs-meteor-lake-amds-ai-often-wins-even-on-intels-hand-picked-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Europe classifies three adult sites as worthy of its toughest internet regulations
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/europe_nsfw_vlops_sites/)
+## [Slashdot] Women In IT Are On a 283-Year March To Parity, BCS Warns
+```
+An anonymous reader quotes a report from The Register: It will take 283 years for female representation in IT to make up an equal share of the tech workforce in the UK, according to a report from the 
+```
 
-## [Theregister] Data loss prevention isn't rocket science, but NASA hasn't made it work in Microsoft 365
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/nasa_oig_privacy_review/)
+Link: [Click](https://it.slashdot.org/story/23/12/21/2228202/women-in-it-are-on-a-283-year-march-to-parity-bcs-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Japan to allow limited rideshare services starting April 2024
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/japan_ridesharing_2024/)
+## [Theregister] Superuser mostly helped IT, until a BSOD saw him invent a farcical fix
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/22/on_call/)
 
-## [Theregister] Calculating Pi in the sky: Axiom Space plans to launch 'orbital datacenter'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/axiom_orbital_datacenter/)
+## [Theregister] Cisco goes Christmas shopping, buys Cilium project originator Isovalent
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/22/cisco_acquires_isovalent/)
 
-## [Theregister] This could still wing its way to you, if you have the dosh: One Concorde engine seeks new home
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/concorde_engine_auction/)
+## [Theregister] China bans export of rare earth processing kit
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/22/china_tech_export_bans/)
 
-## [Theregister] FTC bans Rite Aid from using AI facial recognition in stores for 5 years
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/20/rite_aid_facial_recognition/)
-
-## [Theverge] X was down
-Link: [Click](https://www.theverge.com/2023/12/21/24010656/x-is-down-twitter-outage)
+## [Theregister] Philips recalls 340 MRI machines because they may explode in an emergency
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/21/philips_exploding_mri/)
