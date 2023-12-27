@@ -1,64 +1,72 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, December 26, 2023
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, December 27, 2023
 ```
-Here are some hints to help you win Wordle #920.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, December 26, 2023
-```
-Here are some hints to help you win NYT Connections #198.
+Here are some hints to help you win Wordle #921.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 
-## [Ycombinator] Challenging projects every programmer should try (2019)
-Link: [Click](https://austinhenley.com/blog/challengingprojects.html)
-
-## [Ycombinator] The life and death of open source companies
-Link: [Click](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
-
-## [Ycombinator] What are farm animals thinking?
-Link: [Click](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
-
-## [Ycombinator] High school student allegedly uses device to turn off nearby iPhones
-Link: [Click](https://www.arlnow.com/2023/12/19/__trashed-8/)
-
-## [Ycombinator] Let it snow()
-Link: [Click](https://discourse.julialang.org/t/let-it-snow/72950)
-
-## [Ycombinator] Simple Made Easy (2011) [video]
-Link: [Click](https://www.youtube.com/watch?v=SxdOUGdseq4)
-
-## [Ycombinator] Electronic soil boosts crop growth
-Link: [Click](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
-
-## [Ycombinator] All I want for Christmas is 1TW of solar deployed annually
-Link: [Click](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
-
-## [Ycombinator] Steve Jobs emails Eric Schmidt (2007)
-Link: [Click](https://twitter.com/TechEmails/status/1443263744906305543)
-
-## [Ycombinator] DreamCoder: Growing Generalizable, Interpretable Knowledge
-Link: [Click](https://arxiv.org/abs/2006.08381)
-
-## [Slashdot] How a Surge in Organized Crime Threatens the Amazon
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, December 27, 2023
 ```
-In Brazil's Amazon, armed men with a rogue police unit overseeing illegal mining operations intimidated journalists investigating regional violence and trafficking surges. Though Brazil's 2023 defores
+Here are some hints to help you win NYT Connections #199.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/26/0515247/how-a-surge-in-organized-crime-threatens-the-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 
-## [Slashdot] Nigerian Central Bank Lifts Ban on Crypto Trading
+## [Ycombinator] Apollo 11 vs. USB-C Chargers (2020)
+Link: [Click](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
+
+## [Ycombinator] 2nd City Zoning
+Link: [Click](https://secondcityzoning.org)
+
+## [Ycombinator] Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance
+Link: [Click](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+
+## [Ycombinator] Things software developers should learn about learning
+Link: [Click](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
+
+## [Ycombinator] A programming language coding in a grid
+Link: [Click](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
+
+## [Ycombinator] Performance of Large Language Models on a Neurology Board–Style Examination
+Link: [Click](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812620)
+
+## [Ycombinator] History-making SpaceX booster mostly destroyed in post-flight topple
+Link: [Click](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
+
+## [Ycombinator] Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer
+Link: [Click](https://news.ycombinator.com/item?id=38777908)
+
+## [Ycombinator] Reminiscing CGI Scripts
+Link: [Click](https://rednafi.com/go/reminiscing_cgi_scripts/)
+
+## [Ycombinator] Open Source Game Clones
+Link: [Click](https://osgameclones.com/)
+
+## [Ycombinator] Operation Snow White
+Link: [Click](https://en.wikipedia.org/wiki/Operation_Snow_White)
+
+## [Ycombinator] Laptop of the magi: an annoyed iMessage antitrust anecdote
+Link: [Click](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
+
+## [Ycombinator] Optimizing Raku Programs with Zig
+Link: [Click](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
+
+## [Slashdot] Researchers Have a Magic Tool To Understand AI: Harry Potter
 ```
-Nigeria's central bank has lifted a ban on transacting in cryptocurrencies, while saying global trends had shown a need to regulate such activities, the bank said in its latest circular. From a report
+More than two decades after J.K. Rowling introduced the world to a universe of magical creatures, forbidden forests and a teenage wizard, Harry Potter is finding renewed relevance in a very different 
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/26/0327218/nigerian-central-bank-lifts-ban-on-crypto-trading?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://slashdot.org/story/23/12/27/045245/researchers-have-a-magic-tool-to-understand-ai-harry-potter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] GTA 5 Source Code Reportedly Leaked Online a Year After Rockstar Hack
+## [Slashdot] CBS, Paramount Owner National Amusements Says It Was Hacked
 ```
-The source code for Grand Theft Auto 5 was reportedly leaked on Christmas Eve, a little over a year after the Lapsus$ threat actors hacked Rockstar games and stole corporate data. From a report: Links
+National Amusements, the cinema chain and corporate parent giant of media giants Paramount and CBS, has confirmed it experienced a data breach in which hackers stole the personal information of tens o
 ```
 
-Link: [Click](https://games.slashdot.org/story/23/12/26/0134232/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://it.slashdot.org/story/23/12/26/2127250/cbs-paramount-owner-national-amusements-says-it-was-hacked?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Theregister] Infosys loses ten-year, $1.5 billion contract announced just three months ago
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/27/asia_tech_news_in_brief/)
+
+## [Theregister] Postgres pioneer Michael Stonebraker promises to upend the database once more
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/26/michael_stonebraker_feature/)
