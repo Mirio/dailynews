@@ -1,95 +1,79 @@
-## [Arstechnica] A forensic artist has given a 500-year-old Inca “ice maiden” a face
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Saturday, December 30, 2023
 ```
-Dubbed "Juanita," the young woman was likely killed during a sacrificial ritual.
-```
-
-Link: [Click](https://arstechnica.com/?p=1992837)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, December 29, 2023
-```
-Here are some hints to help you win Wordle #923.
+Here are some hints to help you win Wordle #924.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, December 29, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, December 30, 2023
 ```
-Here are some hints to help you win NYT Connections #201.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
-
-## [Lifehacker] You Can Get This $50 eSIM Card for $20 Right Now
-```
-You can avoid international data and roaming charges when you travel abroad.
+Here are some hints to help you win NYT Connections #202.
 ```
 
-Link: [Click](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 
-## [Ycombinator] Ideal Monitor Rotation for Programmers (2021)
-Link: [Click](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+## [Ycombinator] Wikipedia daily most viewed pages
+Link: [Click](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 
-## [Ycombinator] 40% of US electricity is now emissions-free
-Link: [Click](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
+## [Ycombinator] Show HN: I built ContainerCVE – a web tool to scan public Docker images
+Link: [Click](https://containercve.com)
 
-## [Ycombinator] Autorize – Authorization enforcement detection extension for Burp Suite
-Link: [Click](https://github.com/Quitten/Autorize)
+## [Ycombinator] Show HN: FreshTube – show latest videos from YouTube channels
+Link: [Click](https://github.com/porjo/freshtube)
 
-## [Ycombinator] Sticking to 8192 signatures per slot post-SSF: how and why
-Link: [Click](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
+## [Ycombinator] The Art and Science of PCB Design
+Link: [Click](https://pcb.mit.edu/)
 
-## [Ycombinator] The Dark Arts – LessWrong
-Link: [Click](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
+## [Ycombinator] A modern data stack for startups (2022)
+Link: [Click](https://incident.io/blog/data-stack)
 
-## [Ycombinator] Novel helmet liner made from carbon nanotubes
-Link: [Click](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
-
-## [Slashdot] Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole
+## [Slashdot] SpaceX Wows With a Double Header of Final 2023 Rocket Launches
 ```
-Andy Maxwell reports via TorrentFreak: As the crew of Artemis 2 prepare to become the first humans to fly to the moon since 1972, the possibilities of space travel are once again igniting imaginations
+SpaceX on Thursday launched two rockets into orbit, only three hours apart, bringing its total number of launches to 98 in 2023. Space.com reports: The first SpaceX mission to take to the skies Thursd
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/12/29/0156206/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/30/024226/spacex-wows-with-a-double-header-of-final-2023-rocket-launches?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] 40% of US Electricity Is Now Emissions-Free
+## [Slashdot] AI-Created 'Virtual Influencers' Are Stealing Business From Humans
 ```
-An anonymous reader quotes a report from Ars Technica: Just before the holiday break, the US Energy Information Agency released data on the country's electrical generation. Because of delays in report
-```
-
-Link: [Click](https://news.slashdot.org/story/23/12/28/2315233/40-of-us-electricity-is-now-emissions-free?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] New US Immigration Rules Spur More Visa Approvals For STEM Workers
-```
-Following policy adjustments by the U.S. Citizenship and Immigration Services (USCIS) in January, more foreign-born workers in science, technology, engineering, and math (STEM) fields are able to live
+An anonymous reader quotes a report from the Financial Times: Pink-haired Aitana Lopez is followed by more than 200,000 people on social media. She posts selfies from concerts and her bedroom, while t
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/29/0121220/new-us-immigration-rules-spur-more-visa-approvals-for-stem-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://slashdot.org/story/23/12/29/2338211/ai-created-virtual-influencers-are-stealing-business-from-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Nvidia Slowed RTX 4090 GPU By 11 Percent, To Make It 100 Percent Legal For Export In China
+## [Slashdot] Chemicals of 'Concern' Found In Philips Breathing Machines
 ```
-Nvidia has throttled the performance of its GeForce RTX 4090 GPU by roughly 11%, allowing it to comply with U.S. sanctions and be sold in China. The Register reports: Dubbed the RTX 4090D, the device 
-```
-
-Link: [Click](https://tech.slashdot.org/story/23/12/29/0111242/nvidia-slowed-rtx-4090-gpu-by-11-percent-to-make-it-100-percent-legal-for-export-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Clowns Sue Clowns.com For Wage Theft
-```
-An anonymous reader quotes a report from 404 Media: A group of clowns is suing their former employer Clowns.com for multiple labor law violations, according to recently filed court records. Four peopl
+In 2021, Philips pulled its popular sleep apnea machines and ventilators off the shelves after discovering that an industrial foam built into the devices to reduce noise could release toxic particles 
 ```
 
-Link: [Click](https://yro.slashdot.org/story/23/12/28/237219/clowns-sue-clownscom-for-wage-theft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/23/12/29/2318235/chemicals-of-concern-found-in-philips-breathing-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Amazon already has a colossal ads business and will extend it to Prime Video in January
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/29/amazon_prime_video_ads_coming/)
+## [Slashdot] First EV With Lithium-Free Sodium Battery Hits the Road In January
+```
+Deliveries of the world's first mass-produced electric vehicle equipped with a sodium-ion battery will begin in January 2024. According to CarNewsChina, they're being produced by JAC Motors, a Volkswa
+```
 
-## [Theregister] Irony alert: Lawsuit alleging Chrome’s Incognito Mode isn’t will settle on unknown terms
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/29/chrome_incognito_mode_case_settlement/)
+Link: [Click](https://hardware.slashdot.org/story/23/12/29/2255257/first-ev-with-lithium-free-sodium-battery-hits-the-road-in-january?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Kaspersky reveals previously unknown hardware 'feature' exploited in iPhone attacks
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/28/kaspersky_reveals_previously_unknown_hardware/)
+## [Slashdot] UK Startup Develops Low Carbon Jet Fuel Made From Human Waste
+```
+Chemists at a lab in Gloucertershire have developed a low carbon jet fuel made entirely from human sewage. James Hygate, Firefly Green Fuels CEO, said: "We wanted to find a really low-value feedstock 
+```
 
-## [Theverge] First reported Tesla Cybertruck accident results in only ‘minor’ injury
-Link: [Click](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
+Link: [Click](https://tech.slashdot.org/story/23/12/29/2245232/uk-startup-develops-low-carbon-jet-fuel-made-from-human-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] LG’s new ultra-lightweight Gram laptops include some OLED screens and AI Boost
-Link: [Click](https://www.theverge.com/2023/12/28/24018312/lg-gram-pro-laptops-2024-ces)
+## [Slashdot] Scientists Still Shoot For the Moon With Patent-Free Covid Drug
+```
+An anonymous reader quotes a report from Bloomberg, written by Naomi Kresge: In the early days of the Covid-19 pandemic, hundreds of scientists from all over the world banded together in an open-sourc
+```
+
+Link: [Click](https://yro.slashdot.org/story/23/12/29/2134242/scientists-still-shoot-for-the-moon-with-patent-free-covid-drug?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] No, spiders don’t want to mate with your viral body butter
+Link: [Click](https://techcrunch.com/2023/12/29/no-spiders-dont-want-to-mate-with-your-viral-body-butter-sol-de-janeiro-sephora/)
+
+## [Techcrunch] How India will navigate EVs in 2024
+Link: [Click](https://techcrunch.com/2023/12/29/india-ev-market-2024/)
+
+## [Theregister] CEO arranged his own cybersecurity, with predictable results
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2023/12/29/on_call/)
