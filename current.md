@@ -1,61 +1,76 @@
-## [Arstechnica] Smartphone manufacturers still want to make foldables a thing
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, January 1, 2024
 ```
-Foldables are barely 1% of the market, but that's not stopping anyone but Apple.
-```
-
-Link: [Click](https://arstechnica.com/?p=1993084)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Sunday, December 31, 2023
-```
-Here are some hints to help you win Wordle #925.
+Here are some hints to help you win Wordle #926.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Sunday, December 31, 2023
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, January 1, 2024
 ```
-Here are some hints to help you win NYT Connections #203.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
-
-## [Ycombinator] Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT
-Link: [Click](https://danluu.com/seo-spam/)
-
-## [Ycombinator] Pascal in Forth (1983)
-Link: [Click](http://tangentstorm.github.io/winfield-pascal-83.html)
-
-## [Ycombinator] Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP
-Link: [Click](https://playspindle.com/)
-
-## [Ycombinator] Cuis-Smalltalk
-Link: [Click](https://cuis.st/)
-
-## [Ycombinator] Design Principles Behind Smalltalk (1981)
-Link: [Click](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-
-## [Slashdot] 20% of America's Plants and Animals are At Risk of Extinction
-```
-It was a half a century ago that America passed legislation to protect vanishing species and their habitats &mdash; and since then, more than five dozen species have recovered. Just one example: In 19
+Here are some hints to help you win NYT Connections #204.
 ```
 
-Link: [Click](https://news.slashdot.org/story/23/12/31/050218/20-of-americas-plants-and-animals-are-at-risk-of-extinction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 
-## [Slashdot] How Electric Cars are Already Upending America
+## [Ycombinator] Website Impersonating a Desktop Environment
+Link: [Click](https://dustinbrett.com/)
+
+## [Ycombinator] Beginner dev looks at how YouTube sends videos
+Link: [Click](https://vincentsg.dev/dec31)
+
+## [Ycombinator] Meshtastic: An open source, off-grid, decentralized, mesh network
+Link: [Click](https://meshtastic.org/)
+
+## [Ycombinator] Merkle Town: Explore the certificate transparency ecosystem
+Link: [Click](https://ct.cloudflare.com/)
+
+## [Ycombinator] Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC
+Link: [Click](https://lupyuen.codeberg.page/articles/nim.html)
+
+## [Ycombinator] Using a Markov chain to generate readable nonsense with 20 lines of Python
+Link: [Click](https://benhoyt.com/writings/markov-chain/)
+
+## [Ycombinator] Show HN: Pokemon prototype game made with JavaScript and p5.js
+Link: [Click](https://github.com/JSLegendDev/Pokemon-p5js)
+
+## [Ycombinator] 27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process
+Link: [Click](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+
+## [Ycombinator] Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023
+Link: [Click](https://www.weather.gov/lot/2023tornadoes)
+
+## [Ycombinator] Steamboat Willie [video]
+Link: [Click](https://www.youtube.com/watch?v=hmzO--ox7X0)
+
+## [Ycombinator] Show HN: Raiseto – Discover and Share Ideas
+Link: [Click](https://raiseto.com/)
+
+## [Ycombinator] Disney's Mickey Mouse enter public domain
+Link: [Click](https://www.bbc.com/news/entertainment-arts-67833411)
+
+## [Ycombinator] Stuff we figured out about AI in 2023
+Link: [Click](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
+
+## [Slashdot] What Were Slashdot's Top 10 Stories of 2023?
 ```
-"Electric cars are already upending America," argues a new article in the Atlantic, citing booming sales and new models that are "finally starting to push us into the post-gas age."
-
-Americans are on 
+Slashdot's 10 most-visited stories of 2023 seemed to touch on all the themes of the year, with a story about AI, two about electric cars, two stories about Linux, and two about the Rust programming la
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/12/31/0223221/how-electric-cars-are-already-upending-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://meta.slashdot.org/story/24/01/01/0156259/what-were-slashdots-top-10-stories-of-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] A New Type of Jet Engine Could Revive Supersonic Air Travel
+## [Slashdot] Will 2024 Bring a 'Major Turning Point' in US Health Care?
 ```
-"Since the 1960s engineers around the world have been fiddling with a novel type of jet called a rotating detonation engine (RDE), but it has never got beyond the experimental stage," reports the Econ
+"This year has been a major turning point in American health care," reports USA Today, "and patients can anticipate several major developments in the new year," including the beginning of a CRISPR "re
 ```
 
-Link: [Click](https://tech.slashdot.org/story/23/12/30/2351223/a-new-type-of-jet-engine-could-revive-supersonic-air-travel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/01/0129241/will-2024-bring-a-major-turning-point-in-us-health-care?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] LG says its new 4K projector is a ‘stylish art object’
-Link: [Click](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos)
+## [Slashdot] Since the Demise of Atom, 'Pulsar' Offers an Alternative Code Editor
+```
+On December 15 GitHub declared end-of-life for its "hackable text editor" Atom. But Long-time Slashdot reader BrendaEM wants to remind everyone that after the announcement of Atom's sunset, "the commu
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/01/016215/since-the-demise-of-atom-pulsar-offers-an-alternative-code-editor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Theregister] People power made payroll support in putrid places prodigiously perilous
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/01/on_call/)
