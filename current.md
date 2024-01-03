@@ -1,84 +1,95 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, January 2, 2024
+## [Arstechnica] A commander’s lament on the loss of a historic SpaceX rocket
 ```
-Here are some hints to help you win Wordle #927.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, January 2, 2024
-```
-Here are some hints to help you win NYT Connections #205.
+This rocket restored NASA crew launches to US soil, then launched 18 more times.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
+Link: [Click](https://arstechnica.com/?p=1993381)
 
-## [Ycombinator] Eating fewer calories can ward off ageing
-Link: [Click](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
-
-## [Ycombinator] Running 9front on an emulated SGI Indy via MAME
-Link: [Click](https://posixcafe.org/blogs/2024/01/01/0/)
-
-## [Ycombinator] Push Notifications – What to Push, What Not to Push, and How Often
-Link: [Click](https://eugeneyan.com/writing/push/)
-
-## [Ycombinator] Sodium's high-pressure transformation shows the interiors of stars, planets
-Link: [Click](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
-
-## [Ycombinator] Constraining dynamics of rotating black holes via the gauge symmetry principle
-Link: [Click](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)
-
-## [Ycombinator] How to forget what you read
-Link: [Click](https://ckarchive.com/b/68ueh8hk25687hkq88gqmtzope0kk)
-
-## [Ycombinator] Show HN: Build your startup or side project faster with these SaaS templates
-Link: [Click](https://hackerstartup.com)
-
-## [Ycombinator] The Bureau of Meteorology website does not support connections via HTTPS
-Link: [Click](http://www.bom.gov.au/akamai/https-redirect.html)
-
-## [Ycombinator] Show HN: Hook – a simple graphical C/C++ runtime editor
-Link: [Click](https://github.com/abolinsky/Hook)
-
-## [Ycombinator] New Ultra Fast Lossless Audio Codec (HALAC)
-Link: [Click](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
-
-## [Ycombinator] Hamlet: A type-safe Haml template engine for Go
-Link: [Click](https://github.com/stackus/hamlet)
-
-## [Ycombinator] Creative Destruction in Small Business Bankruptcy
-Link: [Click](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
-
-## [Ycombinator] We Could Fix Everything, We Just Don't
-Link: [Click](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
-
-## [Ycombinator] Litestream – Opensource disaster recovery and continuous replication for SQLite
-Link: [Click](https://litestream.io/)
-
-## [Slashdot] Steam Has Stopped Supporting Windows 7, Windows 8, and Windows 8.1
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, January 3, 2024
 ```
-Steam: As of January 1 2024, Steam has officially stopped supporting the Windows 7, Windows 8 and Windows 8.1 operating systems. After that date, existing Steam Client installations on these operating
+Here are some hints to help you win Wordle #928.
 ```
 
-Link: [Click](https://games.slashdot.org/story/24/01/02/0714210/steam-has-stopped-supporting-windows-7-windows-8-and-windows-81?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 
-## [Slashdot] Apple's $85 Billion-a-Year Services Business Faces Legal Reckoning
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, January 3, 2024
 ```
-Apple faces mounting regulatory scrutiny that threatens over $85 billion in annual services revenue. An antitrust trial against Google in the U.S. revealed multi-billion dollar payments to Apple to be
+Here are some hints to help you win NYT Connections #206.
 ```
 
-Link: [Click](https://apple.slashdot.org/story/24/01/01/2353230/apples-85-billion-a-year-services-business-faces-legal-reckoning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 
-## [Techcrunch] Meta cuts prices for the Quest 2 headset and accessories
-Link: [Click](https://techcrunch.com/2024/01/01/meta-cuts-prices-for-quest-2-headset-and-accessories/)
+## [Ycombinator] GCC Specs: An Introduction
+Link: [Click](https://wozniak.ca/blog/2024/01/02/1/index.html)
 
-## [Theregister] Crypto-crook Sam Bankman-Fried spared a second trial
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/sam_bankman_fried_spared_a/)
+## [Ycombinator] A lightweight Lisp interpreter in Malbolge Unshackled
+Link: [Click](https://github.com/kspalaiologos/malbolge-lisp)
 
-## [Theregister] While you holidayed, Microsoft brought Copilot to mobile devices, again
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/copilot_android_ios_apps/)
+## [Ycombinator] Sieve is simpler than LRU
+Link: [Click](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 
-## [Theregister] Huawei bets its 2024 on datacenter infrastructure
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/huawei_chair_2024_letter/)
+## [Ycombinator] Benchmarking 20 programming languages on N-queens and matrix multiplication
+Link: [Click](https://github.com/attractivechaos/plb2)
 
-## [Theregister] A ship carrying 800 tonnes of Li-Ion batteries caught fire. What could possibly go wrong?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/ship_li_ion_fire/)
+## [Slashdot] 'A Global Watermarking Standard Could Help Safeguard Elections In the ChatGPT Era'
+```
+"To prevent disinformation from eroding democratic values worldwide, the U.S. must establish a global watermarking standard for text-based AI-generated content," writes retired U.S. Army Col. Joe Bucc
+```
+
+Link: [Click](https://slashdot.org/story/24/01/02/2347217/a-global-watermarking-standard-could-help-safeguard-elections-in-the-chatgpt-era?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Oldest-Known Version of MS-DOS's Predecessor Discovered
+```
+An anonymous reader quotes a report from The Guardian: Microsoft's MS-DOS (and its IBM-branded counterpart, PC DOS) eventually became software juggernauts, powering the vast majority of PCs throughout
+```
+
+Link: [Click](https://hardware.slashdot.org/story/24/01/03/007205/oldest-known-version-of-ms-doss-predecessor-discovered?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Andrew Scott Halted Hamlet Soliloquy After Theatergoer Used Laptop To Email
+```
+David Batty reports via The Guardian: [Andrew Scott], best known as Fleabag's "hot priest," has revealed he halted the renowned soliloquy in Shakespeare's play when an audience member took out a lapto
+```
+
+Link: [Click](https://entertainment.slashdot.org/story/24/01/03/0046228/andrew-scott-halted-hamlet-soliloquy-after-theatergoer-used-laptop-to-email?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Alamo Drafthouse Blames 'Nationwide' Theater Outage on Sony Projector Fail
+```
+An issue with Sony's projectors caused theater chain Alamo Drafthouse to close theaters entirely on New Year's Eve. "As of New Year's Day, however, most theaters and most showtimes now appear to be av
+```
+
+Link: [Click](https://entertainment.slashdot.org/story/24/01/03/0026254/alamo-drafthouse-blames-nationwide-theater-outage-on-sony-projector-fail?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] 25 Years Since the First Real 'Slashdot Effect'
+```
+reg writes: Twenty-five years ago today, CmdrTaco innocently posted a story entitled "Collection of Fun Video Clips" in the days of T1 lines and invited anyone with the bandwidth to check it out. Even
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/03/0017242/25-years-since-the-first-real-slashdot-effect?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] The Pixel 8 Parts Store Goes Live, Should Be Up For 7 Years
+```
+Genuine parts for the Google Pixel 8 and 8 Pro are now available on iFixit's Pixel parts store. "The Pixel 8 is the first Google phone with seven years of major OS updates, and Google previously said 
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/02/2323229/the-pixel-8-parts-store-goes-live-should-be-up-for-7-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Why Fortnite is getting into cozy gaming
+Link: [Click](https://techcrunch.com/2024/01/02/lego-fortnite-interview-saxs-persson/)
+
+## [Techcrunch] Short-term rental provider Frontdesk lays off entire staff, on the verge of shutting down
+Link: [Click](https://techcrunch.com/2024/01/02/short-term-rental-provider-frontdesk-lays-off-entire-staff-on-the-verge-of-shutting-down/)
+
+## [Theregister] India inches space program forward with launch of X-ray polarimetry satellite
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/03/india_x_ray_polarimetry_satellite/)
+
+## [Theregister] X reverses course on headlines in article links – but just a little and maybe not
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/03/x_headlines_valuation/)
+
+## [Theregister] Google password resets not enough to stop these info-stealing malware strains
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/infostealer_google_account_exploit/)
+
+## [Theregister] Brain boffins think they've found the data format we use to store images as memories
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/02/dartmouth_visua_brain_memory/)
+
+## [Theverge] This new fingerprint smart lock is the first to support Matter-over-Thread
+Link: [Click](https://www.theverge.com/2024/1/3/24022990/ultraloq-bolt-matter-thread-smart-lock-ces24)
