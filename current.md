@@ -1,130 +1,82 @@
-## [Arstechnica] Elon Musk: SpaceX needs to build Starships as often as Boeing builds 737s
+## [Arstechnica] Here’s a first look at United Launch Alliance’s new Vulcan rocket
 ```
-"Ship production needs to be roughly an order of magnitude higher than booster production."
-```
-
-Link: [Click](https://arstechnica.com/?p=1993759)
-
-## [Arstechnica] A “ridiculously weak“ password causes disaster for Spain’s No. 2 mobile carrier
-```
-BGP tampering caused by poor security hygiene causes major outage for Orange España.
+ULA's first flight-ready Vulcan rocket is finally on the launch pad.
 ```
 
-Link: [Click](https://arstechnica.com/?p=1993801)
+Link: [Click](https://arstechnica.com/?p=1994128)
 
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, January 5, 2024
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Saturday, January 6, 2024
 ```
-Here are some hints to help you win Wordle #930.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, January 5, 2024
-```
-Here are some hints to help you win NYT Connections #208.
+Here are some hints to help you win Wordle #931.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 
-## [Lifehacker] The Best Songs, Movies, and Books Entering the Public Domain in 2024 (That Aren’t ‘Steamboat Willie’)
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, January 6, 2024
 ```
-Mickey Mouse is now owned by the people (sort of), but he isn't the only interesting property that became public domain on Jan. 1, 2024.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
-
-## [Ycombinator] Don't pass structs bigger than 16 bytes on AMD64
-Link: [Click](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
-
-## [Ycombinator] Apple's classic Pascal poster, remade as a vector image [pdf]
-Link: [Click](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
-
-## [Ycombinator] WebRTC for the Curious (2020)
-Link: [Click](https://webrtcforthecurious.com/)
-
-## [Ycombinator] Learning bimanual mobile manipulation with low-cost whole-body teleoperation
-Link: [Click](https://mobile-aloha.github.io)
-
-## [Ycombinator] SIMD in Pure Python
-Link: [Click](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
-
-## [Ycombinator] Modern Java/JVM Build Practices
-Link: [Click](https://github.com/binkley/modern-java-practices)
-
-## [Ycombinator] Paper Sizes and Formats
-Link: [Click](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
-
-## [Ycombinator] Is the latest near-room-temperature superconductor legit?
-Link: [Click](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
-
-## [Slashdot] Portal 64, An N64 Demake of Valve's Classic, Now Has a Playable 'First Slice'
-```
-Programmer James Lambert has been working on a demake of Valve's Portal puzzle game for the Nintendo N64. After several years of development, Portal 64: The First Slice is now out of beta with two-thi
+Here are some hints to help you win NYT Connections #209.
 ```
 
-Link: [Click](https://games.slashdot.org/story/24/01/04/2314229/portal-64-an-n64-demake-of-valves-classic-now-has-a-playable-first-slice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 
-## [Slashdot] World's First Partial Heart Transplant Grows Valves and Arteries
-```
-An anonymous reader quotes a report from Interesting Engineering: Marking a significant advancement in medical science, the world's first partial heart transplant has achieved the expected outcome aft
-```
+## [Ycombinator] Focus and Flow: trade-offs in programmer productivity (2021)
+Link: [Click](https://www.aaronbuxbaum.com/focus-and-flow/)
 
-Link: [Click](https://science.slashdot.org/story/24/01/04/2245251/worlds-first-partial-heart-transplant-grows-valves-and-arteries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] Google shares update on next step toward phasing out third-party cookies
+Link: [Click](https://blog.google/products/chrome/privacy-sandbox-tracking-protection/)
 
-## [Slashdot] AI-Assisted Bug Reports Are Seriously Annoying For Developers
-```
-Generative AI models like Google Bard and GitHub Copilot are increasingly being used in various industries, but users often overlook their limitations, leading to serious errors and inefficiencies. Da
-```
+## [Ycombinator] Do we think of Git commits as diffs, snapshots, and/or histories?
+Link: [Click](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 
-Link: [Click](https://it.slashdot.org/story/24/01/04/2230246/ai-assisted-bug-reports-are-seriously-annoying-for-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] Alaska Airlines Boeing 737-Max suffers window blowout after taking off
+Link: [Click](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
 
-## [Slashdot] Qualcomm's New VR Chip Competes Directly With Vision Pro, Much Cheaper Headsets
-```
-Qualcomm today unveiled a new Snapdragon XR2+ Gen 2 chipset, a single-chip architecture that will likely power Apple Vision Pro competitors from Meta, Samsung, Google and HTC, among others. ZDNet repo
-```
+## [Ycombinator] 2024-01-01 Emacs News
+Link: [Click](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
 
-Link: [Click](https://hardware.slashdot.org/story/24/01/04/2222230/qualcomms-new-vr-chip-competes-directly-with-vision-pro-much-cheaper-headsets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Ycombinator] HortusFox – A self-hosted collaborative plant management system
+Link: [Click](https://github.com/danielbrendel/hortusfox-web)
 
-## [Slashdot] US Pay-TV Subscriber Base Eroding At Record Pace
+## [Slashdot] Navajo Nation Objects To Landing Human Remains On Moon, Prompting Last-Minute White House Meeting
 ```
-According to MoffettNathanson, the U.S. pay-TV industry had its worst-ever third quarter after losing about 900,000 subscribers. "That poor result, the research firm added, left the total pay-TV indus
+The White House has convened a last-minute meeting to discuss a private lunar mission, Peregrine Mission One, after the Navajo Nation requested a delay due to cultural concerns over the transport of h
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/01/04/2213256/us-pay-tv-subscriber-base-eroding-at-record-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/06/0118238/navajo-nation-objects-to-landing-human-remains-on-moon-prompting-last-minute-white-house-meeting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] ChatGPT Bombs Test On Diagnosing Kids' Medical Cases With 83% Error Rate
+## [Slashdot] Consumer Reports Finds 'Widespread' Presence of Plastics In Food
 ```
-An anonymous reader quotes a report from Ars Technica: ChatGPT is still no House, MD. While the chatty AI bot has previously underwhelmed with its attempts to diagnose challenging medical cases -- wit
+An anonymous reader quotes a report from Reuters: Consumer Reports has found that plastics retain a "widespread" presence in food despite the health risks, and called on regulators to reassess the saf
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/04/2038233/chatgpt-bombs-test-on-diagnosing-kids-medical-cases-with-83-error-rate?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/06/011259/consumer-reports-finds-widespread-presence-of-plastics-in-food?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Peak XV-backed MobiKwik seeks to raise $84 million in India IPO
-Link: [Click](https://techcrunch.com/2024/01/04/mobikwik-ipo/)
+## [Slashdot] Ivanti Warns of Critical Vulnerability In Its Popular Line of Endpoint Protection Software
+```
+Dan Goodin reports via Ars Technica: Software maker Ivanti is urging users of its end-point security product to patch a critical vulnerability that makes it possible for unauthenticated attackers to e
+```
 
-## [Techcrunch] Logan Paul promises CryptoZoo refunds, as long as you don’t sue him
-Link: [Click](https://techcrunch.com/2024/01/04/logan-paul-cryptozoo-nft-buy-back-class-action-lawsuit/)
+Link: [Click](https://it.slashdot.org/story/24/01/06/018205/ivanti-warns-of-critical-vulnerability-in-its-popular-line-of-endpoint-protection-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Lawsuit against Snap over fentanyl deaths can proceed, judge rules
-Link: [Click](https://techcrunch.com/2024/01/04/snapchat-snap-fentanyl-section-230/)
+## [Slashdot] Apple Revives Old Fight With Hey Email App
+```
+Shortly after the premium email service Hey announced a standalone Hey Calendar app, co-founder David Heinemeier Hansson said it was rejected by Apple for violating App Store rules.
+ 
+"Apple just call
+```
 
-## [Techcrunch] CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates
-Link: [Click](https://techcrunch.com/2024/01/04/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
+Link: [Click](https://apple.slashdot.org/story/24/01/06/0055233/apple-revives-old-fight-with-hey-email-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Sandworm's Kyivstar attack should serve as a reminder of the Kremlin crew's 'global reach'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/05/sandworm_kyivstar_hack/)
+## [Slashdot] ChatGPT Could Soon Replace Google Assistant On Your Android Phone
+```
+Code within the latest version of the ChatGPT Android app suggests that you'll soon be able to set it as the default assistant app, replacing the Google Assistant. Android Authority's Mishaal Rahman r
+```
 
-## [Theregister] Everyone wants better web search – is Perplexity's AI the answer?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/05/perprexity_ai_search_engine/)
+Link: [Click](https://mobile.slashdot.org/story/24/01/06/0040204/chatgpt-could-soon-replace-google-assistant-on-your-android-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Court orders arbitration for Wipro and ex-CFO who left for Cognizant
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/05/court_orders_arbitration_for_wipro/)
+## [Slashdot] Drones Are the New Drug Mules
+```
+An anonymous reader quotes a report from VICE News: Last week border officials in the Punjab region of India revealed they intercepted 107 drug-carrying drones sent by smuggling gangs last year over t
+```
 
-## [Theregister] Late model: OpenAI GPT Store may debut next week
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/05/openai_gpt_store_may_debut/)
-
-## [Theverge] Google broke labor laws when it refused to bargain with YouTube Music contract workers
-Link: [Click](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)
-
-## [Theverge] Tesla’s first smart home partner is Samsung SmartThings
-Link: [Click](https://www.theverge.com/2024/1/4/24026070/tesla-smart-home-samsung-smartthings-energy)
+Link: [Click](https://science.slashdot.org/story/24/01/05/2212205/drones-are-the-new-drug-mules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
