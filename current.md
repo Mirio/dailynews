@@ -1,58 +1,91 @@
-## [Arstechnica] Navajo objection to flying human ashes to the Moon won’t delay launch
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, January 8, 2024
 ```
-"They’re not going to remove the human remains and keep them here on Earth."
-```
-
-Link: [Click](https://arstechnica.com/?p=1994169)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Sunday, January 7, 2024
-```
-Here are some hints to help you win Wordle #932.
+Here are some hints to help you win Wordle #933.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Sunday, January 7, 2024
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, January 8, 2024
 ```
-Here are some hints to help you win NYT Connections #210.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
-
-## [Ycombinator] Teachable Machine
-Link: [Click](https://teachablemachine.withgoogle.com/)
-
-## [Ycombinator] Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data
-Link: [Click](https://twitter.com/karrisaarinen/status/1743824345334714587)
-
-## [Ycombinator] They correctly predicted a Nobel Prize winning discovery. And no one cared [video]
-Link: [Click](https://www.youtube.com/watch?v=gnQy-5lkbPg)
-
-## [Ycombinator] Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany
-Link: [Click](https://www.workatastartup.com/jobs/62929)
-
-## [Ycombinator] A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)
-Link: [Click](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
-
-## [Ycombinator] Parable of the Polygons
-Link: [Click](https://ncase.me/polygons/)
-
-## [Ycombinator] Source code for a 1977 version of Zork
-Link: [Click](https://github.com/MITDDC/zork)
-
-## [Ycombinator] Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM
-Link: [Click](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
-
-## [Slashdot] Blaming Social Media, ACM Publication Argues Computing 'Has Blood On Its Hands'
-```
-Long-time Slashdot reader theodp writes: In the January 2024 Communications of the ACM, Rice University professor and former CACM Editor-in-Chief Moshe Y. Vardi minces no words in Computing, You Have 
+Here are some hints to help you win NYT Connections #211.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/06/2157225/blaming-social-media-acm-publication-argues-computing-has-blood-on-its-hands?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 
-## [Slashdot] Can AI-Generated Proofs Bring Bug-Free Software One Step Closer?
+## [Ycombinator] MotorOS: a Rust-first operating system for x64 VMs
+Link: [Click](https://github.com/moturus/motor-os)
+
+## [Ycombinator] Visualizing Ext4
+Link: [Click](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
+
+## [Ycombinator] Why use strace in 2023? [video]
+Link: [Click](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
+
+## [Ycombinator] Show HN: I made a HTMX Playground 100% in the browser
+Link: [Click](https://lassebomh.github.io/htmx-playground/)
+
+## [Ycombinator] iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail
+Link: [Click](https://twitter.com/SeanSafyre/status/1744138937239822685)
+
+## [Ycombinator] How An ASML Lithography Machine Moves a Wafer [video]
+Link: [Click](https://www.youtube.com/watch?v=1fOA85xtYxs)
+
+## [Ycombinator] Buffett once bet $1M that he could beat a group of hedge funds over 10 years
+Link: [Click](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
+
+## [Ycombinator] Scotia, California is owned by a New York investment firm
+Link: [Click](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
+
+## [Ycombinator] I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros
+Link: [Click](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
+
+## [Slashdot] Will Switching to a Flip Phone Fight Smartphone Addiction?
 ```
-The University of Massachusetts Amherst has an announcement. A team of computer scientists "recently announced a new method for automatically generating whole proofs that can be used to prevent softwa
+"This December, I made a radical change," writes a New York Times tech reporter &mdash; ditching their $1,300 iPhone 15 for a $108 flip phone. 
+
+"It makes phone calls and texts and that was about it. 
 ```
 
-Link: [Click](https://developers.slashdot.org/story/24/01/06/238237/can-ai-generated-proofs-bring-bug-free-software-one-step-closer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://mobile.slashdot.org/story/24/01/08/055233/will-switching-to-a-flip-phone-fight-smartphone-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] The Land is Steadily Sinking Up and Down America's Atlantic Coast
+```
+In Jakarta, Indonesia, "the land is sinking nearly a foot a year because of collapsing aquifers," reports Wired. "Accordingly, within the next three decades, 95 percent of North Jakarta could be under
+```
+
+Link: [Click](https://news.slashdot.org/story/24/01/08/0231231/the-land-is-steadily-sinking-up-and-down-americas-atlantic-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Three Packages Targeting Linux with Crypto Miners Found in Python's 'PyPi' Repository
+```
+An anonymous reader shared this report from The Hacker News:
+Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a c
+```
+
+Link: [Click](https://developers.slashdot.org/story/24/01/08/0038210/three-packages-targeting-linux-with-crypto-miners-found-in-pythons-pypi-repository?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Hey is feuding with Apple again — this time over a calendar app
+Link: [Click](https://techcrunch.com/2024/01/07/hey-is-feuding-with-apple-again-this-time-over-a-calendar-app/)
+
+## [Techcrunch] SentinelOne acquires Peak XV-backed PingSafe for over $100 million
+Link: [Click](https://techcrunch.com/2024/01/07/sentinelone-acquires-peak-xv-backed-pingsafe-for-over-100-million/)
+
+## [Techcrunch] Withings’ new multiscope device checks vitals for telehealth visits
+Link: [Click](https://techcrunch.com/2024/01/07/withings-new-multiscope-device-checks-vitals-for-telehealth-visits/)
+
+## [Theregister] Facebook, Instagram now mine web links you visit to fuel targeted ads
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/08/security_in_brief/)
+
+## [Theverge] I’ve looked through LG’s new transparent OLED TV, and seen something special
+Link: [Click](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
+
+## [Theverge] The Frame has become such a hit that Samsung is making a speaker version
+Link: [Click](https://www.theverge.com/2024/1/7/24029243/samsung-music-frame-speaker-announced-specs-features)
+
+## [Theverge] Samsung’s new OLED TV could make annoying glare a thing of the past
+Link: [Click](https://www.theverge.com/2024/1/7/24028974/samsung-s95d-qd-oled-tv-announced-glare-free-screen)
+
+## [Theverge] Belkin made an iPhone dock that can track you around the room
+Link: [Click](https://www.theverge.com/2024/1/7/24023612/belkin-stand-pro-iphone-dockkit)
+
+## [Theverge] Withings’ latest gadget combines a thermometer, pulse oximeter, EKG, and stethoscope
+Link: [Click](https://www.theverge.com/2024/1/7/24022955/withings-beamo-multiscope-telehealth-ces-2024)
