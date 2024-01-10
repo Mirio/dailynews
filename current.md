@@ -1,158 +1,193 @@
-## [Lifehacker] The Best Highlights From CES' Media Days
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, January 10, 2024
 ```
-These are some of the most interesting things we saw during CES' pre-show.
-```
-
-Link: [Click](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
-
-## [Lifehacker] You Can Get This H&R Block Tax Software on Sale for $39.99 Right Now
-```
-The software includes unlimited federal preparation and audit support, along with free in-person assistance in case of an audit.
+Here are some hints to help you win Wordle #935.
 ```
 
-Link: [Click](https://lifehacker.com/money/hr-block-tax-software-sale)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, January 9, 2024
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, January 10, 2024
 ```
-Here are some hints to help you win Wordle #934.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, January 9, 2024
-```
-Here are some hints to help you win NYT Connections #212.
+Here are some hints to help you win NYT Connections #213.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 
-## [Lifehacker] How to Pull Off a 'No-spend' Weekend That Doesn't Suck
+## [Lifehacker] You Can Get This Budget Chromebook on Sale for Under $63 Right Now
 ```
-It's like intermittent fasting, but for your wallet.
-```
-
-Link: [Click](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)
-
-## [Lifehacker] Babbel Language Learning Is $150 During This Two-Day Flash Sale
-```
-This two-day flash sale ends January 10.
+This Chromebook is an option for students, kids, or anyone looking for a basic laptop on a budget.
 ```
 
-Link: [Click](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
+Link: [Click](https://lifehacker.com/tech/hp-chromebook-sale)
 
-## [Lifehacker] You Can Get the Latest Blink Outdoor 4, Plus a Blink Doorbell Camera, for Nearly 40% Off
+## [Lifehacker] How to Copy and Paste on a Chromebook
 ```
-This Blink bundle is over $70 off and has everything you need to start your home security setup.
-```
-
-Link: [Click](https://lifehacker.com/tech/best-blink-outdoor-4-and-blink-doorbell-camera-bundle-deal)
-
-## [Lifehacker] CES 2024: AMD Unveils New Processors Designed For 'Extreme' Gaming
-```
-New processors and GPUs are coming.
+Here are some quick tips on how to use copy and paste on Chromebooks.
 ```
 
-Link: [Click](https://lifehacker.com/tech/amd-debuts-new-radeon-rx-gpu-and-next-gen-desktop-processors)
+Link: [Click](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)
 
-## [Ycombinator] Why does holding a key fob to your head increase its range?
-Link: [Click](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
-
-## [Ycombinator] Mode7 Graphics Library for Playdate
-Link: [Click](https://github.com/risolvipro/playdate-mode7)
-
-## [Ycombinator] Macs can now inform Apple if any liquids have been detected in the USB-C ports
-Link: [Click](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
-
-## [Ycombinator] Mixtral 8x7B: A sparse Mixture of Experts language model
-Link: [Click](https://arxiv.org/abs/2401.04088)
-
-## [Ycombinator] Carta to exit secondary trading business
-Link: [Click](https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080)
-
-## [Ycombinator] Ask HN: Do you know anyone at Facebook?
-Link: [Click](https://news.ycombinator.com/item?id=38923119)
-
-## [Slashdot] Moon Lander Problem Threatens Mission After Vulcan Rocket Makes Successful Debut
+## [Lifehacker] These Are the Best Wireless Earbuds to Buy in 2024
 ```
-necro81 writes: ULA's Vulcan rocket, many years in development, had a successful first launch this morning from Cape Canaveral. The expendable rocket, which uses two methane-fueled BE-4 engines from B
+Finding a perfect pair of earbuds is no easy task, but I'm here to help you narrow down the options.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/09/0019244/moon-lander-problem-threatens-mission-after-vulcan-rocket-makes-successful-debut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/best-wireless-earbuds)
 
-## [Slashdot] Scientists Discover 100 To 1000 Times More Plastics In Bottled Water
+## [Lifehacker] You Can Get This MacBook Stand on Sale for $45 Right Now
 ```
-An anonymous reader quotes a report from the Washington Post: People are swallowing hundreds of thousands of microscopic pieces of plastic each time they drink a liter of bottled water, scientists hav
-```
-
-Link: [Click](https://science.slashdot.org/story/24/01/08/2238207/scientists-discover-100-to-1000-times-more-plastics-in-bottled-water?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Flappie AI Cat Door Stops Your Pet From Gifting You Dead Mice
-```
-"For those who don't appreciate the 'gifts' your cat drags in, this might be a solution from a Swiss start up," writes Slashdot reader maudlins11. Engadget reports: Finding weird pet-related technolog
+The Function101 ELEVATE stand offers a versatile way to keep your workspace organized.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/01/08/2256247/flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/elevate-macbook-stand-sale)
 
-## [Slashdot] OpenAI Claims NYT Tricked ChatGPT Into Copying Its Articles
+## [Ycombinator] How to defend your website with ZIP bombs
+Link: [Click](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
+
+## [Ycombinator] Atuin replaces your existing shell history with a SQLite database
+Link: [Click](https://github.com/atuinsh/atuin)
+
+## [Ycombinator] Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs
+Link: [Click](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
+
+## [Ycombinator] Linkhut: A Social Bookmarking Site
+Link: [Click](https://ln.ht/)
+
+## [Ycombinator] Vcc – The Vulkan Clang Compiler
+Link: [Click](https://shady-gang.github.io/vcc/)
+
+## [Ycombinator] I quit my job to work full time on my open source project
+Link: [Click](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+
+## [Ycombinator] The teen mental illness epidemic is international
+Link: [Click](https://www.afterbabel.com/p/international-mental-illness-part-one)
+
+## [Ycombinator] Mariposa – A programming language with time-travel
+Link: [Click](https://github.com/ambulancja/mariposa)
+
+## [Ycombinator] Show HN: Peer-to-peer mini r/place with Proof of Work
+Link: [Click](https://tropical.pages.dev/pow/)
+
+## [Ycombinator] "I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems"
+Link: [Click](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
+
+## [Ycombinator] Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager
+Link: [Click](https://news.ycombinator.com/item?id=38934809)
+
+## [Ycombinator] Glucoboy
+Link: [Click](https://shonumi.github.io/articles/art33.html)
+
+## [Ycombinator] 24 Hours of Lemons
+Link: [Click](https://24hoursoflemons.com/)
+
+## [Ycombinator] Investigating Rock Radio with Rick Beato
+Link: [Click](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
+
+## [Slashdot] Walmart Is Bringing Drone Deliveries To 1.8 Million More Texas Households
 ```
-Emilia David reports via The Verge: OpenAI has publicly responded to a copyright lawsuit by The New York Times, calling the case "without merit" and saying it still hoped for a partnership with the me
+In the coming months, Walmart will be expanding its drone delivery program in Texas to reach an 1.8 million additional households in the Dallas-Fort Worth area. The expansion will be completed within 
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/08/2229248/openai-claims-nyt-tricked-chatgpt-into-copying-its-articles?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/24/01/10/0152244/walmart-is-bringing-drone-deliveries-to-18-million-more-texas-households?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Threads accidentally rolls out the feature to view latest search results
-Link: [Click](https://techcrunch.com/2024/01/08/threads-accidentally-rolls-out-the-feature-to-view-latest-search-results/)
+## [Slashdot] Quantum Computing Startup Says It Will Beat IBM To Error Correction
+```
+An anonymous reader quotes a report from Ars Technica: On Tuesday, the quantum computing startup Quera laid out a road map that will bring error correction to quantum computing in only two years and e
+```
 
-## [Techcrunch] Carta exits secondary trading following credibility hit
-Link: [Click](https://techcrunch.com/2024/01/08/after-taking-credibility-hit-carta-announces-it-is-exiting-the-secondaries-business-we-have-decided-to-prioritize-trust/)
+Link: [Click](https://tech.slashdot.org/story/24/01/09/2354240/quantum-computing-startup-says-it-will-beat-ibm-to-error-correction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Pivotal kicks off US sales of its lightweight electric personal Helix aircraft
-Link: [Click](https://techcrunch.com/2024/01/08/pivotal-kicks-off-u-s-sales-of-its-lightweight-electric-personal-aircraft/)
+## [Slashdot] Earth Shattered Global Heat Record In 2023
+```
+The European climate agency Copernicus said Earth shattered global annual heat records in 2023, flirting with the world's agreed-upon warming threshold of 1.5 degrees Celsius. "On average, global temp
+```
 
-## [Techcrunch] Will.i.am’s new startup Sound Drive wants you to reboot the music industry in your car
-Link: [Click](https://techcrunch.com/2024/01/08/will-i-ams-new-startup-sound-drive-wants-you-to-reboot-the-music-industry-in-your-car/)
+Link: [Click](https://news.slashdot.org/story/24/01/09/2348207/earth-shattered-global-heat-record-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] CES 2024: How to watch live as Sony, Samsung and more reveal hardware, AI updates
-Link: [Click](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
+## [Slashdot] Amazon's Twitch To Cut 500 Employees, About 35% of Staff
+```
+According to Bloomberg, Amazon's livestreaming site Twitch is expected to cut 35% of its staff, or about 500 workers. "The cuts, which could be announced as soon as Wednesday, come amid concerns over 
+```
 
-## [Techcrunch] Sony’s new ‘digital birth certificate’ for imaging tech smells a lot like NFTs
-Link: [Click](https://techcrunch.com/2024/01/08/sony-digital-birth-certificate/)
+Link: [Click](https://slashdot.org/story/24/01/09/2338230/amazons-twitch-to-cut-500-employees-about-35-of-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Welcome to 2024: Volkswagen really is putting ChatGPT into cars as a gabby copilot
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/volkswagen_deloitte/)
+## [Slashdot] HPE To Acquire Juniper Networks For $14 Billion
+```
+Hewlett Packard Enterprise (HPE) announced plans to buy data center networking hardware maker Juniper Networks for about $14 billion, or $40 per share, in an all-cash deal. The company expects to clos
+```
 
-## [Theregister] India to launch with SpaceX's Falcon 9 for the first time
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/india_to_launch_with_spacexs/)
+Link: [Click](https://slashdot.org/story/24/01/09/2333201/hpe-to-acquire-juniper-networks-for-14-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Nvidia gives RTX 40 series a Super refresh as AI PC hype takes off
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/nvidia_rtx_super/)
+## [Techcrunch] Seedstars Africa Ventures gets $30M backing from EIB Global to invest in early-stage startups
+Link: [Click](https://techcrunch.com/2024/01/09/eib-global-invests-30m-in-seedstars-africa-ventures-i/)
 
-## [Theverge] Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing
-Link: [Click](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)
+## [Techcrunch] Match Group promotes Faye Iosotaluno to Tinder CEO
+Link: [Click](https://techcrunch.com/2024/01/09/match-group-promotes-faye-iosotaluno-to-tinder-ceo/)
 
-## [Theverge] Anker’s flagship power station can charge an EV and make homes energy independent
-Link: [Click](https://www.theverge.com/2024/1/8/24026404/anker-solix-emergency-home-backup-power-price-specs)
+## [Techcrunch] Apple pulls crypto apps Binance, Kraken in India
+Link: [Click](https://techcrunch.com/2024/01/09/apple-crypto-apps-binance-india/)
 
-## [Theverge] JBL’s Clip 5 can go more places and connect to more speakers with Auracast
-Link: [Click](https://www.theverge.com/2024/1/8/24030912/jbl-clip-5-auracast-ces-2024)
+## [Techcrunch] Why Keith Rabois just left Founders Fund for Khosla Ventures
+Link: [Click](https://techcrunch.com/2024/01/09/keith-rabois-dishes-on-his-surprising-return-to-khosla-ventures-after-leaving-the-firm-in-2019-for-founders-fund/)
 
-## [Theverge] Sony teased a ‘spatial’ VR headset with a smart control ring
-Link: [Click](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
+## [Techcrunch] What happens to Carta now?
+Link: [Click](https://techcrunch.com/2024/01/09/what-happens-to-carta-now/)
 
-## [Theverge] Razer’s new light bar is a mullet for your monitor
-Link: [Click](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)
+## [Techcrunch] CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck
+Link: [Click](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
+
+## [Techcrunch] Twitch is laying off another 500 employees
+Link: [Click](https://techcrunch.com/2024/01/09/twitch-layoff-500-employees/)
+
+## [Techcrunch] Treasure Financial lays off staff just months after reporting ‘explosive growth’
+Link: [Click](https://techcrunch.com/2024/01/09/treasure-financial-lays-off-staff-just-months-after-reporting-explosive-growth/)
+
+## [Techcrunch] Stairs are no obstacle for this delivery bot’s squishy wheels
+Link: [Click](https://techcrunch.com/2024/01/09/stairs-are-no-obstacle-for-this-delivery-bots-squishy-wheels/)
+
+## [Theregister] Cutting-edge microscopy reveals bottled water has 'up to 100 times' more bits of plastic than previously feared
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
+
+## [Theregister] Uncle Sam wants to make it clear that America's elections are very, very safe
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/doj_election_security/)
+
+## [Theregister] With OpenAI GPT Store imminent, apps are already being ripped off by copycats
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/with_openai_gpt_store_imminent/)
+
+## [Theregister] Official: Hewlett Packard Enterprise wants to swallow Juniper Networks in $14B deal
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/hewlett_packard_enterprise_snaps_up/)
+
+## [Theregister] X's 2024 plans include peer-to-peer payments in app push
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/xs_2024_plans/)
+
+## [Theregister] New year, new updates for security holes in Windows, Adobe, Android and more
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/january_patch_tuesday/)
+
+## [Theregister] SEC Twitter hijacked to push fake news of hotly anticipated Bitcoin ETF approval
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/sec_bitcoin_etf_hacked/)
+
+## [Theregister] US Navy sailor swaps sea for cell after accepting bribes from Chinese snoops
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/us_navy_petty_officer_china_bribes/)
+
+## [Theregister] COVID-19 infection surge detected in wastewater, signals potential new wave
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/09/wastewater_covid_surge/)
+
+## [Theverge] Tesla’s upgraded 2024 Model 3 is now available in the US
+Link: [Click](https://www.theverge.com/2024/1/10/24032562/tesla-model-3-2024-refresh-us-available-highland)
+
+## [Theverge] The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs
+Link: [Click](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
 
 ## [Theverge] CES 2024: all the TVs, laptops, smart home gear, and more from the show floor
 Link: [Click](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
 
-## [Theverge] Apple’s first Vision Pro ad echoes the original iPhone commercial
-Link: [Click](https://www.theverge.com/2024/1/8/24030919/apple-vision-pro-ad-echoes-iphone-commercial-get-ready)
+## [Theverge] Echo brings the best of Netflix’s Marvel era energy to Disney Plus
+Link: [Click](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
 
-## [Theverge] Asus announces two new 480Hz OLED monitors to cover 1080p and 1440p gaming
-Link: [Click](https://www.theverge.com/2024/1/8/24030834/asus-rog-oled-monitor-480hz-1080p-1440p-gaming)
+## [Theverge] Sony brings Fortnite to the car (bumper)
+Link: [Click](https://www.theverge.com/2024/1/9/24032316/sony-afeela-fortnite-bumper-video-monster-view)
 
-## [Theverge] MSI Claw hands-on: the Steam Deck rival with Intel inside
-Link: [Click](https://www.theverge.com/24030779/msi-claw-portable-gaming-pc-hands-on)
+## [Theverge] FCC says low-income internet subsidies are endangered as funding runs low
+Link: [Click](https://www.theverge.com/2024/1/9/24032123/fcc-affordable-connectivity-program-extension-funding-shutdown-gop-block)
 
-## [Theverge] Substack is going to remove five Nazi newsletters
-Link: [Click](https://www.theverge.com/2024/1/8/24030756/substack-nazi-newsletter-content-moderation)
+## [Theverge] Humane lays off 4 percent of employees before releasing its AI Pin
+Link: [Click](https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin)
