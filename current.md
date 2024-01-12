@@ -1,112 +1,136 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, January 11, 2024
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, January 12, 2024
 ```
-Here are some hints to help you win Wordle #936.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, January 11, 2024
-```
-Here are some hints to help you win NYT Connections #214.
+Here are some hints to help you win Wordle #937.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 
-## [Ycombinator] HTML Spirograph (2021)
-Link: [Click](http://htmlspirograph.com/)
-
-## [Ycombinator] The golden age of Kotlin and its uncertain future
-Link: [Click](https://shiftmag.dev/kotlin-vs-java-2392/)
-
-## [Ycombinator] epoll: The API that powers the modern internet (2022)
-Link: [Click](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
-
-## [Ycombinator] Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)
-Link: [Click](https://getjerry.com/careers)
-
-## [Slashdot] NASA Selects Bold Proposal To 'Swarm' Proxima Centauri With Tiny Probes
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, January 12, 2024
 ```
-In order to reach places like Alpha Centauri this century, we'll need to utilize gram-scale spacecraft that rely on directed-energy propulsion. To that end, NASA has selected the Swarming Proxima Cent
+Here are some hints to help you win NYT Connections #215.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/11/0042216/nasa-selects-bold-proposal-to-swarm-proxima-centauri-with-tiny-probes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 
-## [Slashdot] Google Cuts Hundreds of Jobs in Engineering and Other Divisions
+## [Ycombinator] Unity's Open-Source Double Standard: The Ban of VLC
+Link: [Click](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+
+## [Ycombinator] Fly through your shell history
+Link: [Click](https://github.com/cantino/mcfly)
+
+## [Ycombinator] Principality of Hutt River
+Link: [Click](http://www.principality-hutt-river.com/)
+
+## [Ycombinator] Coral Dev Board Micro
+Link: [Click](https://coral.ai/products/dev-board-micro)
+
+## [Ycombinator] CurlyQ: Command line helper for curl and web scraping
+Link: [Click](https://github.com/ttscoff/curlyq)
+
+## [Ycombinator] CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote
+Link: [Click](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
+
+## [Ycombinator] High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]
+Link: [Click](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
+
+## [Ycombinator] Atomics and Concurrency
+Link: [Click](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
+
+## [Ycombinator] Private equity piling on debt like never before
+Link: [Click](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
+
+## [Ycombinator] The United States Just Grew by 1M Square Kilometers in Size
+Link: [Click](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
+
+## [Ycombinator] Recovering a dm-crypt Encryption Key with drgn
+Link: [Click](https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html)
+
+## [Ycombinator] ByteDance MagicVideo V2
+Link: [Click](https://magicvideov2.github.io/)
+
+## [Slashdot] AI-Generated George Carlin Drops Comedy Special
 ```
-Google laid off hundreds of workers in several divisions Wednesday night, seeking to lower expenses as it focuses on artificial intelligence and joining a wave of other companies cutting tech jobs thi
+Michaela Zee reports via Variety: More than 15 years after his death, stand-up comedian George Carlin has been brought back to life in an artificial intelligence-generated special called "George Carli
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/11/062240/google-cuts-hundreds-of-jobs-in-engineering-and-other-divisions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://entertainment.slashdot.org/story/24/01/11/2217216/ai-generated-george-carlin-drops-comedy-special?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] New Device Allows Users To Scroll With Their Tongue
+## [Slashdot] Beaver Ponds May Exacerbate Warming In Arctic, Scientists Say
 ```
-An anonymous reader quotes a report from NBC News: Touchscreens are going hands-free with a new device that allows users to scroll through smartphones using only their tongues. MouthPad^, a retainer-l
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/10/2331234/new-device-allows-users-to-scroll-with-their-tongue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] A Huge Battery Has Replaced Hawaii's Last Coal Plant
-```
-Julian Spector reports via Canary Media: Hawaii shut down its last coal plant on September 1, 2022, eliminating 180 megawatts of fossil-fueled baseload power from the grid on Oahu -- a crucial step in
+An anonymous reader quotes a report from The Guardian: The stream through western Alaska never looked like this before. In aerial photography from the 1980s, it wove cleanly through the tundra, thin a
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/24/01/10/2326214/a-huge-battery-has-replaced-hawaiis-last-coal-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/24/01/11/238220/beaver-ponds-may-exacerbate-warming-in-arctic-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Englishman Who Posed As HyperVerse CEO Says Sorry To Investors Who Lost Millions
+## [Slashdot] eBay To Pay $3 Million Penalty For Employees Sending Live Cockroaches, Fetal Pig To Bloggers
 ```
-Stephen Harrison, an Englishman living in Thailand who posed as chief executive Steven Reece Lewis for the launch of the HyperVerse crypto scheme, told the Guardian Australia that he was paid to play 
-```
-
-Link: [Click](https://yro.slashdot.org/story/24/01/10/2316231/englishman-who-posed-as-hyperverse-ceo-says-sorry-to-investors-who-lost-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Brave Search Can Now Deliver Results For Programming Queries
-```
-Brave has introduced CodeLLM, an AI-powered tool integrated into its search engine that offers results for programming queries. TechCrunch reports: The new AI-powered CodeLLM provides code snippets wi
+E-commerce giant eBay agreed to pay a $3 million penalty for the harassment and stalking of a Massachusetts couple by several of its employees. "The couple, Ina and David Steiner, had been subjected t
 ```
 
-Link: [Click](https://developers.slashdot.org/story/24/01/10/2255228/brave-search-can-now-deliver-results-for-programming-queries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://yro.slashdot.org/story/24/01/11/230244/ebay-to-pay-3-million-penalty-for-employees-sending-live-cockroaches-fetal-pig-to-bloggers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Is India done with crypto?
-Link: [Click](https://techcrunch.com/2024/01/10/is-india-done-with-crypto/)
+## [Slashdot] X Announces Peer-To-Peer Payment Service Will Launch In 2024
+```
+SonicSpike shares a report from Forbes: X, the social media site formerly known as Twitter, announced it would begin rolling out a peer-to-peer payment service similar to Venmo or PayPal this year -- 
+```
 
-## [Techcrunch] Google cuts hundreds of jobs in its voice assistance, hardware teams as Fitbit founders leave
-Link: [Click](https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/)
+Link: [Click](https://news.slashdot.org/story/24/01/11/2250250/x-announces-peer-to-peer-payment-service-will-launch-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Meta faces another EU privacy challenge over ‘pay for privacy’ consent choice
-Link: [Click](https://techcrunch.com/2024/01/10/meta-pay-or-okay-noyb-complaint-2/)
+## [Slashdot] SpaceX Sends First Text Messages Using Starlink Satellites
+```
+Just six days after being launched atop a Falcon 9 rocket, one of SpaceX's six Starlink satellites was used to send text messages for the first time. Space.com reports: That update didn't reveal what 
+```
 
-## [Techcrunch] Funding for female founders remained consistent in 2023
-Link: [Click](https://techcrunch.com/2024/01/10/funding-for-female-founders-remained-consistent-in-2023/)
+Link: [Click](https://tech.slashdot.org/story/24/01/11/2245247/spacex-sends-first-text-messages-using-starlink-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] WTF is a ‘software-defined vehicle?’
-Link: [Click](https://techcrunch.com/2024/01/10/wtf-is-a-software-defined-vehicle/)
+## [Slashdot] Polestar CEO Promises To Keep Apple CarPlay and Android Auto Around
+```
+An anonymous reader quotes a report from TechCrunch: Polestar CEO Thomas Ingenlath couldn't be happier with the integration of Google built-in, the branded product that embeds Google apps and services
+```
 
-## [Techcrunch] This startup is trying to bring T9-like text input to your TV
-Link: [Click](https://techcrunch.com/2024/01/10/direction-9/)
+Link: [Click](https://tech.slashdot.org/story/24/01/11/228202/polestar-ceo-promises-to-keep-apple-carplay-and-android-auto-around?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions
-Link: [Click](https://techcrunch.com/2024/01/10/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
+## [Techcrunch] Hyundai Motor India fixes bug that exposed customers’ personal data
+Link: [Click](https://techcrunch.com/2024/01/11/hyundai-motor-india-data-exposed/)
 
-## [Theregister] Pennsylvanians, your government workers are now powered by ChatGPT
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/11/pennsylvania_openai_chatgpt/)
+## [Techcrunch] Google will allow more real-money games on the Play Store
+Link: [Click](https://techcrunch.com/2024/01/11/google-will-allow-more-real-money-games-on-the-play-store/)
 
-## [Theregister] Latest tech layoffs: Twitch, Duolingo, Citrix parent ditch hundreds of workers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/11/twitch_employee_layoff/)
+## [Techcrunch] Smart pepper spray startup 444 is back at CES with a major partnership deal
+Link: [Click](https://techcrunch.com/2024/01/11/444-mace-ces/)
 
-## [Theregister] SAP to cough up $220M to drag bribery charges into recycle bin
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/sap_bribery_settlement/)
+## [Techcrunch] Dextrous Robotics closes up shop
+Link: [Click](https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/)
 
-## [Theregister] If you're gonna use AI-made stuff in your game, you better tell us, says Steam
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/developers_steam_ai/)
+## [Techcrunch] OpenAI-backed 1X raises another $100M for the race to humanoid robots
+Link: [Click](https://techcrunch.com/2024/01/11/openai-backed-1x-raises-another-100m-for-the-race-to-humanoid-robots/)
 
-## [Theregister] Top large language models struggle to make accurate legal arguments
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/10/top_large_language_models_struggle/)
+## [Theregister] Drivers: We'll take that plain dumb car over a flashy data-spilling internet one, thanks
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/smart_cars_data_privacy/)
 
-## [Theverge] Google confirms it just laid off around a thousand employees
-Link: [Click](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+## [Theregister] Disease X fever infects Davos: WEF to plan response to whatever big pandemic is next
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/disease_x_wef/)
 
-## [Theverge] Google is losing its Fitbit leaders and laying off hundreds of AR employees
-Link: [Click](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)
+## [Theregister] Nvidia can't sell its best chips to China, but India is more than happy to take them
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/nvidia_india_gpu/)
 
-## [Theverge] Here’s what we know about the SAG-AFTRA AI voice acting licensing deal
-Link: [Click](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)
+## [Theregister] Daughter of George Carlin horrified someone cloned her dad with AI for hour special
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/george_carlin_comedian_cloned/)
+
+## [Theregister] What to make of Google backing Right-to-Repair in Oregon? 'It gives me hope'
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/google_endorses_right_to_repair/)
+
+## [Theregister] Adios, dead zones: Starlink relays SMS in space for unmodified phones on Earth
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/starlinks_satellite_cellular/)
+
+## [Theverge] Ayaneo’s Next Lite is a $299 Steam Deck competitor with unofficial SteamOS
+Link: [Click](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+
+## [Theverge] Substack keeps the Nazis, loses Platformer
+Link: [Click](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)
+
+## [Theverge] The Peregrine lunar lander didn’t land, but it’s still collecting data
+Link: [Click](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)
+
+## [Theverge] Rabbit sells out two batches of 10,000 R1 pocket AI companions over two days
+Link: [Click](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)
