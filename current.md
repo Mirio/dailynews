@@ -1,136 +1,84 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, January 12, 2024
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Saturday, January 13, 2024
 ```
-Here are some hints to help you win Wordle #937.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Friday, January 12, 2024
-```
-Here are some hints to help you win NYT Connections #215.
+Here are some hints to help you win Wordle #938.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 
-## [Ycombinator] Unity's Open-Source Double Standard: The Ban of VLC
-Link: [Click](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
-
-## [Ycombinator] Fly through your shell history
-Link: [Click](https://github.com/cantino/mcfly)
-
-## [Ycombinator] Principality of Hutt River
-Link: [Click](http://www.principality-hutt-river.com/)
-
-## [Ycombinator] Coral Dev Board Micro
-Link: [Click](https://coral.ai/products/dev-board-micro)
-
-## [Ycombinator] CurlyQ: Command line helper for curl and web scraping
-Link: [Click](https://github.com/ttscoff/curlyq)
-
-## [Ycombinator] CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote
-Link: [Click](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
-
-## [Ycombinator] High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]
-Link: [Click](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
-
-## [Ycombinator] Atomics and Concurrency
-Link: [Click](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
-
-## [Ycombinator] Private equity piling on debt like never before
-Link: [Click](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
-
-## [Ycombinator] The United States Just Grew by 1M Square Kilometers in Size
-Link: [Click](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
-
-## [Ycombinator] Recovering a dm-crypt Encryption Key with drgn
-Link: [Click](https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html)
-
-## [Ycombinator] ByteDance MagicVideo V2
-Link: [Click](https://magicvideov2.github.io/)
-
-## [Slashdot] AI-Generated George Carlin Drops Comedy Special
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Saturday, January 13, 2024
 ```
-Michaela Zee reports via Variety: More than 15 years after his death, stand-up comedian George Carlin has been brought back to life in an artificial intelligence-generated special called "George Carli
+Here are some hints to help you win NYT Connections #216.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/01/11/2217216/ai-generated-george-carlin-drops-comedy-special?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 
-## [Slashdot] Beaver Ponds May Exacerbate Warming In Arctic, Scientists Say
+## [Lifehacker] You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now
+Link: [Click](https://lifehacker.com/tech/eset-antivirus-sale)
+
+## [Ycombinator] A decade-old Steam bug
+Link: [Click](https://blog.freudenjmp.com/posts/no-user-logon/)
+
+## [Ycombinator] K-Means Clustering
+Link: [Click](https://github.com/derrickburns/generalized-kmeans-clustering)
+
+## [Ycombinator] Shadcn: Beautifully designed components that you can copy-paste into your apps
+Link: [Click](https://ui.shadcn.com/)
+
+## [Ycombinator] Midlibrary: Library of 4000 Midjourney artistic styles
+Link: [Click](https://midlibrary.io/styles)
+
+## [Ycombinator] Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)
+Link: [Click](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
+
+## [Ycombinator] AWS Libcrypto for Rust
+Link: [Click](https://github.com/aws/aws-lc-rs)
+
+## [Ycombinator] Triplit: Open-source DB that syncs data between server and browser in real-time
+Link: [Click](https://github.com/aspen-cloud/triplit)
+
+## [Ycombinator] Rkyv: A zero-copy deserialization framework for rust
+Link: [Click](https://rkyv.org/)
+
+## [Slashdot] NASA Unveils Revolutionary X-59 'Quiet' Supersonic Aircraft
 ```
-An anonymous reader quotes a report from The Guardian: The stream through western Alaska never looked like this before. In aerial photography from the 1980s, it wove cleanly through the tundra, thin a
+After years of development, NASA has unveiled the X-59 supersonic jet capable of breaking the sound barrier without producing a thunderous sonic boom. "Instead, the Quesst will make a much quieter 'th
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/11/238220/beaver-ponds-may-exacerbate-warming-in-arctic-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/13/0415211/nasa-unveils-revolutionary-x-59-quiet-supersonic-aircraft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] eBay To Pay $3 Million Penalty For Employees Sending Live Cockroaches, Fetal Pig To Bloggers
+## [Slashdot] The Billionaires Spending a Fortune To Lure Scientists Away From Universities
 ```
-E-commerce giant eBay agreed to pay a $3 million penalty for the harassment and stalking of a Massachusetts couple by several of its employees. "The couple, Ina and David Steiner, had been subjected t
-```
-
-Link: [Click](https://yro.slashdot.org/story/24/01/11/230244/ebay-to-pay-3-million-penalty-for-employees-sending-live-cockroaches-fetal-pig-to-bloggers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] X Announces Peer-To-Peer Payment Service Will Launch In 2024
-```
-SonicSpike shares a report from Forbes: X, the social media site formerly known as Twitter, announced it would begin rolling out a peer-to-peer payment service similar to Venmo or PayPal this year -- 
+An anonymous reader quotes a report from the New York Times: In an unmarked laboratory stationed between the campuses of Harvard and the Massachusetts Institute of Technology, a splinter group of scie
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/11/2250250/x-announces-peer-to-peer-payment-service-will-launch-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/12/2333245/the-billionaires-spending-a-fortune-to-lure-scientists-away-from-universities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] SpaceX Sends First Text Messages Using Starlink Satellites
+## [Slashdot] US Regulator Considers Stripping Boeing's Right To Self-Inspect Planes
 ```
-Just six days after being launched atop a Falcon 9 rocket, one of SpaceX's six Starlink satellites was used to send text messages for the first time. Space.com reports: That update didn't reveal what 
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/11/2245247/spacex-sends-first-text-messages-using-starlink-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Polestar CEO Promises To Keep Apple CarPlay and Android Auto Around
-```
-An anonymous reader quotes a report from TechCrunch: Polestar CEO Thomas Ingenlath couldn't be happier with the integration of Google built-in, the branded product that embeds Google apps and services
+After a 737 Max door panel blew out over Portland, Oregon, last week, the Federal Aviation Administration ordered the temporary grounding of Boeing 737 Max 9 aircraft until emergency inspections were 
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/11/228202/polestar-ceo-promises-to-keep-apple-carplay-and-android-auto-around?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/24/01/12/2324237/us-regulator-considers-stripping-boeings-right-to-self-inspect-planes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Hyundai Motor India fixes bug that exposed customers’ personal data
-Link: [Click](https://techcrunch.com/2024/01/11/hyundai-motor-india-data-exposed/)
+## [Slashdot] Micron Displays Next-Gen LPCAMM2 Modules For Laptops At CES 2024
+```
+At CES 2024 this week, Micron demonstrated its next-gen LPCAMM2 memory modules based on LPDDR5X memory. Not only are they smaller and more powerful than traditional SODIMMs, they can be "serviced duri
+```
 
-## [Techcrunch] Google will allow more real-money games on the Play Store
-Link: [Click](https://techcrunch.com/2024/01/11/google-will-allow-more-real-money-games-on-the-play-store/)
+Link: [Click](https://hardware.slashdot.org/story/24/01/12/2312229/micron-displays-next-gen-lpcamm2-modules-for-laptops-at-ces-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Smart pepper spray startup 444 is back at CES with a major partnership deal
-Link: [Click](https://techcrunch.com/2024/01/11/444-mace-ces/)
+## [Slashdot] Android 15 Could Bring Widgets Back To the Lock Screen
+```
+After removing the feature with Android 5.0 in 2015, Google appears to be bringing back lock screen widgets in the next version of Android. "There haven't been any indications since then that Google w
+```
 
-## [Techcrunch] Dextrous Robotics closes up shop
-Link: [Click](https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/)
+Link: [Click](https://mobile.slashdot.org/story/24/01/12/2259213/android-15-could-bring-widgets-back-to-the-lock-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] OpenAI-backed 1X raises another $100M for the race to humanoid robots
-Link: [Click](https://techcrunch.com/2024/01/11/openai-backed-1x-raises-another-100m-for-the-race-to-humanoid-robots/)
+## [Theregister] Number of orgs compromised via Ivanti VPN zero-days grows as Mandiant weighs in
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/13/ivanti_zeroday_mandiant_analysis/)
 
-## [Theregister] Drivers: We'll take that plain dumb car over a flashy data-spilling internet one, thanks
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/smart_cars_data_privacy/)
+## [Theregister] Why we update... Data-thief malware exploits SmartScreen on unpatched Windows PCs
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/windows_phemedrone_stealer/)
 
-## [Theregister] Disease X fever infects Davos: WEF to plan response to whatever big pandemic is next
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/disease_x_wef/)
-
-## [Theregister] Nvidia can't sell its best chips to China, but India is more than happy to take them
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/nvidia_india_gpu/)
-
-## [Theregister] Daughter of George Carlin horrified someone cloned her dad with AI for hour special
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/george_carlin_comedian_cloned/)
-
-## [Theregister] What to make of Google backing Right-to-Repair in Oregon? 'It gives me hope'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/google_endorses_right_to_repair/)
-
-## [Theregister] Adios, dead zones: Starlink relays SMS in space for unmodified phones on Earth
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/starlinks_satellite_cellular/)
-
-## [Theverge] Ayaneo’s Next Lite is a $299 Steam Deck competitor with unofficial SteamOS
-Link: [Click](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
-
-## [Theverge] Substack keeps the Nazis, loses Platformer
-Link: [Click](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)
-
-## [Theverge] The Peregrine lunar lander didn’t land, but it’s still collecting data
-Link: [Click](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)
-
-## [Theverge] Rabbit sells out two batches of 10,000 R1 pocket AI companions over two days
-Link: [Click](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)
+## [Theregister] It's uncertain where personal technology is heading, but judging from CES, it smells
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/12/ces_analysis/)
