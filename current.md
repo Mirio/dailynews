@@ -1,76 +1,94 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Monday, January 15, 2024
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, January 16, 2024
 ```
-Here are some hints to help you win Wordle #940.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Monday, January 15, 2024
-```
-Here are some hints to help you win NYT Connections #218.
+Here are some hints to help you win Wordle #941.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 
-## [Ycombinator] Tracking and mapping the data broker ecosystem
-Link: [Click](https://databrokerswatch.org/)
-
-## [Ycombinator] Could inflammation be the cause of myriad chronic conditions? (2019)
-Link: [Click](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
-
-## [Ycombinator] FedEx launches new e-commerce platform
-Link: [Click](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
-
-## [Ycombinator] Escaping from isolated networks using Broadcast DNS
-Link: [Click](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
-
-## [Ycombinator] The US grid battery fleet is about to double – again
-Link: [Click](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
-
-## [Ycombinator] Raspberry Pi is manufacturing 70K Raspberry Pi 5s per week
-Link: [Click](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february)
-
-## [Slashdot] Can Pumping CO2 Into California's Oil Fields Help Stop Global Warming?
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Tuesday, January 16, 2024
 ```
-America's Environmental Protection Agency "has signed off on a California oil company's plans to permanently store carbon emissions deep underground to combat global warming," reports the Los Angeles 
+Here are some hints to help you win NYT Connections #219.
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/15/0218245/can-pumping-co2-into-californias-oil-fields-help-stop-global-warming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 
-## [Slashdot] The Global Project To Make a General Robotic Brain
+## [Ycombinator] Modeless Vim
+Link: [Click](https://github.com/SebastianMuskalla/ModelessVim)
+
+## [Ycombinator] Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues
+Link: [Click](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
+
+## [Ycombinator] We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres
+Link: [Click](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+
+## [Ycombinator] Prison. Bankruptcy. Suicide. How a software glitch ruined lives
+Link: [Click](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
+
+## [Ycombinator] Many AI safety orgs have tried to criminalize currently-existing open-source AI
+Link: [Click](https://1a3orn.com/sub/machine-learning-bans.html)
+
+## [Ycombinator] Victorian Glass Fire Grenades
+Link: [Click](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+
+## [Ycombinator] Bluesky has launched RSS feeds
+Link: [Click](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
+
+## [Ycombinator] Ask HN: Should I try to manufacture toasters?
+Link: [Click](https://news.ycombinator.com/item?id=39008165)
+
+## [Slashdot] Japan Startup Eyes Fusion Laser To Shoot Down Space Junk From Ground
 ```
-Generative AI "doesn't easily carry over into robotics," write two researchers in IEEE Spectrum, "because the Internet is not full of robotic-interaction data in the same way that it's full of text an
+Japanese startup EX-Fusion plans to eliminate small pieces of space junk with laser beams fired from the ground. Nikkei Asia reports: EX-Fusion stands apart in that it is taking the ground-based appro
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/24/01/15/0124236/the-global-project-to-make-a-general-robotic-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/16/0027236/japan-startup-eyes-fusion-laser-to-shoot-down-space-junk-from-ground?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Scientists Film Genetically-Altered Plants 'Talking' to Neighboring Plants With Biochemicals
+## [Slashdot] World's First Floating Offshore Wind Farm To Be Taken Offline For Up To 4 Months
 ```
-ScienceAlert reminds us that plants exude "a fine mist of airborne compounds that they use to communicate and protect themselves." And while they've been detected in over 80 plant species, now researc
+An anonymous reader quotes a report from Electrek: The world's first floating offshore wind farm, Hywind Scotland, is coming offline for three to four months for "heavy maintenance." Hywind Scotland's
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/15/0028232/scientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://hardware.slashdot.org/story/24/01/16/0012238/worlds-first-floating-offshore-wind-farm-to-be-taken-offline-for-up-to-4-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] LG opens its first US EV charging factory in Texas
-Link: [Click](https://techcrunch.com/2024/01/14/lg-opens-its-first-us-ev-charging-factory-in-texas/)
+## [Slashdot] GTA 5 Actor Goes Nuclear On AI Company That Made Voice Chatbot of Him
+```
+Rich Stanton reports via PC Gamer: Ned Luke, the actor whose roles include GTA 5's Michael De Santa, has gone off on an AI company that released an unlicensed voice chatbot based on the character, and
+```
 
-## [Theregister] WTF? Potty-mouthed intern’s obscene error message mostly amused manager
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/15/who_me/)
+Link: [Click](https://slashdot.org/story/24/01/16/008225/gta-5-actor-goes-nuclear-on-ai-company-that-made-voice-chatbot-of-him?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Cloudflare defends firing of staffer for reasons HR could not explain
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/15/cloudflare_viral_firing_video/)
+## [Slashdot] OpenAI Unveils Plans For Tackling Abuse Ahead of 2024 Elections
+```
+Sara Fischer reports via Axios: ChatGPT maker OpenAI says it's rolling out new policies and tools meant to combat misinformation and abuse ahead of 2024 elections worldwide. 2024 is one of the biggest
+```
 
-## [Theregister] Linus Torvalds postpones Linux 6.8 merge window after being taken offline by storms
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/15/linux_kernel_merge_window_postponed/)
+Link: [Click](https://slashdot.org/story/24/01/15/2358208/openai-unveils-plans-for-tackling-abuse-ahead-of-2024-elections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] China loathes AirDrop so much it’s publicized an old flaw in Apple’s P2P protocol
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/15/china_airdrop_anonymity_warning/)
+## [Slashdot] Google Is No Longer Bringing the Full Chrome Browser To Fuchsia
+```
+Google has formally discontinued its efforts to bring the full Chrome browser experience to its Fuchsia operating system. 9to5Google reports: In 2021, we reported that the Chromium team had begun an e
+```
 
-## [Theregister] OpenAI tweaks its fine print, removes explicit ban on 'military and warfare' use
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/15/ai_in_brief/)
+Link: [Click](https://tech.slashdot.org/story/24/01/15/2350230/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] CES 2024: all the TVs, laptops, smart home gear, and more from the show floor
-Link: [Click](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+## [Slashdot] FedEx Announces Its Own Commerce Platform For Merchants
+```
+An anonymous reader quotes a report from TechCrunch: Logistics company FedEx announced its own commerce platform called FDX today. The platform will likely compete against Amazon by offering merchants
+```
 
-## [Theverge] These are the certified Wi-Fi 7 devices you can buy now
-Link: [Click](https://www.theverge.com/2024/1/14/24038284/wi-fi-certified-7-products-list-wi-fi-alliance)
+Link: [Click](https://tech.slashdot.org/story/24/01/15/2223244/fedex-announces-its-own-commerce-platform-for-merchants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Singapore’s Locofy launches its one-click design-to-code tool
+Link: [Click](https://techcrunch.com/2024/01/15/locofy-lightning/)
+
+## [Techcrunch] Fisker’s electric Ocean SUV under investigation over braking loss complaints
+Link: [Click](https://techcrunch.com/2024/01/15/fisker-ocean-suv-nhtsa-investiagtion-brakes/)
+
+## [Theregister] Atari 400 makes a comeback in miniature form
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/16/atari_400_makes_a_comeback/)
+
+## [Theregister] India again backs down on its controversial PC import restrictions
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/16/india_pc_import_restriction_backdown/)
+
+## [Theregister] China’s gambling crackdown spawned wave of illegal online casinos and crypto-crime in Asia
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/16/un_asia_tech_crime_report/)
