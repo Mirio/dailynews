@@ -1,122 +1,160 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, January 17, 2024
+## [Arstechnica] Hospitals owned by private equity are harming patients, reports find
 ```
-Here are some hints to help you win Wordle #942.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
-
-## [Lifehacker] Today's NYT Connections Hints (and Answer) for Wednesday, January 17, 2024
-```
-Here are some hints to help you win NYT Connections #220.
+Hospital ratings dive and medical errors rise when private equity firms are in charge.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
+Link: [Click](https://arstechnica.com/?p=1996901)
 
-## [Lifehacker] You Can Get Offcloud on Sale for $39.99 Right Now
-Link: [Click](https://lifehacker.com/tech/offcloud-sale)
-
-## [Ycombinator] Flowblade: Open-Source Video Editor
-Link: [Click](https://jliljebl.github.io/flowblade/)
-
-## [Ycombinator] Show HN: I made a website to find best bus seat to avoid the sun while traveling
-Link: [Click](https://sitinshade.com)
-
-## [Ycombinator] BBC BASIC raytracer in 432 characters
-Link: [Click](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
-
-## [Ycombinator] I regret selling my startup
-Link: [Click](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
-
-## [Ycombinator] MixRank (YC S11) Is Hiring Global Remote Software Engineers
-Link: [Click](https://news.ycombinator.com/item?id=39024215)
-
-## [Ycombinator] From Vexing Uncertainty to Intellectual Humility
-Link: [Click](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
-
-## [Ycombinator] ALOHA robot learns from humans to cook, clean, do laundry
-Link: [Click](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
-
-## [Ycombinator] Judge blocks JetBlue from acquiring Spirit Airlines
-Link: [Click](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
-
-## [Ycombinator] Browsh: The modern text-based web browser
-Link: [Click](https://www.brow.sh/)
-
-## [Slashdot] Human 'Behavioral Crisis' At Root of Climate Breakdown, Say Scientists
+## [Arstechnica] Researcher uncovers one of the biggest password dumps in recent history
 ```
-In a new paper published in the journal Science Progress, author Joseph Merz argues that climate issues are symptoms of ecological overshoot, driven by exploited human behaviors such as overconsumptio
+Roughly 25 million of the passwords have never been seen before by widely used service.
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/16/2359231/human-behavioral-crisis-at-root-of-climate-breakdown-say-scientists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1996879)
 
-## [Slashdot] Beeper Users Say Apple Is Now Blocking Their Macs From Using iMessage Entirely
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, January 18, 2024
 ```
-An anonymous reader quotes a report from TechCrunch: The Apple-versus-Beeper saga is not over yet it seems, even though the iMessage-on-Android Beeper Mini was removed from the Play Store last week. N
-```
-
-Link: [Click](https://apple.slashdot.org/story/24/01/16/2313258/beeper-users-say-apple-is-now-blocking-their-macs-from-using-imessage-entirely?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Apple Vision Pro Will Launch With 3D Movies From Disney Plus
-```
-Apple has announced several new experiences launching with their upcoming Vision Pro spatial computing headset, including 3D content from Disney Plus. "Other apps announced with Vision Pro support inc
+Here are some hints to help you win Wordle #943.
 ```
 
-Link: [Click](https://apple.slashdot.org/story/24/01/16/236254/apple-vision-pro-will-launch-with-3d-movies-from-disney-plus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 
-## [Slashdot] Uber Shutting Down Alcohol Delivery Service Drizly
+## [Lifehacker] Today's NYT Connections Hints (and Answer) for Thursday, January 18, 2024
 ```
-Uber is shutting down alcohol delivery service Drizly three years after the company acquired it for $1.1 billion. Axios reports: Drizly was always a bit of an odd match for Uber, in that it didn't hir
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/16/2132250/uber-shutting-down-alcohol-delivery-service-drizly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] LG Washing Machine Found Sending 3.7 GB of Data a Day
-```
-An LG washing machine owner discovered that his smart home appliance was uploading an average of 3.66GB of data daily. "Concerned about the washer's internet addiction, Johnie forced the device to go 
+Here are some hints to help you win NYT Connections #221.
 ```
 
-Link: [Click](https://mobile.slashdot.org/story/24/01/16/2126226/lg-washing-machine-found-sending-37-gb-of-data-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
 
-## [Slashdot] Apple Revises App Store Rules To Let Developers Link To Outside Payment Methods
+## [Lifehacker] The Best Outdoor Speakers to Buy in 2024
 ```
-Apple has announced changes to its U.S. App Store, allowing developers to link to alternative payment methods, "provided that the app also offer purchases through Apple's own In-App Purchase system," 
-```
-
-Link: [Click](https://apple.slashdot.org/story/24/01/17/0015255/apple-revises-app-store-rules-to-let-developers-link-to-outside-payment-methods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Google Search Really Has Gotten Worse, Researchers Find
-```
-An anonymous reader quotes a report from 404 Media: Google search really has been taken over by low-quality SEO spam, according to a new, year-long study by German researchers (PDF). The researchers, 
+Whether you care about durability or sound quality, there's an outdoor speaker setup to suit your budget.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/16/2137200/google-search-really-has-gotten-worse-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/the-best-outdoor-speakers)
 
-## [Techcrunch] India puts tech firms on notice over deepfakes inaction
-Link: [Click](https://techcrunch.com/2024/01/16/india-puts-tech-firms-on-notice-over-deepfakes-inaction/)
+## [Ycombinator] Losing my son
+Link: [Click](https://www.fortressofdoors.com/i-lost-my-son/)
 
-## [Techcrunch] Sierra Space joins defense primes in landing massive military satellite contract
-Link: [Click](https://techcrunch.com/2024/01/16/sierra-space-joins-defense-primes-in-landing-massive-military-satellite-contract/)
+## [Ycombinator] WhisperSpeech – An open source text-to-speech system built by inverting Whisper
+Link: [Click](https://github.com/collabora/WhisperSpeech)
 
-## [Theregister] What are our top picks from the vast world of retro tech? Let's find out
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/does_old_tech_never_die/)
+## [Ycombinator] Djgpp
+Link: [Click](https://www.delorie.com/djgpp/)
 
-## [Theregister] Combination of cheap .cloud domains and fake Shark Tank news fuel unhealthy wellness scams
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/netcraft_health_scams_analysis/)
+## [Ycombinator] Remote work doesn't seem to affect productivity, Fed study finds
+Link: [Click](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 
-## [Theregister] Google updates Chrome's Incognito Mode data slurp disclaimer in early browser build
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/google_updates_chrome_incognito_disclaimer/)
+## [Ycombinator] Automatic class sorting with Prettier
+Link: [Click](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
-## [Theregister] Working from home never looked better: leopard stalks around Infosys and TCS campuses
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/leopard_infosys_tcs_india/)
+## [Ycombinator] Wasmer (YC S19) Is Hiring Rust and Compiler Engineers
+Link: [Click](https://www.ycombinator.com/companies/wasmer/jobs)
 
-## [Theregister] Nokia walks the walk about its RAN to play on Uncle Sam’s China fears
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/nokia_us_sales_list/)
+## [Ycombinator] Self-Consuming Generative Models Go MAD
+Link: [Click](https://arxiv.org/abs/2307.01850)
 
-## [Theregister] FBI: Beware of thieves building Androxgh0st botnets using stolen creds
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/fbi_botnet_warning/)
+## [Ycombinator] A drought has forced authorities to further slash traffic in Panama Canal
+Link: [Click](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 
-## [Theregister] Boss fight between Donkey Kong champ and leaderboard org ends with settlement
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/twin_galaxies_billy_mitchell_kong/)
+## [Ycombinator] Open table formats are inevitable for analytical datasets
+Link: [Click](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
 
-## [Theregister] How 'sleeper agent' AI assistants can sabotage your code without you realizing
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/16/poisoned_ai_models/)
+## [Ycombinator] Htmx and Web Components: A Perfect Match
+Link: [Click](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+
+## [Ycombinator] Linear transformers are faster after all
+Link: [Click](https://manifestai.com/blogposts/faster-after-all/)
+
+## [Ycombinator] Portable Web Documents – An Alternative to PDF Based on HTML5 (2019)
+Link: [Click](https://getpolarized.io/2019/05/11/portable-web-documents.html)
+
+## [Ycombinator] Teller: Universal secret manager, never leave your terminal to use secrets
+Link: [Click](https://github.com/tellerops/teller)
+
+## [Ycombinator] Show HN: Muse, a CLI background music player
+Link: [Click](https://github.com/aabiji/muse)
+
+## [Ycombinator] Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?
+Link: [Click](https://news.ycombinator.com/item?id=39035650)
+
+## [Ycombinator] Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88
+Link: [Click](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
+
+## [Slashdot] US Must Beat China Back To the Moon, Congress Tells NASA
+```
+With NASA's Artemis moon program now targeting September 2025 for its Artemis 2 mission and September 2026 for Artemis 3, some members of Congress are concerned about the potential repercussions, part
+```
+
+Link: [Click](https://science.slashdot.org/story/24/01/18/022208/us-must-beat-china-back-to-the-moon-congress-tells-nasa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Have I Been Pwned Adds 71 Million Emails From Naz.API Stolen Account List
+```
+An anonymous reader quotes a report from BleepingComputer: Have I Been Pwned has added almost 71 million email addresses associated with stolen accounts in the Naz.API dataset to its data breach notif
+```
+
+Link: [Click](https://yro.slashdot.org/story/24/01/18/011210/have-i-been-pwned-adds-71-million-emails-from-nazapi-stolen-account-list?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Mobile Device Ambient Light Sensors Can Be Used To Spy On Users
+```
+"The ambient light sensors present in most mobile devices can be accessed by software without any special permissions, unlike permissions required for accessing the microphone or the cameras," writes 
+```
+
+Link: [Click](https://yro.slashdot.org/story/24/01/18/0037240/mobile-device-ambient-light-sensors-can-be-used-to-spy-on-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Sheryl Sandberg To Exit Meta's Board After 12 Years
+```
+According to Axios, former Meta chief operating officer Sheryl Sandberg plans to leave Meta's board of directors after holding a seat for the past 12 years. From the report: "With a heart filled with 
+```
+
+Link: [Click](https://meta.slashdot.org/story/24/01/18/0049203/sheryl-sandberg-to-exit-metas-board-after-12-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor
+```
+A U.S. Court of Appeals said Apple will again be barred from selling the Apple Watch Series 9 and Ultra 2 beginning Thursday. These models both contain a blood oxygen sensor that infringes on the inte
+```
+
+Link: [Click](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Harmonix Is Ending Rock Band DLC Releases After 16 Years, 2,800 Songs
+```
+Since launching in 2007, Harmonix's Rock Band has released over 2,800 DLC songs to keep its rhythm game fresh. Now, Harmonix has announced the last of the series' releases will arrive on January 25, "
+```
+
+Link: [Click](https://games.slashdot.org/story/24/01/17/2155223/harmonix-is-ending-rock-band-dlc-releases-after-16-years-2800-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Theregister] Will AI take our jobs? That's what everyone is talking about at Davos right now
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/ai_davos_jobs/)
+
+## [Theregister] Samsung’s Galaxy S24 pitch: the AI we baked in makes you more human
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/samsung_galaxy_s24_plus_ultra/)
+
+## [Theregister] India's big four services giants soar on demand for AI
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/hcl_infosys_tcs_wipro_results/)
+
+## [Theregister] Global semiconductor revenues slid 11 percent in 2023, despite AI silicon splurge
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/global_semiconductor_revenues_gartner/)
+
+## [Theregister] Ban on Apple watches with blood oxygen sensors confirmed after failed appeal
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/apple_watch_blood_oxygen_ban/)
+
+## [Theregister] Wing, Alphabet's drone delivery unit, designs bigger bird to deliver pasta, faster
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/wing_drone_upgrade/)
+
+## [Theregister] Study: Thousands of businesses just love handing over your info to Facebook
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/facebook_tracking_data/)
+
+## [Theregister] Insurance website's buggy API leaked Office 365 password and a giant email trove
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/18/ttibi_office_buggy/)
+
+## [Theregister] Facial recognition tech has outpaced US law – and don't expect the Feds to catch up
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/17/face_recognition_tech_us/)
+
+## [Theverge] Google CEO tells employees to expect more job cuts this year
+Link: [Click](https://www.theverge.com/2024/1/17/24042417/google-layoffs-2024-internal-employee-memo-sundar-pichai)
+
+## [Theverge] Apple Watch ban: everything you need to know
+Link: [Click](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
+
+## [Theverge] Apple Watches without banned blood oxygen features will go on sale Thursday morning
+Link: [Click](https://www.theverge.com/2024/1/17/24042395/apple-watch-ultra-2-series-9-ban-blood-oxygen-stores)
