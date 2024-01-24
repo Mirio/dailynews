@@ -1,126 +1,156 @@
-## [Arstechnica] NASA urged Astrobotic not to send its hamstrung spacecraft toward the Moon
+## [Arstechnica] Mass exploitation of Ivanti VPNs is infecting networks around the globe
 ```
-A propellant leak prevented the Peregrine spacecraft from landing on the Moon.
-```
-
-Link: [Click](https://arstechnica.com/?p=1997960)
-
-## [Ycombinator] Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory
-Link: [Click](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
-
-## [Ycombinator] The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands
-Link: [Click](https://www.hawaiiseaglider.org/)
-
-## [Ycombinator] The end of "Useless Ruby sugar": On intuitions and evolutions
-Link: [Click](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
-
-## [Ycombinator] SaberVM
-Link: [Click](https://ryanbrewer.dev/posts/announcing-svm.html)
-
-## [Ycombinator] Show HN: Sendenv, a CLI tool to share environment variables
-Link: [Click](https://github.com/viraniaman94/sendenv)
-
-## [Ycombinator] Tell HN: Hacker News now supports IPv6
-Link: [Click](https://news.ycombinator.com/item?id=39099065)
-
-## [Ycombinator] ML Engineering Online Book
-Link: [Click](https://github.com/stas00/ml-engineering)
-
-## [Ycombinator] Self-contained Linux applications with lone Lisp
-Link: [Click](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
-
-## [Ycombinator] Dana-Farberications at Harvard University
-Link: [Click](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
-
-## [Ycombinator] Scientists report fundamental asymmetry between heating and cooling
-Link: [Click](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
-
-## [Ycombinator] FTC bans TurboTax from advertising 'free' services, calls deceptive advertising
-Link: [Click](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
-
-## [Slashdot] NASA Finally Unlocks Canister of Dust From 4.6 Billion-Year-Old Asteroid
-```
-NASA announced Friday that it finally got a canister of asteroid dust open, four months after it parachuted down through the Earth's atmosphere into the Utah desert. The Guardian reports: The space ad
+Orgs that haven't acted yet should, even if it means suspending VPN services.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/22/234232/nasa-finally-unlocks-canister-of-dust-from-46-billion-year-old-asteroid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1998442)
 
-## [Slashdot] CDC Now Encouraging Doctors To Consider More Blood Testing For 'Forever Chemicals'
+## [Arstechnica] Sierra Space is blowing up stuff to prove inflatable habitats are safe
 ```
-An anonymous reader quotes a report from ABC News: Doctors are now being encouraged to consider more blood testing for PFAS, also known as "forever chemicals," according to guidance released (PDF) by 
-```
-
-Link: [Click](https://science.slashdot.org/story/24/01/22/2250249/cdc-now-encouraging-doctors-to-consider-more-blood-testing-for-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Modder Recreates Game Boy Advance Games Using the Audio From Crash Sounds
-```
-Kevin Purdy reports via Ars Technica: Sometimes, a great song can come from great pain. The Game Boy Advance (GBA), its software having crashed nearly two hours ago, will, for example, play a tune bas
+"We are well on our way to having our habitats ready for launch in 2026.”
 ```
 
-Link: [Click](https://games.slashdot.org/story/24/01/22/2243212/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1998174)
 
-## [Slashdot] IT Consultant Fined For Daring To Expose Shoddy Security
+## [Arstechnica] The White House has its own pharmacy—and, boy, was it shady under Trump
 ```
-Thomas Claburn reports via The Register: A security researcher in Germany has been fined $3,300 for finding and reporting an e-commerce database vulnerability that was exposing almost 700,000 customer
-```
-
-Link: [Click](https://yro.slashdot.org/story/24/01/22/2225222/it-consultant-fined-for-daring-to-expose-shoddy-security?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Sony Ends $10 Billion Merger With India Media Giant Zee
-```
-Sony has scrapped plans for a $10 billion merger of its Indian unit with Zee Entertainment, "ending a deal that could have created one of the South Asian nation's biggest TV broadcasters," reports Reu
+It wasted $750K during the Trump years and freely handed out Ambien and Provigil.
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/01/22/2216226/sony-ends-10-billion-merger-with-india-media-giant-zee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1998430)
 
-## [Slashdot] Lamborghini Licenses MIT's New High-Capacity, Fast-Charging Organic Battery Tech
+## [Lifehacker] You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now
 ```
-An anonymous reader quotes a report from TechRadar: Thanks to new Massachusetts Institute of Technology (MIT) research, which was part-funded by Lamborghini, we could soon see the end of difficult-to-
+The refurbished iPad 6 comes with a grade "A" refurbished rating.
 ```
 
-Link: [Click](https://hardware.slashdot.org/story/24/01/22/2034245/lamborghini-licenses-mits-new-high-capacity-fast-charging-organic-battery-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 
-## [Techcrunch] Germany’s Instagrid, which uses software to supercharge portable batteries, raises $95M
-Link: [Click](https://techcrunch.com/2024/01/22/germanys-instagrid-which-uses-software-to-supercharge-portable-batteries-raises-95m/)
+## [Lifehacker] You Can Get Hundreds of Free Cozy Mystery E-books This Week
+```
+Stuff your Kindle with hundreds of free mystery and mystery-adjacent e-books.
+```
 
-## [Techcrunch] Business travel management platform TravelPerk raises $104M
-Link: [Click](https://techcrunch.com/2024/01/22/travelperk-softbank-business-travel-105-million/)
+Link: [Click](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 
-## [Techcrunch] Apple will pay artists more to have a spatial audio version on Apple Music
-Link: [Click](https://techcrunch.com/2024/01/22/apple-will-pay-artists-more-to-have-a-spatial-audio-version-on-apple-music/)
+## [Lifehacker] You Can Get This Foldable Touchscreen Car Display for $96 Right Now
+Link: [Click](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
 
-## [Techcrunch] China quietly pulls draft gaming rules from website
-Link: [Click](https://techcrunch.com/2024/01/22/china-quietly-pulls-draft-gaming-rules-from-website/)
+## [Lifehacker] The Best Wifi Routers to Buy in 2024
+```
+Upgrade your home network with these great routers.
+```
 
-## [Techcrunch] AC Ventures closes its new $210M Indonesia-focused fund
-Link: [Click](https://techcrunch.com/2024/01/22/ac-ventures-fund-v/)
+Link: [Click](https://lifehacker.com/tech/best-wifi-routers)
 
-## [Techcrunch] Plural, the VC led by founders, pulls together a new $432M fund to back European startups
-Link: [Click](https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/)
+## [Ycombinator] Show HN: Open-source Rule-based PDF parser for RAG
+Link: [Click](https://github.com/nlmatics/nlm-ingestor)
 
-## [Theregister] Meta accused of enrolling undecided EU users in ad-sponsored platform
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/meta_eu_advertising/)
+## [Ycombinator] Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap
+Link: [Click](https://overpass-turbo.eu/)
 
-## [Theregister] AWS Marketplace adds sales of third-party services
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/aws_marketplace_services_bundles/)
+## [Ycombinator] Making Rust binaries smaller by default
+Link: [Click](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 
-## [Theregister] Japan recovers moon lander data, puts craft to sleep due to solar panels' bad attitude
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/jaxa_slim_moon_data_recovered/)
+## [Ycombinator] Show HN: I wished for a site with a growing list of math problems, I built it
+Link: [Click](https://teachyourselfmath.app/)
 
-## [Theregister] China names members of a second tech supergroup to define the metaverse
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/china_metaverse_standards_group/)
+## [Ycombinator] Global carbon markets overcredit cookstove greenhouse gas reductions by 10
+Link: [Click](https://phys.org/news/2024-01-global-carbon-overcredit-cookstove-greenhouse.html)
 
-## [Theregister] Australia imposes cyber sanctions on Russian it says ransomwared health insurer
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/australia_medibank_private_attacker_named/)
+## [Ycombinator] Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist
+Link: [Click](https://news.ycombinator.com/item?id=39112346)
 
-## [Theregister] Law designed to stop AI bias in hiring decisions is so ineffective it's slowing similar initiatives
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/nyc_ai_hiring_law_ineffective/)
+## [Ycombinator] Balancing engineering cultures: Debate everything vs. just tell me what to build
+Link: [Click](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 
-## [Theregister] Robocaller spoofing Joe Biden is telling people not to vote in New Hampshire
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/robocaller_biden_new_hampshire/)
+## [Ycombinator] Magic Ink (2006)
+Link: [Click](http://worrydream.com/MagicInk/)
 
-## [Theverge] Riot Games cuts more than 500 jobs
-Link: [Click](https://www.theverge.com/2024/1/22/24047568/riot-games-league-of-legends-forge-runeterra-layoffs)
+## [Ycombinator] Ask HN: Does (or why does) anyone use MapReduce anymore?
+Link: [Click](https://news.ycombinator.com/item?id=39113583)
 
-## [Theverge] Apple tells artists how much more money they can make with spatial audio
-Link: [Click](https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming)
+## [Ycombinator] The United States is producing more oil than any country in history
+Link: [Click](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
+
+## [Slashdot] Alaska Air CEO Says Loose Bolts Found in 'Many' Boeing Jets
+```
+Alaska Air Group found loose bolts on "many" of its Boeing 737 Max 9 aircraft following the midair blowout of a panel on one of its planes earlier this month, the carrier's chief executive officer sai
+```
+
+Link: [Click](https://news.slashdot.org/story/24/01/24/048249/alaska-air-ceo-says-loose-bolts-found-in-many-boeing-jets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Ebay To Eliminate 1,000 Jobs, or 9% of Full-Time Workforce
+```
+Ebay said Tuesday that it plans to lay off 9% of the company's workforce, equal to about 1,000 full-time jobs, as the tech industry continues to downsize to start 2024. From a report: Jamie Iannone, E
+```
+
+Link: [Click](https://slashdot.org/story/24/01/24/0349212/ebay-to-eliminate-1000-jobs-or-9-of-full-time-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Apple Dials Back Car's Self-Driving Features and Delays Launch To 2028
+```
+Apple, reaching a make-or-break point in its decade-old effort to build a car, has pivoted to a less ambitious design with the intent of finally bringing an electric vehicle to market. Bloomberg: Afte
+```
+
+Link: [Click](https://apple.slashdot.org/story/24/01/24/0039241/apple-dials-back-cars-self-driving-features-and-delays-launch-to-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Netflix is Going To Take Away Its Cheapest Ad-Free Plan
+```
+Although Netflix no longer allows new or returning members to sign up for the ad-free Basic subscription that costs $11.99 per month, company executives told investors while reporting its earnings res
+```
+
+Link: [Click](https://entertainment.slashdot.org/story/24/01/24/0028209/netflix-is-going-to-take-away-its-cheapest-ad-free-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] eBay plans to cut 1,000 jobs because it couldn’t grow enough
+Link: [Click](https://techcrunch.com/2024/01/23/ebay-plans-to-cut-1000-jobs-because-it-couldnt-grow-enough/)
+
+## [Techcrunch] Kittl raises another $36 million for its browser-based design tool
+Link: [Click](https://techcrunch.com/2024/01/23/kittl-raises-another-36-million-for-its-browser-based-design-tool/)
+
+## [Theregister] COVID-19 test lab accused of exposing 1.3 million patient records to open internet
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/dutch_covid_testing_firm_ignored_warnings/)
+
+## [Theregister] GCHQ's NCSC warns of 'realistic possibility' AI will help state-backed malware evade detection
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/ncsc/)
+
+## [Theregister] Amid Broadcom's subscription push, VMware killed a SaaS product
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/vmware_subscriptions_evolve/)
+
+## [Theregister] Taiwan connects its first home-grown quantum computer to the internet
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/taiwan_academica_sinica_quantum_computer/)
+
+## [Theregister] Seoul restores smartphone subsidies because premium handsets are apparently essential
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/south_korea_restores_smartphone_subsidies/)
+
+## [Theregister] Tesla Cybertruck gets cyberstuck during off-roading expedition
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/tesla_cybertruck_offroading_video/)
+
+## [Theregister] Macy's and Sunglass Hut sued for $10M over face-recog arrest and 'sexual assault'
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/macys_sunglass_hut_facial_recognition/)
+
+## [Theregister] Intuit ordered to use the word 'free' less freely in its ads
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/intuit_ordered_to_use_free/)
+
+## [Theregister] Ex-IBM staff ask US Supremes for help in bringing age-discrimination battle to court
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/ibm_supreme_court/)
+
+## [Theregister] OSIRIS-REx's stuck asteroid sample canister finally cracked opened by NASA
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/osirisrex_asteroid_sample_opened/)
+
+## [Theregister] CISA boss swatted: 'While my own experience was certainly harrowing, it was unfortunately not unique'
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/cisa_easterly_swatted/)
+
+## [Theregister] Musk lashes out at Biden administration over rural broadband
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/musk_starlink_fcc/)
+
+## [Theregister] Lukewarm reception for Microsoft's Copilot Pro amid performance, cost grumbles
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/microsoft_copilot_pro/)
+
+## [Theverge] Nintendo has set the April shutdown date for 3DS and Wii U online play
+Link: [Click](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)
+
+## [Theverge] The X iPhone app added passwordless logins with passkeys
+Link: [Click](https://www.theverge.com/2024/1/23/24048580/x-twitter-passkeys-ios-users-passwordless)
+
+## [Theverge] eBay will lay off 1,000 employees — 9 percent of the company
+Link: [Click](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024)
