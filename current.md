@@ -1,156 +1,123 @@
-## [Arstechnica] Mass exploitation of Ivanti VPNs is infecting networks around the globe
+## [Lifehacker] This Alienware Gaming Desktop Is $500 Off for the Next Two Days
 ```
-Orgs that haven't acted yet should, even if it means suspending VPN services.
-```
-
-Link: [Click](https://arstechnica.com/?p=1998442)
-
-## [Arstechnica] Sierra Space is blowing up stuff to prove inflatable habitats are safe
-```
-"We are well on our way to having our habitats ready for launch in 2026.”
+The desktop includes Windows 11, an AMD Ryzen 9 7900, and an RTX 4070.
 ```
 
-Link: [Click](https://arstechnica.com/?p=1998174)
+Link: [Click](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 
-## [Arstechnica] The White House has its own pharmacy—and, boy, was it shady under Trump
+## [Lifehacker] You Can Get This 10" Touchscreen Car Display for $126 Right Now
 ```
-It wasted $750K during the Trump years and freely handed out Ambien and Provigil.
-```
-
-Link: [Click](https://arstechnica.com/?p=1998430)
-
-## [Lifehacker] You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now
-```
-The refurbished iPad 6 comes with a grade "A" refurbished rating.
+It connects to your phone via bluetooth so you can check messages, view navigation, and make calls.
 ```
 
-Link: [Click](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
+Link: [Click](https://lifehacker.com/travel/touchscreen-car-display-sale)
 
-## [Lifehacker] You Can Get Hundreds of Free Cozy Mystery E-books This Week
+## [Lifehacker] PS5's New Update Makes It Easier to ‘Party’ With Your Friends
 ```
-Stuff your Kindle with hundreds of free mystery and mystery-adjacent e-books.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
-
-## [Lifehacker] You Can Get This Foldable Touchscreen Car Display for $96 Right Now
-Link: [Click](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
-
-## [Lifehacker] The Best Wifi Routers to Buy in 2024
-```
-Upgrade your home network with these great routers.
+The latest firmware update brings enhancements to Parties and Pulse Explore wireless earbuds.
 ```
 
-Link: [Click](https://lifehacker.com/tech/best-wifi-routers)
+Link: [Click](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
 
-## [Ycombinator] Show HN: Open-source Rule-based PDF parser for RAG
-Link: [Click](https://github.com/nlmatics/nlm-ingestor)
+## [Ycombinator] Ollama releases Python and JavaScript Libraries
+Link: [Click](https://ollama.ai/blog/python-javascript-libraries)
 
-## [Ycombinator] Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap
-Link: [Click](https://overpass-turbo.eu/)
+## [Ycombinator] Using Arc to decode Venter's DNA watermark (2010)
+Link: [Click](https://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
 
-## [Ycombinator] Making Rust binaries smaller by default
-Link: [Click](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
+## [Ycombinator] Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI
+Link: [Click](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 
-## [Ycombinator] Show HN: I wished for a site with a growing list of math problems, I built it
-Link: [Click](https://teachyourselfmath.app/)
+## [Ycombinator] Show HN: Integer Map Data Structure
+Link: [Click](https://github.com/billziss-gh/imap)
 
-## [Ycombinator] Global carbon markets overcredit cookstove greenhouse gas reductions by 10
-Link: [Click](https://phys.org/news/2024-01-global-carbon-overcredit-cookstove-greenhouse.html)
+## [Ycombinator] Crusty, the Indestructible Mac
+Link: [Click](https://geocities.ws/rehasoft/crusty.html)
 
-## [Ycombinator] Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist
-Link: [Click](https://news.ycombinator.com/item?id=39112346)
+## [Ycombinator] Placemark is now open source – web-based geospatial data editor
+Link: [Click](https://github.com/placemark/placemark)
 
-## [Ycombinator] Balancing engineering cultures: Debate everything vs. just tell me what to build
-Link: [Click](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
+## [Ycombinator] NASA System Predicts Impact of a Small Asteroid over Germany
+Link: [Click](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 
-## [Ycombinator] Magic Ink (2006)
-Link: [Click](http://worrydream.com/MagicInk/)
+## [Ycombinator] Forkrun: Runs multiple inputs through a command in parallel using bash coprocs
+Link: [Click](https://github.com/jkool702/forkrun)
 
-## [Ycombinator] Ask HN: Does (or why does) anyone use MapReduce anymore?
-Link: [Click](https://news.ycombinator.com/item?id=39113583)
+## [Ycombinator] DigMixer: Protocols
+Link: [Click](https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/)
 
-## [Ycombinator] The United States is producing more oil than any country in history
-Link: [Click](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
-
-## [Slashdot] Alaska Air CEO Says Loose Bolts Found in 'Many' Boeing Jets
+## [Slashdot] Boeing, Not Spirit, Mis-installed Piece That Blew Off Alaska MAX 9 Jet
 ```
-Alaska Air Group found loose bolts on "many" of its Boeing 737 Max 9 aircraft following the midair blowout of a panel on one of its planes earlier this month, the carrier's chief executive officer sai
+Dominic Gates, reporting for Seattle Times: The fuselage panel that blew off an Alaska Airlines jet earlier this month was removed for repair then reinstalled improperly by Boeing mechanics on the Ren
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/24/048249/alaska-air-ceo-says-loose-bolts-found-in-many-boeing-jets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/24/01/25/0314242/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Ebay To Eliminate 1,000 Jobs, or 9% of Full-Time Workforce
+## [Slashdot] The Mac Turns 40
 ```
-Ebay said Tuesday that it plans to lay off 9% of the company's workforce, equal to about 1,000 full-time jobs, as the tech industry continues to downsize to start 2024. From a report: Jamie Iannone, E
-```
-
-Link: [Click](https://slashdot.org/story/24/01/24/0349212/ebay-to-eliminate-1000-jobs-or-9-of-full-time-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Apple Dials Back Car's Self-Driving Features and Delays Launch To 2028
-```
-Apple, reaching a make-or-break point in its decade-old effort to build a car, has pivoted to a less ambitious design with the intent of finally bringing an electric vehicle to market. Bloomberg: Afte
+Apple's longest-running product is an increasingly small part of the company's business. And yet, it's never been more successful. Jason Snell, writing for The Verge: Twenty years ago, on the Mac's 20
 ```
 
-Link: [Click](https://apple.slashdot.org/story/24/01/24/0039241/apple-dials-back-cars-self-driving-features-and-delays-launch-to-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://apple.slashdot.org/story/24/01/25/0251200/the-mac-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Netflix is Going To Take Away Its Cheapest Ad-Free Plan
+## [Slashdot] Doomsday Clock Stays at 90 Seconds To Midnight
 ```
-Although Netflix no longer allows new or returning members to sign up for the ad-free Basic subscription that costs $11.99 per month, company executives told investors while reporting its earnings res
+Tony Isaac writes: The doomsday clock remains at 90 seconds to midnight, the same as last year. Interestingly, the Bulletin of the Atomic Scientists added 'AI' to the list of threats that they conside
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/01/24/0028209/netflix-is-going-to-take-away-its-cheapest-ad-free-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://news.slashdot.org/story/24/01/25/0045235/doomsday-clock-stays-at-90-seconds-to-midnight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] eBay plans to cut 1,000 jobs because it couldn’t grow enough
-Link: [Click](https://techcrunch.com/2024/01/23/ebay-plans-to-cut-1000-jobs-because-it-couldnt-grow-enough/)
+## [Slashdot] Nvidia's RTX GPUs Can Now Upgrade SDR Content To HDR Using AI
+```
+Nvidia is launching RTX Video HDR in its 551.23 Game Ready driver update, enabling RTX GPU owners to use AI to convert SDR videos to HDR in Microsoft Edge and Chrome. While subtle, it can add color de
+```
 
-## [Techcrunch] Kittl raises another $36 million for its browser-based design tool
-Link: [Click](https://techcrunch.com/2024/01/23/kittl-raises-another-36-million-for-its-browser-based-design-tool/)
+Link: [Click](https://tech.slashdot.org/story/24/01/25/0030216/nvidias-rtx-gpus-can-now-upgrade-sdr-content-to-hdr-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] COVID-19 test lab accused of exposing 1.3 million patient records to open internet
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/dutch_covid_testing_firm_ignored_warnings/)
+## [Techcrunch] Thankful Registry continues its emphasis on thoughtful gift giving
+Link: [Click](https://techcrunch.com/2024/01/24/thankful-registry-continues-its-emphasis-on-thoughtful-gift-giving/)
 
-## [Theregister] GCHQ's NCSC warns of 'realistic possibility' AI will help state-backed malware evade detection
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/ncsc/)
+## [Techcrunch] Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”
+Link: [Click](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
 
-## [Theregister] Amid Broadcom's subscription push, VMware killed a SaaS product
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/vmware_subscriptions_evolve/)
+## [Techcrunch] Pokemon Company says it intends to investigate Palworld
+Link: [Click](https://techcrunch.com/2024/01/24/pokemon-company-says-it-intends-to-investigate-palworld/)
 
-## [Theregister] Taiwan connects its first home-grown quantum computer to the internet
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/taiwan_academica_sinica_quantum_computer/)
+## [Techcrunch] A $58M round for this European Mycelium startup shows the tech is on the cusp of big things
+Link: [Click](https://techcrunch.com/2024/01/24/mycelium/)
 
-## [Theregister] Seoul restores smartphone subsidies because premium handsets are apparently essential
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/south_korea_restores_smartphone_subsidies/)
+## [Theregister] Wait, hold on, everyone – Mozilla thinks Apple, Google, Microsoft should play fair
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 
-## [Theregister] Tesla Cybertruck gets cyberstuck during off-roading expedition
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/tesla_cybertruck_offroading_video/)
+## [Theregister] IBM Cloud is upgrading a datacenter and users will have to halt their Power VMs
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/ibm_cloud_toronto_migration/)
 
-## [Theregister] Macy's and Sunglass Hut sued for $10M over face-recog arrest and 'sexual assault'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/macys_sunglass_hut_facial_recognition/)
+## [Theregister] SK hynix posts surprise profit after AI boosts memory prices
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/sk_hynix_q4_23/)
 
-## [Theregister] Intuit ordered to use the word 'free' less freely in its ads
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/intuit_ordered_to_use_free/)
+## [Theregister] HPE joins the 'our executive email was hacked by Russia' club
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/hpe_russia_email_attack/)
 
-## [Theregister] Ex-IBM staff ask US Supremes for help in bringing age-discrimination battle to court
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/ibm_supreme_court/)
+## [Theregister] Apple's on-device gen AI for the iPhone should surprise no-one. The way it does it might
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/apple_generative_ai/)
 
-## [Theregister] OSIRIS-REx's stuck asteroid sample canister finally cracked opened by NASA
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/osirisrex_asteroid_sample_opened/)
+## [Theregister] Google settles with Singular Computing over claims of stolen AI chip tech
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/google_settles_singular_lawsuit/)
 
-## [Theregister] CISA boss swatted: 'While my own experience was certainly harrowing, it was unfortunately not unique'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/cisa_easterly_swatted/)
+## [Theregister] Simon Willison interview: AI software still needs the human touch
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/willison_ai_software_development/)
 
-## [Theregister] Musk lashes out at Biden administration over rural broadband
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/musk_starlink_fcc/)
+## [Theregister] What Microsoft's latest email breach says about this IT security heavyweight
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/microsoft_latest_breach_cozy_bear/)
 
-## [Theregister] Lukewarm reception for Microsoft's Copilot Pro amid performance, cost grumbles
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/23/microsoft_copilot_pro/)
+## [Theregister] The rise and fall of the standard user interface
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
 
-## [Theverge] Nintendo has set the April shutdown date for 3DS and Wii U online play
-Link: [Click](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)
+## [Theverge] The best deals on MacBooks right now
+Link: [Click](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
 
-## [Theverge] The X iPhone app added passwordless logins with passkeys
-Link: [Click](https://www.theverge.com/2024/1/23/24048580/x-twitter-passkeys-ios-users-passwordless)
+## [Theverge] Google’s latest Pixel feature drop adds Circle to Search, Magic Compose, and more
+Link: [Click](https://www.theverge.com/2024/1/24/24049669/google-pixel-8-pro-feature-drop-circle-to-search-update)
 
-## [Theverge] eBay will lay off 1,000 employees — 9 percent of the company
-Link: [Click](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024)
+## [Theverge] Google’s Pixel 8 phones now come in a new mint color
+Link: [Click](https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on)
