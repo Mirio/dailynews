@@ -1,123 +1,97 @@
-## [Lifehacker] This Alienware Gaming Desktop Is $500 Off for the Next Two Days
+## [Lifehacker] You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now
 ```
-The desktop includes Windows 11, an AMD Ryzen 9 7900, and an RTX 4070.
-```
-
-Link: [Click](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
-
-## [Lifehacker] You Can Get This 10" Touchscreen Car Display for $126 Right Now
-```
-It connects to your phone via bluetooth so you can check messages, view navigation, and make calls.
+Classes are designed for at-home workouts that don't require any equipment other than a basic yoga mat.
 ```
 
-Link: [Click](https://lifehacker.com/travel/touchscreen-car-display-sale)
+Link: [Click](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 
-## [Lifehacker] PS5's New Update Makes It Easier to ‘Party’ With Your Friends
+## [Lifehacker] These Night-Vision Binoculars Are on Sale for $100 Right Now
 ```
-The latest firmware update brings enhancements to Parties and Pulse Explore wireless earbuds.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
-
-## [Ycombinator] Ollama releases Python and JavaScript Libraries
-Link: [Click](https://ollama.ai/blog/python-javascript-libraries)
-
-## [Ycombinator] Using Arc to decode Venter's DNA watermark (2010)
-Link: [Click](https://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
-
-## [Ycombinator] Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI
-Link: [Click](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-
-## [Ycombinator] Show HN: Integer Map Data Structure
-Link: [Click](https://github.com/billziss-gh/imap)
-
-## [Ycombinator] Crusty, the Indestructible Mac
-Link: [Click](https://geocities.ws/rehasoft/crusty.html)
-
-## [Ycombinator] Placemark is now open source – web-based geospatial data editor
-Link: [Click](https://github.com/placemark/placemark)
-
-## [Ycombinator] NASA System Predicts Impact of a Small Asteroid over Germany
-Link: [Click](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
-
-## [Ycombinator] Forkrun: Runs multiple inputs through a command in parallel using bash coprocs
-Link: [Click](https://github.com/jkool702/forkrun)
-
-## [Ycombinator] DigMixer: Protocols
-Link: [Click](https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/)
-
-## [Slashdot] Boeing, Not Spirit, Mis-installed Piece That Blew Off Alaska MAX 9 Jet
-```
-Dominic Gates, reporting for Seattle Times: The fuselage panel that blew off an Alaska Airlines jet earlier this month was removed for repair then reinstalled improperly by Boeing mechanics on the Ren
+They can take high-quality photos and videos, even in low-light conditions.
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/25/0314242/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/night-vision-binoculars-sale)
 
-## [Slashdot] The Mac Turns 40
+## [Lifehacker] The Garmin Venu Sq Smartwatch Is 40% Off Right Now
 ```
-Apple's longest-running product is an increasingly small part of the company's business. And yet, it's never been more successful. Jason Snell, writing for The Verge: Twenty years ago, on the Mac's 20
-```
-
-Link: [Click](https://apple.slashdot.org/story/24/01/25/0251200/the-mac-turns-40?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Doomsday Clock Stays at 90 Seconds To Midnight
-```
-Tony Isaac writes: The doomsday clock remains at 90 seconds to midnight, the same as last year. Interestingly, the Bulletin of the Atomic Scientists added 'AI' to the list of threats that they conside
+No need to take your phone on runs anymore.
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/25/0045235/doomsday-clock-stays-at-90-seconds-to-midnight?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
 
-## [Slashdot] Nvidia's RTX GPUs Can Now Upgrade SDR Content To HDR Using AI
+## [Ycombinator] Portable EPUBs
+Link: [Click](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+
+## [Ycombinator] Balancing Outdoor Risky Play and Injury Prevention in Childhood Development
+Link: [Click](https://cps.ca/en/documents/position/outdoor-risky-play)
+
+## [Ycombinator] I don't always use LaTeX, but when I do, I compile to HTML (2013)
+Link: [Click](https://www.peterkrautzberger.org/0136/)
+
+## [Ycombinator] Doctor Droid (YC W23) Is Hiring in Bangalore
+Link: [Click](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
+
+## [Ycombinator] AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux
+Link: [Click](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
+
+## [Ycombinator] LTSE shutters cap table management business (formerly captable.io)
+Link: [Click](https://equity.ltse.com/lp/important-updates)
+
+## [Ycombinator] Air pollution over Alberta oil sands up to 6,300% higher than reported
+Link: [Click](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
+
+## [Ycombinator] He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?
+Link: [Click](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
+
+## [Slashdot] NASA's Ingenuity Mission Is Over
 ```
-Nvidia is launching RTX Video HDR in its 551.23 Game Ready driver update, enabling RTX GPU owners to use AI to convert SDR videos to HDR in Microsoft Edge and Chrome. While subtle, it can add color de
+cusco writes: After three years and 72 flights of its 5-flight mission the mission of the Ingenuity helicopter on Mars is finally over. Images show that Ingenuity suffered damage to one of its rotor b
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/25/0030216/nvidias-rtx-gpus-can-now-upgrade-sdr-content-to-hdr-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/26/0532222/nasas-ingenuity-mission-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Thankful Registry continues its emphasis on thoughtful gift giving
-Link: [Click](https://techcrunch.com/2024/01/24/thankful-registry-continues-its-emphasis-on-thoughtful-gift-giving/)
+## [Slashdot] Netflix Co-CEO Calls Vision Pro 'Subscale' and Wonders If Anybody Would Actually Use It
+```
+Netflix is on everything. It's on your phone, computer, and game console, going all the way back to the Nintendo Wii. Hell, you can get your Netflix fix on a Peloton. One place where Netflix won't be 
+```
 
-## [Techcrunch] Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”
-Link: [Click](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
+Link: [Click](https://apple.slashdot.org/story/24/01/26/0436234/netflix-co-ceo-calls-vision-pro-subscale-and-wonders-if-anybody-would-actually-use-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Pokemon Company says it intends to investigate Palworld
-Link: [Click](https://techcrunch.com/2024/01/24/pokemon-company-says-it-intends-to-investigate-palworld/)
+## [Slashdot] OpenAI Drops Prices and Fixes 'Lazy' GPT-4 That Refused To Work
+```
+OpenAI is always making slight adjustments to its models and pricing, and today brings just such an occasion. From a report: The company has released a handful of new models and dropped the price of A
+```
 
-## [Techcrunch] A $58M round for this European Mycelium startup shows the tech is on the cusp of big things
-Link: [Click](https://techcrunch.com/2024/01/24/mycelium/)
+Link: [Click](https://slashdot.org/story/24/01/25/2122251/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Wait, hold on, everyone – Mozilla thinks Apple, Google, Microsoft should play fair
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
+## [Slashdot] Cruise Says Hostility Toward Regulators Led To Grounding of Its Autonomous Cars
+```
+Cruise, the driverless car subsidiary of General Motors, said in a report on Thursday that an adversarial approach taken (non-paywalled link) by its top executives toward regulators had led to a casca
+```
 
-## [Theregister] IBM Cloud is upgrading a datacenter and users will have to halt their Power VMs
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/ibm_cloud_toronto_migration/)
+Link: [Click](https://tech.slashdot.org/story/24/01/25/2131242/cruise-says-hostility-toward-regulators-led-to-grounding-of-its-autonomous-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] SK hynix posts surprise profit after AI boosts memory prices
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/sk_hynix_q4_23/)
+## [Slashdot] FTC Launches Inquiry Into AI Deals by Tech Giants
+```
+The Federal Trade Commission launched an inquiry (non-paywalled link) on Thursday into the multibillion-dollar investments by Microsoft, Amazon and Google in the artificial intelligence start-ups Open
+```
 
-## [Theregister] HPE joins the 'our executive email was hacked by Russia' club
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/hpe_russia_email_attack/)
+Link: [Click](https://slashdot.org/story/24/01/25/2126207/ftc-launches-inquiry-into-ai-deals-by-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Apple's on-device gen AI for the iPhone should surprise no-one. The way it does it might
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/apple_generative_ai/)
+## [Techcrunch] Delivery startup Veho makes corporate job cuts
+Link: [Click](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
 
-## [Theregister] Google settles with Singular Computing over claims of stolen AI chip tech
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/google_settles_singular_lawsuit/)
+## [Theregister] JAXA releases photo of SLIM lander in lunar faceplant
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/26/jaxa_slim_photo/)
 
-## [Theregister] Simon Willison interview: AI software still needs the human touch
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/willison_ai_software_development/)
+## [Theregister] Google's AI-fueled IDE Project IDX tries to show you how your app runs on Android, iOS
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/26/google_project_idx_cloud/)
 
-## [Theregister] What Microsoft's latest email breach says about this IT security heavyweight
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/microsoft_latest_breach_cozy_bear/)
+## [Theregister] Trickbot malware scumbag gets five years for infecting hospitals, businesses
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/trickbot_malware_dev_sentenced/)
 
-## [Theregister] The rise and fall of the standard user interface
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
+## [Theregister] Microsoft hits $3 trillion as investors drink AI Kool-Aid
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/microsoft_valuation_3_trillion/)
 
-## [Theverge] The best deals on MacBooks right now
-Link: [Click](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
-
-## [Theverge] Google’s latest Pixel feature drop adds Circle to Search, Magic Compose, and more
-Link: [Click](https://www.theverge.com/2024/1/24/24049669/google-pixel-8-pro-feature-drop-circle-to-search-update)
-
-## [Theverge] Google’s Pixel 8 phones now come in a new mint color
-Link: [Click](https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on)
+## [Theregister] Does AI give InfiniBand a moment to shine? Or will Ethernet hold the line?
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/ai_networks_infiniband_vs_ethernet/)
