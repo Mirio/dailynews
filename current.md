@@ -1,97 +1,112 @@
-## [Lifehacker] You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now
+## [Arstechnica] In major gaffe, hacked Microsoft test account was assigned admin privileges
 ```
-Classes are designed for at-home workouts that don't require any equipment other than a basic yoga mat.
-```
-
-Link: [Click](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
-
-## [Lifehacker] These Night-Vision Binoculars Are on Sale for $100 Right Now
-```
-They can take high-quality photos and videos, even in low-light conditions.
+How does a legacy test account grant access to read every Office 365 account?
 ```
 
-Link: [Click](https://lifehacker.com/night-vision-binoculars-sale)
+Link: [Click](https://arstechnica.com/?p=1999478)
 
-## [Lifehacker] The Garmin Venu Sq Smartwatch Is 40% Off Right Now
+## [Lifehacker] The Xbox Elite Series 2 Controller Is $44 Off Right Now
 ```
-No need to take your phone on runs anymore.
-```
-
-Link: [Click](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
-
-## [Ycombinator] Portable EPUBs
-Link: [Click](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
-
-## [Ycombinator] Balancing Outdoor Risky Play and Injury Prevention in Childhood Development
-Link: [Click](https://cps.ca/en/documents/position/outdoor-risky-play)
-
-## [Ycombinator] I don't always use LaTeX, but when I do, I compile to HTML (2013)
-Link: [Click](https://www.peterkrautzberger.org/0136/)
-
-## [Ycombinator] Doctor Droid (YC W23) Is Hiring in Bangalore
-Link: [Click](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
-
-## [Ycombinator] AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux
-Link: [Click](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
-
-## [Ycombinator] LTSE shutters cap table management business (formerly captable.io)
-Link: [Click](https://equity.ltse.com/lp/important-updates)
-
-## [Ycombinator] Air pollution over Alberta oil sands up to 6,300% higher than reported
-Link: [Click](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
-
-## [Ycombinator] He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?
-Link: [Click](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
-
-## [Slashdot] NASA's Ingenuity Mission Is Over
-```
-cusco writes: After three years and 72 flights of its 5-flight mission the mission of the Ingenuity helicopter on Mars is finally over. Images show that Ingenuity suffered damage to one of its rotor b
+A good discount on an excellent controller for both Xbox and PC.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/26/0532222/nasas-ingenuity-mission-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 
-## [Slashdot] Netflix Co-CEO Calls Vision Pro 'Subscale' and Wonders If Anybody Would Actually Use It
+## [Lifehacker] Six Phrases to Avoid When Giving Someone Bad News
 ```
-Netflix is on everything. It's on your phone, computer, and game console, going all the way back to the Nintendo Wii. Hell, you can get your Netflix fix on a Peloton. One place where Netflix won't be 
-```
-
-Link: [Click](https://apple.slashdot.org/story/24/01/26/0436234/netflix-co-ceo-calls-vision-pro-subscale-and-wonders-if-anybody-would-actually-use-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] OpenAI Drops Prices and Fixes 'Lazy' GPT-4 That Refused To Work
-```
-OpenAI is always making slight adjustments to its models and pricing, and today brings just such an occasion. From a report: The company has released a handful of new models and dropped the price of A
+Sometimes, the words you choose will only make matters worse.
 ```
 
-Link: [Click](https://slashdot.org/story/24/01/25/2122251/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 
-## [Slashdot] Cruise Says Hostility Toward Regulators Led To Grounding of Its Autonomous Cars
+## [Lifehacker] How to Peel Ginger so You Don't Lose Any of the Good Stuff
 ```
-Cruise, the driverless car subsidiary of General Motors, said in a report on Thursday that an adversarial approach taken (non-paywalled link) by its top executives toward regulators had led to a casca
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/25/2131242/cruise-says-hostility-toward-regulators-led-to-grounding-of-its-autonomous-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] FTC Launches Inquiry Into AI Deals by Tech Giants
-```
-The Federal Trade Commission launched an inquiry (non-paywalled link) on Thursday into the multibillion-dollar investments by Microsoft, Amazon and Google in the artificial intelligence start-ups Open
+Ginger has a weird shape, and the average vegetable peeler just won't do it justice.
 ```
 
-Link: [Click](https://slashdot.org/story/24/01/25/2126207/ftc-launches-inquiry-into-ai-deals-by-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
 
-## [Techcrunch] Delivery startup Veho makes corporate job cuts
-Link: [Click](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
+## [Lifehacker] The Best Movies to Stream on Max This Week
+```
+If you're looking for an amazing movie to watch on Max, look no further than these selections.
+```
 
-## [Theregister] JAXA releases photo of SLIM lander in lunar faceplant
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/26/jaxa_slim_photo/)
+Link: [Click](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 
-## [Theregister] Google's AI-fueled IDE Project IDX tries to show you how your app runs on Android, iOS
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/26/google_project_idx_cloud/)
+## [Ycombinator] Rclone syncs your files to cloud storage
+Link: [Click](https://rclone.org/)
 
-## [Theregister] Trickbot malware scumbag gets five years for infecting hospitals, businesses
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/trickbot_malware_dev_sentenced/)
+## [Ycombinator] The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program
+Link: [Click](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 
-## [Theregister] Microsoft hits $3 trillion as investors drink AI Kool-Aid
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/25/microsoft_valuation_3_trillion/)
+## [Ycombinator] Stem, a stack-based language with metaprogramming and a C FLI
+Link: [Click](https://ret2pop.nullring.xyz/blog/stem.html)
 
-## [Theregister] Does AI give InfiniBand a moment to shine? Or will Ethernet hold the line?
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/ai_networks_infiniband_vs_ethernet/)
+## [Ycombinator] Proposed top-level domain string for private use: ".internal"
+Link: [Click](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
+
+## [Ycombinator] Fossil is quitting smartwatches
+Link: [Click](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
+
+## [Ycombinator] Etleap (YC W13) is hiring a software engineer (London)
+Link: [Click](https://etleap.com/careers/software-engineer/)
+
+## [Ycombinator] NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz (dot), SQLite
+Link: [Click](https://github.com/vdjagilev/nmap-formatter)
+
+## [Ycombinator] Cruise wasn't hiding accident video from regulators – it had bad internet
+Link: [Click](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
+
+## [Ycombinator] Android now lets you transfer eSIMs between your phones
+Link: [Click](https://www.androidpolice.com/android-esim-transfer-tool/)
+
+## [Ycombinator] Neighborhoods for starting a life in the galaxy
+Link: [Click](https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/)
+
+## [Slashdot] AI Startup Bans Account Blamed for Biden Audio Deepfake
+```
+An anonymous reader shares a report: The creator of an audio deepfake of US President Joe Biden urging people not to vote in this week's New Hampshire primary has been suspended by ElevenLabs, accordi
+```
+
+Link: [Click](https://slashdot.org/story/24/01/26/2353206/ai-startup-bans-account-blamed-for-biden-audio-deepfake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] The Great Freight-Train Heists of the 21st Century
+```
+Cargo theft from freight trains in the Los Angeles area has surged, with detectives estimating over 90 containers being opened daily and that theft on their freight trains in the Union Pacific area wa
+```
+
+Link: [Click](https://yro.slashdot.org/story/24/01/27/0010210/the-great-freight-train-heists-of-the-21st-century?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Apple's Large Language Model Shows Up in New iOS Code
+```
+An anonymous reader shares a report: Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that A
+```
+
+Link: [Click](https://apple.slashdot.org/story/24/01/26/2344206/apples-large-language-model-shows-up-in-new-ios-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Flipkart co-founder Binny Bansal leaves board
+Link: [Click](https://techcrunch.com/2024/01/26/flipkart-co-founder-binny-bansal-leaves-board/)
+
+## [Theregister] Apple redecorates its iPhone prison to appease Europe
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/27/apple_europe_ios_analysis/)
+
+## [Theregister] Snow day in corporate world thanks to another frustrating Microsoft Teams outage
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/27/teams_outage_again/)
+
+## [Theregister] Microsoft sheds some light on Russian email heist – and how to learn from Redmond's mistakes
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/27/microsoft_cozy_bear_mfa/)
+
+## [Theregister] What is Model Collapse and how to avoid it
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/26/what_is_model_collapse/)
+
+## [Theregister] Simon Willison interview: AI software still needs the human touch
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/24/willison_ai_software_development/)
+
+## [Theverge] Microsoft Teams went down around the world for over eight hours — it’s better now
+Link: [Click](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
+
+## [Theverge] Here are the best Apple Watch deals right now
+Link: [Click](https://www.theverge.com/21289209/best-apple-watch-deals)
+
+## [Theverge] Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’
+Link: [Click](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
