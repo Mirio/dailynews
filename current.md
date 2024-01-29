@@ -1,75 +1,69 @@
-## [Arstechnica] Following lawsuit, rep admits “AI” George Carlin was human-written
+## [Ycombinator] Eagle 7B: Soaring past Transformers
+Link: [Click](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+
+## [Ycombinator] Why is Maxwell's theory so hard to understand? (2007) [pdf]
+Link: [Click](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+
+## [Ycombinator] New Renderers for GTK
+Link: [Click](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+
+## [Ycombinator] The Rooftop Solar Industry Could Be on the Verge of Collapse
+Link: [Click](https://time.com/6565415/rooftop-solar-industry-collapse/)
+
+## [Ycombinator] Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel
+Link: [Click](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
+
+## [Ycombinator] Global Room-Temperature Superconductivity in Graphite
+Link: [Click](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
+
+## [Ycombinator] A writer fabricated a series of stories for Atlas Obscura
+Link: [Click](https://thewalrus.ca/around-the-world-in-eighty-lies/)
+
+## [Ycombinator] Hell is other people: performance management at Big Tech
+Link: [Click](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
+
+## [Slashdot] Japan's Moon Lander Overcomes Power Crisis, Starts Scientific Operations
 ```
-Creators still face "name and likeness" complaints; lawyer says suit will continue.
-```
-
-Link: [Click](https://arstechnica.com/?p=1999215)
-
-## [Ycombinator] In Loving Memory of Square Checkbox
-Link: [Click](https://tonsky.me/blog/checkbox/)
-
-## [Ycombinator] Remembering Unix Desktops – and What We Can Learn from Them
-Link: [Click](https://www.theregister.com/2024/01/27/opinion_column/)
-
-## [Ycombinator] So long and thanks for all the fish
-Link: [Click](https://nitter.d420.de)
-
-## [Ycombinator] Solid-state EV batteries now face "production hell"
-Link: [Click](https://spectrum.ieee.org/solid-state-battery-production-challenges)
-
-## [Ycombinator] The Electric-Vehicle Cheating Scandal
-Link: [Click](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
-
-## [Ycombinator] I built my own 16-Bit CPU in Excel [video]
-Link: [Click](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
-
-## [Ycombinator] Block Dude (Ti-83) in the Browser
-Link: [Click](https://azich.org/blockdude/)
-
-## [Ycombinator] U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis
-Link: [Click](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
-
-## [Ycombinator] Building a DIY CT/CAT scanner for $200 [video]
-Link: [Click](https://www.youtube.com/watch?v=zj7YjFDt2WY)
-
-## [Slashdot] 18-Year-Old Cleared After Encrypted Snapchat Joke Led To F-18s and Arrest
-```
-Slashdot reader Bruce66423 shared this report from the BBC:
-
-A Spanish court has cleared a British man of public disorder, after he joked to friends about blowing up a flight from London Gatwick to Me
+Around three hours after its moon lander had touched down, Japan's space agency "decided to switch SLIM off with 12% power remaining to allow for a possible resumption when the sun's angle changed," r
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/28/039204/18-year-old-cleared-after-encrypted-snapchat-joke-led-to-f-18s-and-arrest?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/29/0517239/japans-moon-lander-overcomes-power-crisis-starts-scientific-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Remembering Unix Desktops - and What We Can Learn From Them
+## [Slashdot] California Bill Wants To Mandate Electronic 'Speed Limiters' in Cars
 ```
-"As important as its historically underhanded business dealings were for its success, Microsoft didn't have to cheat to win," argues a new article in the Register. 
+"Someday in the not too distant future, it might no longer be possible to drive a brand-new car faster than 80 mph in California," writes Car and Driver:
 
-"The Unix companies were doing a g
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/28/0241228/remembering-unix-desktops---and-what-we-can-learn-from-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Famed Financial Analyst's Final Forecast?   'The Dollar is Finished' as World Reserve Currency
-```
-An anonymous reader shared this report from the The New York Times:
-
-Over his 54 years as a financial analyst, Richard X. Bove perfected the art of grabbing attention... American Banker once called hi
+That's because state senator Scott Wiener ear
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/28/0156252/famed-financial-analysts-final-forecast-the-dollar-is-finished-as-world-reserve-currency?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/24/01/29/0356203/california-bill-wants-to-mandate-electronic-speed-limiters-in-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Did a Lake on Mars Once Contain Life?
-```
-UPI reports:
+## [Techcrunch] Arc’s new iPhone browser wants to be your search companion
+Link: [Click](https://techcrunch.com/2024/01/28/arcs-new-iphone-browser-wants-to-be-your-search-companion/)
 
+## [Techcrunch] Y Combinator President Garry Tan publishes a menacing tweet before deleting it, apologizing: “Die slow motherf*ckers”
+Link: [Click](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
 
-New research published Friday offers hope that the sediment samples picked up by the Mars rover Perseverance could reveal traces of life &mdash; if it ever existed on the Red Planet. 
+## [Techcrunch] India’s Uber-rival BluSmart pumps up EV charging with $25M investment
+Link: [Click](https://techcrunch.com/2024/01/28/blusmart-ev-charging-funding/)
 
+## [Techcrunch] Indian state government fixes website bugs that exposed residents’ sensitive documents
+Link: [Click](https://techcrunch.com/2024/01/28/india-rajasthan-government-jan-aadhaar-bug-fix/)
 
-```
+## [Theregister] ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/icann_internal_tld/)
 
-Link: [Click](https://science.slashdot.org/story/24/01/28/004200/did-a-lake-on-mars-once-contain-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## [Theregister] Eyeing China, US may require clouds to report when foreign actors rent kit to build AI models
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/us_raimondo_ai_cloud_kyc/)
 
-## [Theverge] X plans to create a content moderation ‘headquarters’ in Austin
-Link: [Click](https://www.theverge.com/2024/1/27/24053003/x-content-moderation-office-child-sexual-exploitation)
+## [Theregister] Tencent explores a future where HPC, quantum, cloud and edge have converged
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/tencent_huawei_tech_predictions/)
+
+## [Theregister] Linus Torvalds flames Google kernel contributor over filesystem suggestion
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/linux_6_8_rc2/)
+
+## [Theregister] Tesla hacks make big bank at Pwn2Own's first automotive-focused event
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/infosec_news_roundup_in_brief/)
+
+## [Theverge] Arc Search combines browser, search engine, and AI into something new and different
+Link: [Click](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
