@@ -1,69 +1,109 @@
-## [Ycombinator] Eagle 7B: Soaring past Transformers
-Link: [Click](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
-
-## [Ycombinator] Why is Maxwell's theory so hard to understand? (2007) [pdf]
-Link: [Click](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
-
-## [Ycombinator] New Renderers for GTK
-Link: [Click](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
-
-## [Ycombinator] The Rooftop Solar Industry Could Be on the Verge of Collapse
-Link: [Click](https://time.com/6565415/rooftop-solar-industry-collapse/)
-
-## [Ycombinator] Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel
-Link: [Click](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
-
-## [Ycombinator] Global Room-Temperature Superconductivity in Graphite
-Link: [Click](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
-
-## [Ycombinator] A writer fabricated a series of stories for Atlas Obscura
-Link: [Click](https://thewalrus.ca/around-the-world-in-eighty-lies/)
-
-## [Ycombinator] Hell is other people: performance management at Big Tech
-Link: [Click](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
-
-## [Slashdot] Japan's Moon Lander Overcomes Power Crisis, Starts Scientific Operations
+## [Arstechnica] ChatGPT is leaking passwords from private conversations of its users, Ars reader says
 ```
-Around three hours after its moon lander had touched down, Japan's space agency "decided to switch SLIM off with 12% power remaining to allow for a possible resumption when the sun's angle changed," r
+Names of unpublished research papers, presentations, and PHP scripts also leaked.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/29/0517239/japans-moon-lander-overcomes-power-crisis-starts-scientific-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://arstechnica.com/?p=1999872)
 
-## [Slashdot] California Bill Wants To Mandate Electronic 'Speed Limiters' in Cars
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, January 30, 2024
 ```
-"Someday in the not too distant future, it might no longer be possible to drive a brand-new car faster than 80 mph in California," writes Car and Driver:
-
-That's because state senator Scott Wiener ear
+Here are some hints to help you win Wordle #955.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/29/0356203/california-bill-wants-to-mandate-electronic-speed-limiters-in-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 
-## [Techcrunch] Arc’s new iPhone browser wants to be your search companion
-Link: [Click](https://techcrunch.com/2024/01/28/arcs-new-iphone-browser-wants-to-be-your-search-companion/)
+## [Lifehacker] You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now
+Link: [Click](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 
-## [Techcrunch] Y Combinator President Garry Tan publishes a menacing tweet before deleting it, apologizing: “Die slow motherf*ckers”
-Link: [Click](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
+## [Ycombinator] Researchers have found a faster way to do integer linear programming
+Link: [Click](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 
-## [Techcrunch] India’s Uber-rival BluSmart pumps up EV charging with $25M investment
-Link: [Click](https://techcrunch.com/2024/01/28/blusmart-ev-charging-funding/)
+## [Ycombinator] Pub400.com – Your public IBM I 7.5 server
+Link: [Click](https://pub400.com/)
 
-## [Techcrunch] Indian state government fixes website bugs that exposed residents’ sensitive documents
-Link: [Click](https://techcrunch.com/2024/01/28/india-rajasthan-government-jan-aadhaar-bug-fix/)
+## [Ycombinator] Everyone hates the electronic medical record
+Link: [Click](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 
-## [Theregister] ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/icann_internal_tld/)
+## [Ycombinator] Boeing withdraws bid for safety exemption for Boeing 737 MAX 7
+Link: [Click](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 
-## [Theregister] Eyeing China, US may require clouds to report when foreign actors rent kit to build AI models
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/us_raimondo_ai_cloud_kyc/)
+## [Ycombinator] Protecting Secrets from Computers (2023)
+Link: [Click](https://dl.acm.org/doi/10.1145/3623614)
 
-## [Theregister] Tencent explores a future where HPC, quantum, cloud and edge have converged
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/tencent_huawei_tech_predictions/)
+## [Ycombinator] Patients say keto helps with mental illness. Science is racing to understand why
+Link: [Click](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
 
-## [Theregister] Linus Torvalds flames Google kernel contributor over filesystem suggestion
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/linux_6_8_rc2/)
+## [Ycombinator] Periodontal Disease Promotes Alzheimer's in Mice
+Link: [Click](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
 
-## [Theregister] Tesla hacks make big bank at Pwn2Own's first automotive-focused event
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/29/infosec_news_roundup_in_brief/)
+## [Ycombinator] Show HN: TLD Squatting
+Link: [Click](https://captnemo.in/tld-squatting/)
 
-## [Theverge] Arc Search combines browser, search engine, and AI into something new and different
-Link: [Click](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
+## [Ycombinator] Dracula Theme for Hacker News
+Link: [Click](https://draculatheme.com/hacker-news)
+
+## [Slashdot] Neuralink Implants Brain Chip In First Human
+```
+According to Neuralink founder Elon Musk, the first human received an implant from the brain-chip startup on Sunday and is recovering well. "Initial results show promising neuron spike detection," Mus
+```
+
+Link: [Click](https://science.slashdot.org/story/24/01/30/005213/neuralink-implants-brain-chip-in-first-human?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] Amid Recall Crisis, Philips Agrees To Stop Selling Sleep Apnea Machines In the United States
+```
+An anonymous reader quotes a report from ProPublica: Reeling from one of the most catastrophic recalls in decades, Philips Respironics said it will stop selling sleep apnea machines and other respirat
+```
+
+Link: [Click](https://science.slashdot.org/story/24/01/29/2319223/amid-recall-crisis-philips-agrees-to-stop-selling-sleep-apnea-machines-in-the-united-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] UK To Ban Disposable Vapes
+```
+In an announcement earlier today, Prime Minister Rishi Sunak said single-use vapes will be banned in Britain, with certain flavors restricted and regulations put in place around their packaging and di
+```
+
+Link: [Click](https://news.slashdot.org/story/24/01/29/2325232/uk-to-ban-disposable-vapes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] After 32 Years, One of the Net's Oldest Software Archives Is Shutting Down
+```
+Benj Edwards reports via Ars Technica: In a move that marks the end of an era, New Mexico State University (NMSU) recently announced the impending closure of its Hobbes OS/2 Archive on April 15, 2024.
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/29/2310242/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] NYC Wants To Create a First-of-Its Kind Department To Regulate App Based Delivery
+```
+With the increasing adoption of e-bikes and drones for efficient, eco-friendly delivery services, New York is proposing the Department of Sustainable Delivery to regulate these services, focusing on s
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/29/2239211/nyc-wants-to-create-a-first-of-its-kind-department-to-regulate-app-based-delivery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Slashdot] GPS Interference Now a Major Flight Safety Concern For Airline Industry
+```
+An anonymous reader quotes a report from The Register: Europe's aviation safety body is working with the airline industry to counter a danger posed by interference with GPS signals -- now seen as a gr
+```
+
+Link: [Click](https://tech.slashdot.org/story/24/01/29/2227216/gps-interference-now-a-major-flight-safety-concern-for-airline-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Fidelity cuts Meta-backed Meesho valuation to $3.5 billion
+Link: [Click](https://techcrunch.com/2024/01/29/fidelity-cuts-india-meesho-valuation-to-3-5-billion/)
+
+## [Techcrunch] Startup studio Hexa hires former Doctolib exec to launch its health vertical
+Link: [Click](https://techcrunch.com/2024/01/29/startup-studio-hexa-hires-former-doctolib-exec-to-launch-its-health-vertical/)
+
+## [Theregister] It took Taylor Swift deepfake nudes to focus Uncle Sam, Microsoft on AI safety
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/nudes_taylor_swift_action/)
+
+## [Theregister] Elon Musk's brain-computer interface outfit Neuralink tests its tech on a human
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/neuralink_first_human_trial/)
+
+## [Theregister] Square Kilometre Array prototype 'scope achieves first light
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/ska_skampi_first_light/)
+
+## [Theregister] Microsoft signals expansion of APAC datacenter fleet with 'land acquisition' hire
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_plans_apac_land_grab/)
+
+## [Theregister] Microsoft's vision for the future of work is you trusting Redmond to get AI right
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_openai_report/)
+
+## [Theverge] MSI confirms the Claw will have a 48-120Hz VRR screen
+Link: [Click](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
