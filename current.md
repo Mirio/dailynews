@@ -1,109 +1,137 @@
-## [Arstechnica] ChatGPT is leaking passwords from private conversations of its users, Ars reader says
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, January 31, 2024
 ```
-Names of unpublished research papers, presentations, and PHP scripts also leaked.
-```
-
-Link: [Click](https://arstechnica.com/?p=1999872)
-
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Tuesday, January 30, 2024
-```
-Here are some hints to help you win Wordle #955.
+Here are some hints to help you win Wordle #956.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 
-## [Lifehacker] You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now
-Link: [Click](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-
-## [Ycombinator] Researchers have found a faster way to do integer linear programming
-Link: [Click](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-
-## [Ycombinator] Pub400.com – Your public IBM I 7.5 server
-Link: [Click](https://pub400.com/)
-
-## [Ycombinator] Everyone hates the electronic medical record
-Link: [Click](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
-
-## [Ycombinator] Boeing withdraws bid for safety exemption for Boeing 737 MAX 7
-Link: [Click](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
-
-## [Ycombinator] Protecting Secrets from Computers (2023)
-Link: [Click](https://dl.acm.org/doi/10.1145/3623614)
-
-## [Ycombinator] Patients say keto helps with mental illness. Science is racing to understand why
-Link: [Click](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
-
-## [Ycombinator] Periodontal Disease Promotes Alzheimer's in Mice
-Link: [Click](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
-
-## [Ycombinator] Show HN: TLD Squatting
-Link: [Click](https://captnemo.in/tld-squatting/)
-
-## [Ycombinator] Dracula Theme for Hacker News
-Link: [Click](https://draculatheme.com/hacker-news)
-
-## [Slashdot] Neuralink Implants Brain Chip In First Human
+## [Lifehacker] Your Air Fryer Isn't a Toaster
 ```
-According to Neuralink founder Elon Musk, the first human received an implant from the brain-chip startup on Sunday and is recovering well. "Initial results show promising neuron spike detection," Mus
+You shouldn't toast bread in the air fryer, unless you like it dry and cracker-like.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/01/30/005213/neuralink-implants-brain-chip-in-first-human?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 
-## [Slashdot] Amid Recall Crisis, Philips Agrees To Stop Selling Sleep Apnea Machines In the United States
+## [Lifehacker] The iPad Air is $150 Off at Best Buy Right Now
 ```
-An anonymous reader quotes a report from ProPublica: Reeling from one of the most catastrophic recalls in decades, Philips Respironics said it will stop selling sleep apnea machines and other respirat
-```
-
-Link: [Click](https://science.slashdot.org/story/24/01/29/2319223/amid-recall-crisis-philips-agrees-to-stop-selling-sleep-apnea-machines-in-the-united-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] UK To Ban Disposable Vapes
-```
-In an announcement earlier today, Prime Minister Rishi Sunak said single-use vapes will be banned in Britain, with certain flavors restricted and regulations put in place around their packaging and di
+Like an iPad pro, but much cheaper.
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/29/2325232/uk-to-ban-disposable-vapes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 
-## [Slashdot] After 32 Years, One of the Net's Oldest Software Archives Is Shutting Down
+## [Ycombinator] XFaaS: Hyperscale and Low Cost Serverless Functions at Meta
+Link: [Click](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
+
+## [Ycombinator] Epitaph – Fermi Paradox Simulator
+Link: [Click](https://mkremins.github.io/epitaph/)
+
+## [Ycombinator] HTTP Area Codes
+Link: [Click](https://dougsillars.github.io/httpareacodes/)
+
+## [Ycombinator] Why Custom GPTs are better than plugins
+Link: [Click](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
+
+## [Ycombinator] Satellites Are Becoming the New Cellphone Towers
+Link: [Click](https://spectrum.ieee.org/satellite-cellphone-starlink)
+
+## [Ycombinator] Google search drops cache link from search results
+Link: [Click](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
+
+## [Ycombinator] Getting fitter can reduce prostate cancer risk by 35%, study finds
+Link: [Click](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
+
+## [Slashdot] Dell Terminates Distribution Deal With VMware After Broadcom Acquisition
 ```
-Benj Edwards reports via Ars Technica: In a move that marks the end of an era, New Mexico State University (NMSU) recently announced the impending closure of its Hobbes OS/2 Archive on April 15, 2024.
+In a regulatory filing today, Dell revealed that it has terminated its distribution deal for VMware products. The deal was made in November 2021 before VMware was acquired by Broadcom. The Register re
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/29/2310242/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://tech.slashdot.org/story/24/01/31/0638229/dell-terminates-distribution-deal-with-vmware-after-broadcom-acquisition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] NYC Wants To Create a First-of-Its Kind Department To Regulate App Based Delivery
+## [Slashdot] First Lab-Grown Eel Meat Revealed
 ```
-With the increasing adoption of e-bikes and drones for efficient, eco-friendly delivery services, New York is proposing the Department of Sustainable Delivery to regulate these services, focusing on s
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/29/2239211/nyc-wants-to-create-a-first-of-its-kind-department-to-regulate-app-based-delivery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] GPS Interference Now a Major Flight Safety Concern For Airline Industry
-```
-An anonymous reader quotes a report from The Register: Europe's aviation safety body is working with the airline industry to counter a danger posed by interference with GPS signals -- now seen as a gr
+An anonymous reader quotes a report from The Guardian: The first lab-grown freshwater eel meat has been produced, potentially solving a diner's dilemma. Rampant overfishing has caused eel populations 
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/29/2227216/gps-interference-now-a-major-flight-safety-concern-for-airline-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/01/31/0020255/first-lab-grown-eel-meat-revealed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Fidelity cuts Meta-backed Meesho valuation to $3.5 billion
-Link: [Click](https://techcrunch.com/2024/01/29/fidelity-cuts-india-meesho-valuation-to-3-5-billion/)
+## [Slashdot] Microsoft AI Engineer Says Company Thwarted Attempt To Expose DALL-E 3 Safety Problems
+```
+Todd Bishop reports via GeekWire: A Microsoft AI engineering leader says he discovered vulnerabilities in OpenAI's DALL-E 3 image generator in early December allowing users to bypass safety guardrails
+```
 
-## [Techcrunch] Startup studio Hexa hires former Doctolib exec to launch its health vertical
-Link: [Click](https://techcrunch.com/2024/01/29/startup-studio-hexa-hires-former-doctolib-exec-to-launch-its-health-vertical/)
+Link: [Click](https://slashdot.org/story/24/01/30/2338251/microsoft-ai-engineer-says-company-thwarted-attempt-to-expose-dall-e-3-safety-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] It took Taylor Swift deepfake nudes to focus Uncle Sam, Microsoft on AI safety
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/nudes_taylor_swift_action/)
+## [Slashdot] YouTube TV's Now Lets You Customize Your Multiview Experiences
+```
+Google has confirmed to Cord Cutters News that you can now customize what games you can watch in your Multiview window. The keyword here is "games" because this feature is still limited to just sporti
+```
 
-## [Theregister] Elon Musk's brain-computer interface outfit Neuralink tests its tech on a human
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/neuralink_first_human_trial/)
+Link: [Click](https://news.slashdot.org/story/24/01/31/0015252/youtube-tvs-now-lets-you-customize-your-multiview-experiences?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Square Kilometre Array prototype 'scope achieves first light
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/ska_skampi_first_light/)
+## [Slashdot] Microsoft's Gaming Revenue Is Up 49 Percent In Q2, Mostly Thanks To the Activision Deal
+```
+For the first time, Microsoft's Q2 earnings report includes the impact of the company's $68.7 billion Activision Blizzard acquisition. "While Microsoft isn't breaking out specific numbers, it says tha
+```
 
-## [Theregister] Microsoft signals expansion of APAC datacenter fleet with 'land acquisition' hire
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_plans_apac_land_grab/)
+Link: [Click](https://slashdot.org/story/24/01/30/2333211/microsofts-gaming-revenue-is-up-49-percent-in-q2-mostly-thanks-to-the-activision-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Microsoft's vision for the future of work is you trusting Redmond to get AI right
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_openai_report/)
+## [Slashdot] German Police Secure $2 Billion In Bitcoin From Pirate Site Operators
+```
+An anonymous reader quotes a report from TorrentFreak: With help from the FBI, German police managed to secure nearly 50,000 bitcoin (USD $2 billion) from the operators of the defunct movie streaming 
+```
 
-## [Theverge] MSI confirms the Claw will have a 48-120Hz VRR screen
-Link: [Click](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
+Link: [Click](https://yro.slashdot.org/story/24/01/30/2318257/german-police-secure-2-billion-in-bitcoin-from-pirate-site-operators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Sundar Pichai says Google One cloud storage service has nearly 100M subscribers
+Link: [Click](https://techcrunch.com/2024/01/30/sundar-pichai-says-google-one-cloud-storage-service-has-nearly-100m-subscribers/)
+
+## [Techcrunch] Accel eyes new India fashion e-commerce bet with Newme
+Link: [Click](https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/)
+
+## [Techcrunch] Wattpad, a storytelling platform, conducts another layoff round
+Link: [Click](https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/)
+
+## [Techcrunch] Elon Musk’s $56B Tesla pay deal is unfair, judge rules
+Link: [Click](https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/)
+
+## [Techcrunch] Ofcom report finds 1 in 5 harmful content search results were ‘one-click gateways’ to more toxicity
+Link: [Click](https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/)
+
+## [Techcrunch] Universal Music Group plans to pull song catalog from TikTok
+Link: [Click](https://techcrunch.com/2024/01/30/universal-music-group-plans-to-pull-song-catalog-from-tiktok/)
+
+## [Theregister] OpenAI's GPT-4 finally meets its match: Scots Gaelic smashes safety guardrails
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/gpt4_gaelic_safety/)
+
+## [Theregister] Crunchbang++ versus Bunsen Labs: the pair turn it up to 12
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/crunchbang_versus_bunsen_labs/)
+
+## [Theregister] China puts homegrown GPUs and other AI infrastucture on its national to-do list
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/china_homegrown_ai_infrastucture/)
+
+## [Theregister] Universal Music accuses TikTok of 'intimidation' and threats to replace humans with AI
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/universal_music_toktok_beef/)
+
+## [Theregister] Oracle is hiring two new teams to build its cloud faster and stronger
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/oracle_creates_infrastructure_delivery_engineering_team/)
+
+## [Theregister] Alphabet just banked $3.0 billion by stretching the life of its servers
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/alphabet_q4_2023/)
+
+## [Theregister] AMD bets demand for its MI300 accelerator will balance dips across other product lines
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/amd_q4_2023/)
+
+## [Theregister] Dell kills sweetheart distribution deal with Broadcom's VMware
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/dell_terminates_vmware_distribution_agreement/)
+
+## [Theregister] The literal Rolls-Royce of EVs is recalled over fire risk
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/rolls_royce_spectre_ev/)
+
+## [Theregister] Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+
+## [Theregister] SAP dangles juicy carrot to pull users on board with cloud-first vision
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/sap_cloud_incentives/)
+
+## [Theverge] Lawmakers propose anti-nonconsensual AI porn bill after Taylor Swift controversy
+Link: [Click](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn)
