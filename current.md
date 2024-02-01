@@ -1,137 +1,136 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Wednesday, January 31, 2024
+## [Arstechnica] Biogen dumps dubious Alzheimer’s drug after profit-killing FDA scandal
 ```
-Here are some hints to help you win Wordle #956.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
-
-## [Lifehacker] Your Air Fryer Isn't a Toaster
-```
-You shouldn't toast bread in the air fryer, unless you like it dry and cracker-like.
+The move ends a long saga that "ended up doing a lot of actual damage."
 ```
 
-Link: [Click](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
+Link: [Click](https://arstechnica.com/?p=2000435)
 
-## [Lifehacker] The iPad Air is $150 Off at Best Buy Right Now
+## [Lifehacker] The Latest M2 MacBook Air Is $300 Off Right Now
 ```
-Like an iPad pro, but much cheaper.
-```
-
-Link: [Click](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
-
-## [Ycombinator] XFaaS: Hyperscale and Low Cost Serverless Functions at Meta
-Link: [Click](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
-
-## [Ycombinator] Epitaph – Fermi Paradox Simulator
-Link: [Click](https://mkremins.github.io/epitaph/)
-
-## [Ycombinator] HTTP Area Codes
-Link: [Click](https://dougsillars.github.io/httpareacodes/)
-
-## [Ycombinator] Why Custom GPTs are better than plugins
-Link: [Click](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
-
-## [Ycombinator] Satellites Are Becoming the New Cellphone Towers
-Link: [Click](https://spectrum.ieee.org/satellite-cellphone-starlink)
-
-## [Ycombinator] Google search drops cache link from search results
-Link: [Click](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
-
-## [Ycombinator] Getting fitter can reduce prostate cancer risk by 35%, study finds
-Link: [Click](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
-
-## [Slashdot] Dell Terminates Distribution Deal With VMware After Broadcom Acquisition
-```
-In a regulatory filing today, Dell revealed that it has terminated its distribution deal for VMware products. The deal was made in November 2021 before VMware was acquired by Broadcom. The Register re
+Apple's ultraportable 15-inch laptop has dropped to its lowest price yet, even beating Black Friday deals.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/31/0638229/dell-terminates-distribution-deal-with-vmware-after-broadcom-acquisition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 
-## [Slashdot] First Lab-Grown Eel Meat Revealed
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, February 1, 2024
 ```
-An anonymous reader quotes a report from The Guardian: The first lab-grown freshwater eel meat has been produced, potentially solving a diner's dilemma. Rampant overfishing has caused eel populations 
-```
-
-Link: [Click](https://science.slashdot.org/story/24/01/31/0020255/first-lab-grown-eel-meat-revealed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Microsoft AI Engineer Says Company Thwarted Attempt To Expose DALL-E 3 Safety Problems
-```
-Todd Bishop reports via GeekWire: A Microsoft AI engineering leader says he discovered vulnerabilities in OpenAI's DALL-E 3 image generator in early December allowing users to bypass safety guardrails
+Here are some hints to help you win Wordle #957.
 ```
 
-Link: [Click](https://slashdot.org/story/24/01/30/2338251/microsoft-ai-engineer-says-company-thwarted-attempt-to-expose-dall-e-3-safety-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 
-## [Slashdot] YouTube TV's Now Lets You Customize Your Multiview Experiences
+## [Lifehacker] How to Craft a Better Resume, According to a LinkedIn Career Expert
 ```
-Google has confirmed to Cord Cutters News that you can now customize what games you can watch in your Multiview window. The keyword here is "games" because this feature is still limited to just sporti
-```
-
-Link: [Click](https://news.slashdot.org/story/24/01/31/0015252/youtube-tvs-now-lets-you-customize-your-multiview-experiences?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Microsoft's Gaming Revenue Is Up 49 Percent In Q2, Mostly Thanks To the Activision Deal
-```
-For the first time, Microsoft's Q2 earnings report includes the impact of the company's $68.7 billion Activision Blizzard acquisition. "While Microsoft isn't breaking out specific numbers, it says tha
+Here's what hiring managers are looking for in your resume right now.
 ```
 
-Link: [Click](https://slashdot.org/story/24/01/30/2333211/microsofts-gaming-revenue-is-up-49-percent-in-q2-mostly-thanks-to-the-activision-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/work/how-to-make-a-better-resume)
 
-## [Slashdot] German Police Secure $2 Billion In Bitcoin From Pirate Site Operators
+## [Lifehacker] What Is Spatial Audio and How Does It Work?
 ```
-An anonymous reader quotes a report from TorrentFreak: With help from the FBI, German police managed to secure nearly 50,000 bitcoin (USD $2 billion) from the operators of the defunct movie streaming 
+Make your audio more immersive with spatial audio.
 ```
 
-Link: [Click](https://yro.slashdot.org/story/24/01/30/2318257/german-police-secure-2-billion-in-bitcoin-from-pirate-site-operators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
 
-## [Techcrunch] Sundar Pichai says Google One cloud storage service has nearly 100M subscribers
-Link: [Click](https://techcrunch.com/2024/01/30/sundar-pichai-says-google-one-cloud-storage-service-has-nearly-100m-subscribers/)
+## [Ycombinator] Matryoshka Representation Learning
+Link: [Click](https://arxiv.org/abs/2205.13147)
 
-## [Techcrunch] Accel eyes new India fashion e-commerce bet with Newme
-Link: [Click](https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/)
+## [Ycombinator] PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)
+Link: [Click](https://news.ycombinator.com/item?id=39213421)
 
-## [Techcrunch] Wattpad, a storytelling platform, conducts another layoff round
-Link: [Click](https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/)
+## [Ycombinator] Pivotal Mental States
+Link: [Click](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 
-## [Techcrunch] Elon Musk’s $56B Tesla pay deal is unfair, judge rules
-Link: [Click](https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/)
+## [Ycombinator] Show HN: Lockbox: forward proxy for making third party API calls
+Link: [Click](https://github.com/mkjt2/lockbox)
 
-## [Techcrunch] Ofcom report finds 1 in 5 harmful content search results were ‘one-click gateways’ to more toxicity
-Link: [Click](https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/)
+## [Ycombinator] Marlon Brando Was a Secret Tech Geek and Photoshop Ace
+Link: [Click](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
 
-## [Techcrunch] Universal Music Group plans to pull song catalog from TikTok
-Link: [Click](https://techcrunch.com/2024/01/30/universal-music-group-plans-to-pull-song-catalog-from-tiktok/)
+## [Ycombinator] Gnuplotlib: Non-Painful Plotting for NumPy
+Link: [Click](https://github.com/dkogan/gnuplotlib)
 
-## [Theregister] OpenAI's GPT-4 finally meets its match: Scots Gaelic smashes safety guardrails
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/gpt4_gaelic_safety/)
+## [Ycombinator] EU chip goal 'unrealistic' says ASML CEO
+Link: [Click](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 
-## [Theregister] Crunchbang++ versus Bunsen Labs: the pair turn it up to 12
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/crunchbang_versus_bunsen_labs/)
+## [Slashdot] SpaceX's Starship To Launch 'Starlab' Private Space Station In Late 2020s
+```
+SpaceX's Starship rocket has been selected by Starlab to launch its private space station into orbit. "SpaceX's history of success and reliability led our team to select Starship to orbit Starlab," Dy
+```
 
-## [Theregister] China puts homegrown GPUs and other AI infrastucture on its national to-do list
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/china_homegrown_ai_infrastucture/)
+Link: [Click](https://slashdot.org/story/24/02/01/0224246/spacexs-starship-to-launch-starlab-private-space-station-in-late-2020s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Universal Music accuses TikTok of 'intimidation' and threats to replace humans with AI
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/universal_music_toktok_beef/)
+## [Slashdot] Fiber Optics Bring You Internet. Now They're Also Listening To Trains
+```
+An anonymous reader quotes a report from Wired: Stretching thousands upon thousands of miles under your feet, a web of fibrous ears is listening. Whether you walk over buried fiber optics or drive a c
+```
 
-## [Theregister] Oracle is hiring two new teams to build its cloud faster and stronger
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/oracle_creates_infrastructure_delivery_engineering_team/)
+Link: [Click](https://tech.slashdot.org/story/24/01/31/2226259/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Alphabet just banked $3.0 billion by stretching the life of its servers
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/alphabet_q4_2023/)
+## [Slashdot] Investors Threw 50% Less Money At Quantum Last Year
+```
+Dan Robinson reports via The Register: Quantum companies received 50 percent less venture cap funding last year as investors switched to generative AI or shied away from risky bets on Silicon Valley s
+```
 
-## [Theregister] AMD bets demand for its MI300 accelerator will balance dips across other product lines
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/amd_q4_2023/)
+Link: [Click](https://tech.slashdot.org/story/24/01/31/2331236/investors-threw-50-less-money-at-quantum-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Dell kills sweetheart distribution deal with Broadcom's VMware
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/dell_terminates_vmware_distribution_agreement/)
+## [Slashdot] FBI Director Warns Chinese Hackers Aim To 'Wreak Havoc' On US Critical Infrastructure
+```
+"China's hackers are positioning on American infrastructure in preparation to wreak havoc and cause real-world harm to American citizens and communities, if or when China decides the time has come to 
+```
 
-## [Theregister] The literal Rolls-Royce of EVs is recalled over fire risk
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/rolls_royce_spectre_ev/)
+Link: [Click](https://yro.slashdot.org/story/24/01/31/227237/fbi-director-warns-chinese-hackers-aim-to-wreak-havoc-on-us-critical-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+## [Slashdot] Key Rugged Phone Manufacturer Shuts Down
+```
+Jess Weatherbed reports via The Verge: Bullitt Group, the UK-based smartphone manufacturer behind the rugged handsets of Cat, Land Rover, and Motorola, has seemingly shut down. On Monday, Mobile World
+```
 
-## [Theregister] SAP dangles juicy carrot to pull users on board with cloud-first vision
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/30/sap_cloud_incentives/)
+Link: [Click](https://hardware.slashdot.org/story/24/01/31/2157231/key-rugged-phone-manufacturer-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theverge] Lawmakers propose anti-nonconsensual AI porn bill after Taylor Swift controversy
-Link: [Click](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn)
+## [Slashdot] Mistral Confirms New Open Source AI Model Nearing GPT-4 Performance
+```
+An anonymous reader quotes a report from VentureBeat: The past few days have been a wild ride for the growing open source AI community -- even by its fast-moving and freewheeling standards. Here's the
+```
+
+Link: [Click](https://news.slashdot.org/story/24/01/31/2145205/mistral-confirms-new-open-source-ai-model-nearing-gpt-4-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## [Techcrunch] Three San Francisco supervisors receive threats following YC President Garry Tan’s tweet
+Link: [Click](https://techcrunch.com/2024/01/31/san-francisco-supervisors-threats-yc-garry-tans-tweet/)
+
+## [Techcrunch] India weighs additional penalties on Paytm, including revoking payments bank license
+Link: [Click](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
+
+## [Techcrunch] Reliance-backed Viacom18 agrees to buy 60% of Disney’s India unit, report says
+Link: [Click](https://techcrunch.com/2024/01/31/reliance-backed-viacom18-agrees-to-buy-60-of-disney-india-unit-report-says/)
+
+## [Techcrunch] Paytm to terminate business with Paytm Payments Bank after central bank’s clampdown
+Link: [Click](https://techcrunch.com/2024/01/31/paytm-to-terminate-business-with-paytm-payments-bank-after-central-bank-clampdown/)
+
+## [Techcrunch] Tesla sued for allegedly mishandling hazardous waste in California for years
+Link: [Click](https://techcrunch.com/2024/01/31/tesla-hazardous-waste-lawsuit-california-counties/)
+
+## [Theregister] Brit watchdog thinks Google's tweaked Privacy Sandbox still isn't cricket
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/google_privacy_sandbox_concerns_remain/)
+
+## [Theregister] Qualcomm signals its PC push will coincide with back to school sales and be tied to a Windows launch
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/qualcomm_q1_2024/)
+
+## [Theregister] Singtel does the 'we’re building datacenters to host Nvidia clusters’ thing
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/singtel_inks_nvidia_deal_to/)
+
+## [Theregister] Indian PM's advisors suggest AI might lead to 'mass schizophrenia'
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/indian_pms_ai_advice/)
+
+## [Theregister] Congress told how Chinese attackers plan to incite 'societal chaos' in the US
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/china_attack_warning/)
+
+## [Theregister] Cloud Software Group effectively snuffs open source XenCenter via a README file
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/xencenter_foss_snuffed/)
+
+## [Theverge] Google inks major new offshore wind deal
+Link: [Click](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)
+
+## [Theverge] Hulu is cracking down on password sharing, just like Disney Plus and Netflix
+Link: [Click](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
