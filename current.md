@@ -1,136 +1,130 @@
-## [Arstechnica] Biogen dumps dubious Alzheimer’s drug after profit-killing FDA scandal
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, February 2, 2024
 ```
-The move ends a long saga that "ended up doing a lot of actual damage."
-```
-
-Link: [Click](https://arstechnica.com/?p=2000435)
-
-## [Lifehacker] The Latest M2 MacBook Air Is $300 Off Right Now
-```
-Apple's ultraportable 15-inch laptop has dropped to its lowest price yet, even beating Black Friday deals.
+Here are some hints to help you win Wordle #958.
 ```
 
-Link: [Click](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Thursday, February 1, 2024
+## [Lifehacker] Every Movie Nominated for the 2024 Oscars (and Where to Watch Them)
 ```
-Here are some hints to help you win Wordle #957.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
-
-## [Lifehacker] How to Craft a Better Resume, According to a LinkedIn Career Expert
-```
-Here's what hiring managers are looking for in your resume right now.
+Prepare for Hollywood's big night by streaming or renting everything you can before the ceremony on March 10.
 ```
 
-Link: [Click](https://lifehacker.com/work/how-to-make-a-better-resume)
+Link: [Click](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 
-## [Lifehacker] What Is Spatial Audio and How Does It Work?
+## [Lifehacker] How to Unclog a Kitchen Sink Without Calling a Plumber
 ```
-Make your audio more immersive with spatial audio.
-```
-
-Link: [Click](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
-
-## [Ycombinator] Matryoshka Representation Learning
-Link: [Click](https://arxiv.org/abs/2205.13147)
-
-## [Ycombinator] PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)
-Link: [Click](https://news.ycombinator.com/item?id=39213421)
-
-## [Ycombinator] Pivotal Mental States
-Link: [Click](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
-
-## [Ycombinator] Show HN: Lockbox: forward proxy for making third party API calls
-Link: [Click](https://github.com/mkjt2/lockbox)
-
-## [Ycombinator] Marlon Brando Was a Secret Tech Geek and Photoshop Ace
-Link: [Click](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
-
-## [Ycombinator] Gnuplotlib: Non-Painful Plotting for NumPy
-Link: [Click](https://github.com/dkogan/gnuplotlib)
-
-## [Ycombinator] EU chip goal 'unrealistic' says ASML CEO
-Link: [Click](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
-
-## [Slashdot] SpaceX's Starship To Launch 'Starlab' Private Space Station In Late 2020s
-```
-SpaceX's Starship rocket has been selected by Starlab to launch its private space station into orbit. "SpaceX's history of success and reliability led our team to select Starship to orbit Starlab," Dy
+You'll need a few tools, but they cost less than a pro.
 ```
 
-Link: [Click](https://slashdot.org/story/24/02/01/0224246/spacexs-starship-to-launch-starlab-private-space-station-in-late-2020s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
 
-## [Slashdot] Fiber Optics Bring You Internet. Now They're Also Listening To Trains
+## [Lifehacker] These Headphones, Speakers, and Soundbars Are up to 80% Off
 ```
-An anonymous reader quotes a report from Wired: Stretching thousands upon thousands of miles under your feet, a web of fibrous ears is listening. Whether you walk over buried fiber optics or drive a c
-```
-
-Link: [Click](https://tech.slashdot.org/story/24/01/31/2226259/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Investors Threw 50% Less Money At Quantum Last Year
-```
-Dan Robinson reports via The Register: Quantum companies received 50 percent less venture cap funding last year as investors switched to generative AI or shied away from risky bets on Silicon Valley s
+Huge discounts on Samsung, Beats, JVC, Sennheiser, Skullcandy and more.
 ```
 
-Link: [Click](https://tech.slashdot.org/story/24/01/31/2331236/investors-threw-50-less-money-at-quantum-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/tech/woot-audio-sale)
 
-## [Slashdot] FBI Director Warns Chinese Hackers Aim To 'Wreak Havoc' On US Critical Infrastructure
+## [Ycombinator] Juno – A YouTube Client for Vision Pro
+Link: [Click](https://christianselig.com/2024/02/introducing-juno/)
+
+## [Ycombinator] The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware
+Link: [Click](https://theretroweb.com/)
+
+## [Ycombinator] OLMo: Accelerating the Science of Language Models [pdf]
+Link: [Click](https://allenai.org/olmo/olmo-paper.pdf)
+
+## [Ycombinator] Bloop (YC S21) is hiring Rust engineers interested in compilers, in London
+Link: [Click](https://bloop.jobs.personio.com/job/1410410)
+
+## [Ycombinator] USB-C power for your Amiga 500, 600 and 1200
+Link: [Click](https://retrousbpower.com)
+
+## [Ycombinator] FDA says 561 deaths tied to recalled Philips sleep apnea machines
+Link: [Click](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
+
+## [Ycombinator] The medieval habit of 'two sleeps'
+Link: [Click](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
+
+## [Ycombinator] 'Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant
+Link: [Click](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
+
+## [Ycombinator] The FCC wants to criminalize AI robocall spam
+Link: [Click](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
+
+## [Slashdot] Ex-CIA Software Engineer Sentenced To 40 Years For Giving Secrets To WikiLeaks
 ```
-"China's hackers are positioning on American infrastructure in preparation to wreak havoc and cause real-world harm to American citizens and communities, if or when China decides the time has come to 
+Joshua Schulte, a former CIA software engineer, was sentenced to 40 years in prison on Thursday for carrying out the largest theft of classified information in the agency's history and possessing chil
 ```
 
-Link: [Click](https://yro.slashdot.org/story/24/01/31/227237/fbi-director-warns-chinese-hackers-aim-to-wreak-havoc-on-us-critical-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://yro.slashdot.org/story/24/02/02/0136233/ex-cia-software-engineer-sentenced-to-40-years-for-giving-secrets-to-wikileaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Slashdot] Key Rugged Phone Manufacturer Shuts Down
+## [Slashdot] Should You Flush With Toilet Lid Up Or Down? Study Says It Doesn't Matter
 ```
-Jess Weatherbed reports via The Verge: Bullitt Group, the UK-based smartphone manufacturer behind the rugged handsets of Cat, Land Rover, and Motorola, has seemingly shut down. On Monday, Mobile World
-```
-
-Link: [Click](https://hardware.slashdot.org/story/24/01/31/2157231/key-rugged-phone-manufacturer-shuts-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] Mistral Confirms New Open Source AI Model Nearing GPT-4 Performance
-```
-An anonymous reader quotes a report from VentureBeat: The past few days have been a wild ride for the growing open source AI community -- even by its fast-moving and freewheeling standards. Here's the
+doc1623 shares a report from Ars Technica: Scientists at the University of Arizona decided to investigate whether closing the toilet lid before flushing reduces cross-contamination of bathroom surface
 ```
 
-Link: [Click](https://news.slashdot.org/story/24/01/31/2145205/mistral-confirms-new-open-source-ai-model-nearing-gpt-4-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://science.slashdot.org/story/24/02/02/0051251/should-you-flush-with-toilet-lid-up-or-down-study-says-it-doesnt-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Three San Francisco supervisors receive threats following YC President Garry Tan’s tweet
-Link: [Click](https://techcrunch.com/2024/01/31/san-francisco-supervisors-threats-yc-garry-tans-tweet/)
+## [Slashdot] A Shape-Shifting Plastic With a Flexible Future
+```
+New submitter Smonster shares a report from the New York Times: With restrictions on space and weight, what would you bring if you were going to Mars? An ideal option might be a single material that c
+```
 
-## [Techcrunch] India weighs additional penalties on Paytm, including revoking payments bank license
-Link: [Click](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
+Link: [Click](https://science.slashdot.org/story/24/02/02/0038244/a-shape-shifting-plastic-with-a-flexible-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Reliance-backed Viacom18 agrees to buy 60% of Disney’s India unit, report says
-Link: [Click](https://techcrunch.com/2024/01/31/reliance-backed-viacom18-agrees-to-buy-60-of-disney-india-unit-report-says/)
+## [Slashdot] Avatar VFX Workers Vote To Unionize
+```
+Visual effects artists working on James Cameron's Avatar movies have voted to unionize in a National Labor Relations Board (NLRB) election. From the Hollywood Reporter: Of an eligible 88 workers at Wa
+```
 
-## [Techcrunch] Paytm to terminate business with Paytm Payments Bank after central bank’s clampdown
-Link: [Click](https://techcrunch.com/2024/01/31/paytm-to-terminate-business-with-paytm-payments-bank-after-central-bank-clampdown/)
+Link: [Click](https://entertainment.slashdot.org/story/24/02/01/2218224/avatar-vfx-workers-vote-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Tesla sued for allegedly mishandling hazardous waste in California for years
-Link: [Click](https://techcrunch.com/2024/01/31/tesla-hazardous-waste-lawsuit-california-counties/)
+## [Techcrunch] YouTube is not building a Vision Pro app, so Apollo for Reddit dev made one
+Link: [Click](https://techcrunch.com/2024/02/01/youtube-is-not-building-a-vision-pro-app-so-apollo-for-reddit-dev-made-one/)
 
-## [Theregister] Brit watchdog thinks Google's tweaked Privacy Sandbox still isn't cricket
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/google_privacy_sandbox_concerns_remain/)
+## [Techcrunch] VCs Elad Gil and Sarah Guo on the risks and rewards of funding AI: “The biggest threat to us in the short run is other people”
+Link: [Click](https://techcrunch.com/2024/02/01/renowned-investors-elad-gil-and-sarah-guo-on-the-risks-and-rewards-of-funding-ai-tech-the-biggest-threat-to-us-in-the-short-run-is-other-people/)
 
-## [Theregister] Qualcomm signals its PC push will coincide with back to school sales and be tied to a Windows launch
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/qualcomm_q1_2024/)
+## [Techcrunch] Apple says EU represents 7% of global App Store revenue
+Link: [Click](https://techcrunch.com/2024/02/01/apple-says-eu-represents-7-of-global-app-store-revenue/)
 
-## [Theregister] Singtel does the 'we’re building datacenters to host Nvidia clusters’ thing
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/singtel_inks_nvidia_deal_to/)
+## [Techcrunch] Indian central bank’s clampdown wipes $2.1 billion off Paytm
+Link: [Click](https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm/)
 
-## [Theregister] Indian PM's advisors suggest AI might lead to 'mass schizophrenia'
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/indian_pms_ai_advice/)
+## [Techcrunch] China’s Xpeng is bringing its Tesla FSD equivalent to overseas owners
+Link: [Click](https://techcrunch.com/2024/02/01/chinas-xpeng-is-bringing-its-tesla-fsd-equivalent-to-overseas-owners/)
 
-## [Theregister] Congress told how Chinese attackers plan to incite 'societal chaos' in the US
+## [Techcrunch] Tesla settles California hazardous waste lawsuit with a $1.5M fine
+Link: [Click](https://techcrunch.com/2024/02/01/tesla-settles-california-hazardous-waste-lawsuit-with-a-1-5-million-fine/)
+
+## [Techcrunch] UK government urged to adopt more positive outlook for LLMs to avoid missing ‘AI goldrush’
+Link: [Click](https://techcrunch.com/2024/02/01/uk-ai-llms-house-of-lords-report/)
+
+## [Theregister] Mozilla slams Microsoft for using dark patterns to drive Windows users toward Edge
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/mozilla_slams_microsoft_dark_patterns/)
+
+## [Theregister] Amazon extends the life of its servers to six years, expects $900m benefit in 90 days
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/amazon_q4_2023/)
+
+## [Theregister] Wikileaks source and former CIA worker Joshua Schulte sentenced to 40 years jail
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/vault_7_wikileaks_leaker_joshua/)
+
+## [Theregister] The FCC wants to criminalize AI robocall spam
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/fcc_ai_robocall/)
+
+## [Theregister] Cloudflare sheds more light on Thanksgiving security breach in which tokens, source code accessed by suspected spies
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/cloudflare_okta_atlassian/)
+
+## [Theregister] Congress told how Chinese goons plan to incite 'societal chaos' in the US
 Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/china_attack_warning/)
 
-## [Theregister] Cloud Software Group effectively snuffs open source XenCenter via a README file
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/xencenter_foss_snuffed/)
+## [Theregister] DeepMind AI helps cook up 'novel' compounds – with sides of controversy
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/ai_chemistry_research_disputed/)
 
-## [Theverge] Google inks major new offshore wind deal
-Link: [Click](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)
+## [Theregister] Microsoft posts another set of bumper results. Market's response? Meh
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/microsoft_results/)
 
-## [Theverge] Hulu is cracking down on password sharing, just like Disney Plus and Netflix
-Link: [Click](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
+## [Theverge] Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU
+Link: [Click](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
