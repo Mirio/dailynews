@@ -1,130 +1,90 @@
-## [Lifehacker] Today’s Wordle Hints (and Answer) for Friday, February 2, 2024
+## [Lifehacker] Today’s Wordle Hints (and Answer) for Saturday, February 3, 2024
 ```
-Here are some hints to help you win Wordle #958.
-```
-
-Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
-
-## [Lifehacker] Every Movie Nominated for the 2024 Oscars (and Where to Watch Them)
-```
-Prepare for Hollywood's big night by streaming or renting everything you can before the ceremony on March 10.
+Here are some hints to help you win Wordle #959.
 ```
 
-Link: [Click](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
+Link: [Click](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 
-## [Lifehacker] How to Unclog a Kitchen Sink Without Calling a Plumber
+## [Lifehacker] The Best New TV Series to Stream on Hulu This Week
 ```
-You'll need a few tools, but they cost less than a pro.
-```
-
-Link: [Click](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
-
-## [Lifehacker] These Headphones, Speakers, and Soundbars Are up to 80% Off
-```
-Huge discounts on Samsung, Beats, JVC, Sennheiser, Skullcandy and more.
+If you're looking for a new show on Hulu, give these a spin.
 ```
 
-Link: [Click](https://lifehacker.com/tech/woot-audio-sale)
+Link: [Click](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 
-## [Ycombinator] Juno – A YouTube Client for Vision Pro
-Link: [Click](https://christianselig.com/2024/02/introducing-juno/)
-
-## [Ycombinator] The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware
-Link: [Click](https://theretroweb.com/)
-
-## [Ycombinator] OLMo: Accelerating the Science of Language Models [pdf]
-Link: [Click](https://allenai.org/olmo/olmo-paper.pdf)
-
-## [Ycombinator] Bloop (YC S21) is hiring Rust engineers interested in compilers, in London
-Link: [Click](https://bloop.jobs.personio.com/job/1410410)
-
-## [Ycombinator] USB-C power for your Amiga 500, 600 and 1200
-Link: [Click](https://retrousbpower.com)
-
-## [Ycombinator] FDA says 561 deaths tied to recalled Philips sleep apnea machines
-Link: [Click](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-
-## [Ycombinator] The medieval habit of 'two sleeps'
-Link: [Click](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
-
-## [Ycombinator] 'Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant
-Link: [Click](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
-
-## [Ycombinator] The FCC wants to criminalize AI robocall spam
-Link: [Click](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
-
-## [Slashdot] Ex-CIA Software Engineer Sentenced To 40 Years For Giving Secrets To WikiLeaks
+## [Lifehacker] The Best Movies to Stream on Netflix This Week
 ```
-Joshua Schulte, a former CIA software engineer, was sentenced to 40 years in prison on Thursday for carrying out the largest theft of classified information in the agency's history and possessing chil
+It's time to get under some blankets and watch one (or three) of these excellent movies.
 ```
 
-Link: [Click](https://yro.slashdot.org/story/24/02/02/0136233/ex-cia-software-engineer-sentenced-to-40-years-for-giving-secrets-to-wikileaks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 
-## [Slashdot] Should You Flush With Toilet Lid Up Or Down? Study Says It Doesn't Matter
+## [Lifehacker] A Reminder to Deep Clean Your Toaster
 ```
-doc1623 shares a report from Ars Technica: Scientists at the University of Arizona decided to investigate whether closing the toilet lid before flushing reduces cross-contamination of bathroom surface
-```
-
-Link: [Click](https://science.slashdot.org/story/24/02/02/0051251/should-you-flush-with-toilet-lid-up-or-down-study-says-it-doesnt-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## [Slashdot] A Shape-Shifting Plastic With a Flexible Future
-```
-New submitter Smonster shares a report from the New York Times: With restrictions on space and weight, what would you bring if you were going to Mars? An ideal option might be a single material that c
+You know how to really clean a toaster when you've mastered these steps.
 ```
 
-Link: [Click](https://science.slashdot.org/story/24/02/02/0038244/a-shape-shifting-plastic-with-a-flexible-future?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
 
-## [Slashdot] Avatar VFX Workers Vote To Unionize
+## [Ycombinator] Goodbye Non-Kiss Appliances
+Link: [Click](https://willbush.dev/blog/complex-appliances/)
+
+## [Ycombinator] AT&T applies to end obligation to service landlines in California
+Link: [Click](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
+
+## [Ycombinator] Designer News is dead
+Link: [Click](https://solomon.io/designer-news-is-dead/)
+
+## [Ycombinator] Over the Edge: The Use of Design Tactics to Undermine Browser Choice
+Link: [Click](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
+
+## [Ycombinator] Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]
+Link: [Click](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
+
+## [Slashdot] IEA Lowers Renewables Forecast For Clean Hydrogen
 ```
-Visual effects artists working on James Cameron's Avatar movies have voted to unionize in a National Labor Relations Board (NLRB) election. From the Hollywood Reporter: Of an eligible 88 workers at Wa
+Although hydrogen-dedicated renewable energy capacity is expected to increase by 45 GW between 2022 and 2028, the estimates are 35% lower than what the International Energy Agency (IEA) forecasted a y
 ```
 
-Link: [Click](https://entertainment.slashdot.org/story/24/02/01/2218224/avatar-vfx-workers-vote-to-unionize?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+Link: [Click](https://hardware.slashdot.org/story/24/02/03/0210249/iea-lowers-renewables-forecast-for-clean-hydrogen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] YouTube is not building a Vision Pro app, so Apollo for Reddit dev made one
-Link: [Click](https://techcrunch.com/2024/02/01/youtube-is-not-building-a-vision-pro-app-so-apollo-for-reddit-dev-made-one/)
+## [Slashdot] EPA Proposes 'Forever Chemicals' Be Considered Hazardous Substances
+```
+An anonymous reader quotes a report from NPR: The Environmental Protection Agency is proposing that nine PFAS, also known as "forever chemicals," be categorized as hazardous to human health. The EPA s
+```
 
-## [Techcrunch] VCs Elad Gil and Sarah Guo on the risks and rewards of funding AI: “The biggest threat to us in the short run is other people”
-Link: [Click](https://techcrunch.com/2024/02/01/renowned-investors-elad-gil-and-sarah-guo-on-the-risks-and-rewards-of-funding-ai-tech-the-biggest-threat-to-us-in-the-short-run-is-other-people/)
+Link: [Click](https://news.slashdot.org/story/24/02/02/2122221/epa-proposes-forever-chemicals-be-considered-hazardous-substances?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] Apple says EU represents 7% of global App Store revenue
-Link: [Click](https://techcrunch.com/2024/02/01/apple-says-eu-represents-7-of-global-app-store-revenue/)
+## [Slashdot] Fans Preserve and Emulate Sega's Extremely Rare '80s 'AI Computer'
+```
+Kyle Orland reports via Ars Technica: Even massive Sega fans would be forgiven for not being too familiar with the Sega AI Computer. After all, the usually obsessive documentation over at Sega Retro i
+```
 
-## [Techcrunch] Indian central bank’s clampdown wipes $2.1 billion off Paytm
-Link: [Click](https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm/)
+Link: [Click](https://games.slashdot.org/story/24/02/02/2136214/fans-preserve-and-emulate-segas-extremely-rare-80s-ai-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] China’s Xpeng is bringing its Tesla FSD equivalent to overseas owners
-Link: [Click](https://techcrunch.com/2024/02/01/chinas-xpeng-is-bringing-its-tesla-fsd-equivalent-to-overseas-owners/)
+## [Slashdot] Japan To Introduce Six-Month Residency Visa For 'Digital Nomads'
+```
+In an effort to boost tourism and innovation, Japan will launch a new visa program for digital nomads, allowing remote workers to work in the country for up to six months while enjoying sightseeing tr
+```
 
-## [Techcrunch] Tesla settles California hazardous waste lawsuit with a $1.5M fine
-Link: [Click](https://techcrunch.com/2024/02/01/tesla-settles-california-hazardous-waste-lawsuit-with-a-1-5-million-fine/)
+Link: [Click](https://slashdot.org/story/24/02/02/2129231/japan-to-introduce-six-month-residency-visa-for-digital-nomads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Techcrunch] UK government urged to adopt more positive outlook for LLMs to avoid missing ‘AI goldrush’
-Link: [Click](https://techcrunch.com/2024/02/01/uk-ai-llms-house-of-lords-report/)
+## [Slashdot] Apple Says EU Represents 7% of Global App Store Revenue
+```
+Ivan Mehta reports via TechCrunch: Nearly a week after Apple announced big changes to the App Store because of the European Union's Digital Markets Act (DMA) rules, the company said that the market re
+```
 
-## [Theregister] Mozilla slams Microsoft for using dark patterns to drive Windows users toward Edge
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/mozilla_slams_microsoft_dark_patterns/)
+Link: [Click](https://apple.slashdot.org/story/24/02/02/217244/apple-says-eu-represents-7-of-global-app-store-revenue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] Amazon extends the life of its servers to six years, expects $900m benefit in 90 days
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/amazon_q4_2023/)
+## [Slashdot] YouTube, Discord, and Lord of the Rings Led Police To a Teen Accused of a US Swatting Spree
+```
+An anonymous reader quotes a report from Wired: A California teenager prosecutors say is responsible for hundreds of swatting attacks around the United States was exposed after law enforcement pieced 
+```
 
-## [Theregister] Wikileaks source and former CIA worker Joshua Schulte sentenced to 40 years jail
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/vault_7_wikileaks_leaker_joshua/)
+Link: [Click](https://yro.slashdot.org/story/24/02/02/2029249/youtube-discord-and-lord-of-the-rings-led-police-to-a-teen-accused-of-a-us-swatting-spree?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## [Theregister] The FCC wants to criminalize AI robocall spam
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/fcc_ai_robocall/)
+## [Theregister] Dell said to be preparing broad Return To Office order this Monday
+Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/03/dell_return_to_work/)
 
-## [Theregister] Cloudflare sheds more light on Thanksgiving security breach in which tokens, source code accessed by suspected spies
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/02/cloudflare_okta_atlassian/)
-
-## [Theregister] Congress told how Chinese goons plan to incite 'societal chaos' in the US
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/02/01/china_attack_warning/)
-
-## [Theregister] DeepMind AI helps cook up 'novel' compounds – with sides of controversy
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/ai_chemistry_research_disputed/)
-
-## [Theregister] Microsoft posts another set of bumper results. Market's response? Meh
-Link: [Click](https://go.theregister.com/feed/www.theregister.com/2024/01/31/microsoft_results/)
-
-## [Theverge] Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU
-Link: [Click](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
+## [Theverge] ‘There is no such thing as a real picture,’ says Samsung exec
+Link: [Click](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)
